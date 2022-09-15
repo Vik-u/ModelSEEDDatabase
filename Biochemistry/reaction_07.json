@@ -2172,7 +2172,7 @@
         ],
         "pathways": null,
         "reversibility": "?",
-        "source": "Orphan",
+        "source": "Primary Database",
         "status": "MI:C:19/H:34/N:1/O:2/R:1",
         "stoichiometry": [
             {

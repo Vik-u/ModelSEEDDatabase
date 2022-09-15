@@ -58,7 +58,7 @@
         "abbreviation": "Pyrimidine-Bases",
         "abstract_compound": null,
         "aliases": [
-            "Name: Pyrimidine-Bases",
+            "Name: Pyrimidine-Bases; a pyrimidine nucleobase; pyrimidine bases; pyrimidine nucleobase; pyrimidine nucleobases",
             "EcoCyc: Pyrimidine-Bases",
             "MetaCyc: Pyrimidine-Bases"
         ],
@@ -555,7 +555,7 @@
         "abbreviation": "R-2-Haloacids",
         "abstract_compound": null,
         "aliases": [
-            "Name: R-2-Haloacids",
+            "Name: (R)-2-haloacids; (R)-2-halocarboxylate; (R)-2-halocarboxylates; (R)-2-halocarboxylic acid anions; R-2-Haloacids; an (R)-2-haloacid",
             "MetaCyc: R-2-Haloacids"
         ],
         "charge": -1,
@@ -640,7 +640,7 @@
         "abbreviation": "R-2-methyl-butyryl-CoA",
         "abstract_compound": null,
         "aliases": [
-            "Name: R-2-methyl-butyryl-CoA",
+            "Name: (2R)-hydroxybutanoyl-CoA; (R)-2-hydroxybutyryl-CoA(4-); R-2-methyl-butyryl-CoA",
             "MetaCyc: R-2-METHYLBURYRYL-COA"
         ],
         "charge": -4,
@@ -1063,7 +1063,7 @@
         "abbreviation": "RHg",
         "abstract_compound": null,
         "aliases": [
-            "Name: RHg",
+            "Name: RHg; RHg(+); an alkylmercury; primary alkymercury cation",
             "MetaCyc: RHg"
         ],
         "charge": 1,
@@ -2845,7 +2845,7 @@
         "abbreviation": "Retinols",
         "abstract_compound": null,
         "aliases": [
-            "Name: Retinols",
+            "Name: 3,7-dimethyl-9-(2,6,6-trimethylcyclohex-1-en-1-yl)nona-2,4,6,8-tetraen-1-ol; Retinols",
             "AraCyc: Retinols",
             "CornCyc: Retinols",
             "MetaCyc: Retinols"
@@ -3556,7 +3556,7 @@
         "abbreviation": "2-aminoethylcysteine",
         "abstract_compound": null,
         "aliases": [
-            "Name: 2-aminoethylcysteine; 4-thialysine; S-(2-aminoethyl)-L-cysteine; S-L-aminoethyl cysteine; aminoethylcysteine; gamma-thialysine; thialysine",
+            "Name: 2-aminoethylcysteine; 4-thialysine; S-(2-aminoethyl)-L-cysteine; S-(beta-aminoethyl)-L-cysteine; S-L-aminoethyl cysteine; aminoethylcysteine; gamma-thialysine; thialysine",
             "CornCyc: S-2-AMINOETHYL-L-CYSTEINE",
             "EcoCyc: S-2-AMINOETHYL-L-CYSTEINE",
             "MetaCyc: S-2-AMINOETHYL-L-CYSTEINE",
@@ -3590,7 +3590,7 @@
         "abbreviation": "S-2-Haloacids",
         "abstract_compound": null,
         "aliases": [
-            "Name: S-2-Haloacids",
+            "Name: (S)-2-haloacids; (S)-2-halocarboxylate; (S)-2-halocarboxylates; (S)-2-halocarboxylic acid anions; S-2-Haloacids; an (S)-2-haloacid",
             "MaizeCyc: S-2-Haloacids",
             "MetaCyc: S-2-Haloacids"
         ],
@@ -3829,7 +3829,7 @@
         "abbreviation": "(S)-benzylsuccinyl-CoA",
         "abstract_compound": null,
         "aliases": [
-            "Name: (S)-benzylsuccinyl-CoA",
+            "Name: (S)-2-benzylsuccinyl-CoA; (S)-benzylsuccinyl-CoA",
             "MetaCyc: S-BENZYLSUCCINYL-COA"
         ],
         "charge": -5,
@@ -3984,7 +3984,7 @@
         "abbreviation": "GSNO",
         "abstract_compound": null,
         "aliases": [
-            "Name: GSNO; S-Nitrosoglutathione; S-nitrosoglutathione",
+            "Name: (2S)-2-ammonio-5-{[(2S)-1-[(carboxylatomethyl)amino]-3-(nitrosothio)-1-oxopropan-2-yl]amino}-5-oxopentanoate; (2S)-2-azaniumyl-5-{[(2R)-1-[(carboxylatomethyl)amino]-3-(nitrososulfanyl)-1-oxopropan-2-yl]amino}-5-oxopentanoate; GSNO; GSNO(1-); L-gamma-glutamyl-S-nitroso-L-cysteinylglycine(1-); S-Nitrosoglutathione; S-nitrosoglutathione",
             "EcoCyc: S-NITROSOGLUTATHIONE",
             "MetaCyc: S-NITROSOGLUTATHIONE",
             "iRR1083: nglut-S"
@@ -4347,7 +4347,7 @@
         "abbreviation": "Se-2",
         "abstract_compound": null,
         "aliases": [
-            "Name: H2Se; Hydrogen selenide; Se-2; Selenide; [SeH2]; dihydridoselenium; dihydrogen selenide; hydrogen selenide; selane; selenide; selenide ion",
+            "Name: H2Se; HSe(-); Hydrogen selenide; Se-2; Selenide; [SeH2]; dihydridoselenium; dihydrogen selenide; hydrogen selenide; hydrogen(selenide)(1-); hydrogenselenide; selane; selanide; selenide; selenide ion",
             "AraCyc: CPD-678; SE-2",
             "BiGG: seln",
             "BrachyCyc: CPD-678",
@@ -6178,7 +6178,7 @@
         "abbreviation": "(E)-2-nonen-1-al",
         "abstract_compound": null,
         "aliases": [
-            "Name: (E)-2-nonen-1-al; (E)-2-nonenal; 3-hexyl-2-propenal; heptylidene acetaldehyde; t-2-nonenal; trans-2-nonealdehyde; trans-2-nonen-1-al",
+            "Name: (2E)-2-nonenal; (2E)-non-2-enal; (2E)-nonenal; (E)-2-nonen-1-al; (E)-2-nonenal; (E)-non-2-enal; 2-trans-nonenal; 3-hexyl-2-propenal; heptylidene acetaldehyde; t-2-nonenal; trans-2-nonealdehyde; trans-2-nonen-1-al; trans-2-nonenal; trans-non-2-enal",
             "MetaCyc: T-2-NONENAL-CMPD"
         ],
         "charge": 0,
@@ -6274,7 +6274,7 @@
         "abbreviation": "TETRA-H-BIOPTERIN",
         "abstract_compound": null,
         "aliases": [
-            "Name: TETRA-H-BIOPTERIN",
+            "Name: (6R)-2-amino-6-(1,2-dihydroxypropyl)-5,6,7,8-tetrahydropteridin-4(1H)-one; TETRA-H-BIOPTERIN",
             "AraCyc: TETRA-H-BIOPTERIN",
             "BrachyCyc: TETRA-H-BIOPTERIN",
             "ChlamyCyc: TETRA-H-BIOPTERIN",
@@ -6461,7 +6461,7 @@
         "abbreviation": "3-thiazol-2'-yl-indole",
         "abstract_compound": null,
         "aliases": [
-            "Name: 3-(thiazol-2-yl)indole; 3-thiazol-2'-yl-indole; camalexin",
+            "Name: 3-(1,3-thiazol-2-yl)-1H-indole; 3-(thiazol-2-yl)indole; 3-thiazol-2'-yl-indole; camalexin",
             "AraCyc: THIAZOL-YL-INDOLE",
             "DF_Athaliana: THIAZOL-YL-INDOLE",
             "MetaCyc: THIAZOL-YL-INDOLE",
@@ -6729,7 +6729,7 @@
         "abbreviation": "trans-2-hexenol",
         "abstract_compound": null,
         "aliases": [
-            "Name: (E)-2-hexenol; trans-2-hexenol",
+            "Name: (E)-2-hexen-1-ol; (E)-2-hexenol; (E)-hex-2-en-1-ol; 2-(E)-hexenol; trans-2-hexen-1-ol; trans-2-hexenol; trans-hex-2-en-1-ol",
             "AraCyc: TRANS-2-HEXENOL",
             "BrachyCyc: TRANS-2-HEXENOL",
             "CornCyc: TRANS-2-HEXENOL",
@@ -9219,7 +9219,7 @@
         "abbreviation": "Uridine2479-in-23S-rRNA",
         "abstract_compound": null,
         "aliases": [
-            "Name: Uridine2479-in-23S-rRNA",
+            "Name: Uridine2479-in-23S-rRNA; uridine(2479) in 23S rRNA",
             "MetaCyc: Uridine2479-in-23S-rRNA"
         ],
         "charge": -2,
@@ -9247,7 +9247,7 @@
         "abbreviation": "Uridine31-in-tRNA",
         "abstract_compound": null,
         "aliases": [
-            "Name: Uridine31-in-tRNA",
+            "Name: Uridine31-in-tRNA; uridine(31) in tRNA",
             "MetaCyc: Uridine31-in-tRNA"
         ],
         "charge": -2,
@@ -9275,7 +9275,7 @@
         "abbreviation": "Uridine32-in-tRNA",
         "abstract_compound": null,
         "aliases": [
-            "Name: Uridine32-in-tRNA",
+            "Name: Uridine32-in-tRNA; uridine(32) in tRNA",
             "EcoCyc: Uridine32-in-tRNA",
             "MetaCyc: Uridine32-in-tRNA"
         ],
@@ -9304,7 +9304,7 @@
         "abbreviation": "Uridine44-in-tRNA-Ser",
         "abstract_compound": null,
         "aliases": [
-            "Name: Uridine44-in-tRNA-Ser",
+            "Name: Uridine44-in-tRNA-Ser; uridine(44) in tRNA(Ser)",
             "MetaCyc: Uridine44-in-tRNA-Ser"
         ],
         "charge": -2,
@@ -15261,7 +15261,7 @@
         "abbreviation": "mature-tRNA",
         "abstract_compound": null,
         "aliases": [
-            "Name: mature-tRNA",
+            "Name: mature tRNA; mature-tRNA",
             "EcoCyc: mature-tRNA",
             "MetaCyc: mature-tRNA"
         ],
@@ -21906,7 +21906,7 @@
         "abbreviation": "docosapentaenoyl-2-enoyl-CoA",
         "abstract_compound": null,
         "aliases": [
-            "Name: (2E,7Z,10Z,13Z,16Z,19Z)-docosa-2,7,10,13,16,19-hexaenoyl-CoA; (2E,7Z,10Z,13Z,16Z,19Z)-docosahexaenoyl-CoA; docosapentaenoyl-2-enoyl-CoA",
+            "Name: (2E,7Z,10Z,13Z,16Z,19Z)-docosa-2,7,10,13,16,19-hexaenoyl-CoA; (2E,7Z,10Z,13Z,16Z,19Z)-docosahexaenoyl-CoA; (2E,7Z,10Z,13Z,16Z,19Z)-docosahexaenoyl-coenzyme A(4-); 2trans,7cis,10cis,13cis,16cis,19cis-docosahexaenoyl-CoA(4-); 3'-phosphonatoadenosine 5'-{3-[(3R)-4-({3-[(2-{[(2E,7Z,10Z,13Z,16Z,19Z)-docosa-2,7,10,13,16,19-hexaenoyl]sulfanyl}ethyl)amino]-3-oxopropyl}amino)-3-hydroxy-2,2-dimethyl-4-oxobutyl] diphosphate}; docosapentaenoyl-2-enoyl-CoA",
             "MetaCyc: CPD-14425",
             "PlantCyc: CPD-14425"
         ],
@@ -25828,7 +25828,7 @@
         "abbreviation": "24-hydroxytetracosanoate",
         "abstract_compound": null,
         "aliases": [
-            "Name: 24-hydroxytetracosanoate; 24-hydroxytetracosanoic acid; omega-hydroxytetracosanoic acid",
+            "Name: 24-OH-C24:0(1-); 24-hydroxylignocerate; 24-hydroxytetracosanoate; 24-hydroxytetracosanoic acid; omega-hydroxylignocerate; omega-hydroxytetracosanoic acid",
             "AraCyc: CPDQT-115"
         ],
         "charge": 0,
@@ -25848,7 +25848,7 @@
         "pka": "",
         "pkb": "",
         "smiles": "",
-        "source": "Secondary Database"
+        "source": "Primary Database"
     },
     {
         "abbreviation": "14-heptacosanone",
@@ -26297,7 +26297,7 @@
         "abbreviation": "2-hydroxy-eicosanoate",
         "abstract_compound": null,
         "aliases": [
-            "Name: 2-hydroxy-eicosanoate; 2-hydroxy-eicosanoic acid; 2-hydroxyarachic acid; 2-hydroxyicosanoic acid; alpha-hydroxyarachic acid; alpha-hydroxyarachidic acid; alpha-hydroxyeicosanoic acid; eicosanoic acid, 2-hydroxy-",
+            "Name: 2-hydroxy-eicosanoate; 2-hydroxy-eicosanoic acid; 2-hydroxyarachic acid; 2-hydroxyeicosanoate; 2-hydroxyicosanoate; 2-hydroxyicosanoic acid; alpha-hydroxyarachic acid; alpha-hydroxyarachidate; alpha-hydroxyarachidic acid; alpha-hydroxyeicosanoate; alpha-hydroxyeicosanoic acid; alpha-hydroxyicosanoate; eicosanoic acid, 2-hydroxy-",
             "AraCyc: CPDQT-181"
         ],
         "charge": 0,
@@ -26317,7 +26317,7 @@
         "pka": "",
         "pkb": "",
         "smiles": "",
-        "source": "Secondary Database"
+        "source": "Primary Database"
     },
     {
         "abbreviation": "2-carbomethoxynaphthalene",
@@ -26687,7 +26687,7 @@
         "abbreviation": "1-glyceryl stearate",
         "abstract_compound": null,
         "aliases": [
-            "Name: 1-glyceryl stearate; 1-monooctadecanoylglycerol; 1-monostearin; 1-monostearoyl-rac-glycerol; 1-monostearoylglycerol; 2,3-dihydroxypropyl octadecanoate; 3-stearoyloxy-1,2-propanediol; alpha-monostearin; glycerin 1-monostearate; glycerin 1-stearate; glycerol 1-monostearate; glycerol 1-stearate; glycerol alpha-monostearate; glyceryl 1-octadecanoate; stearic acid 1-monoglyceride; stearic acid alpha-monoglyceride; stearin, 1-mono-",
+            "Name: 1-Stearoyl-glycerol; 1-glyceryl stearate; 1-monooctadecanoylglycerol; 1-monostearin; 1-monostearoyl-rac-glycerol; 1-monostearoylglycerol; 1-octadecanoylglycerol; 2,3-dihydroxypropyl octadecanoate; 3-stearoyloxy-1,2-propanediol; Glyceryl monostearate; MAG(18:0); MAG(18:0/0:0); MG(18:0); MG(18:0/0:0); alpha-monostearin; glycerin 1-monostearate; glycerin 1-stearate; glycerol 1-monostearate; glycerol 1-octadecanoate; glycerol 1-stearate; glycerol alpha-monostearate; glyceryl 1-octadecanoate; stearic acid 1-monoglyceride; stearic acid alpha-monoglyceride; stearin, 1-mono-",
             "AraCyc: CPDQT-225"
         ],
         "charge": 0,
@@ -26707,7 +26707,7 @@
         "pka": "",
         "pkb": "",
         "smiles": "",
-        "source": "Secondary Database"
+        "source": "Primary Database"
     },
     {
         "abbreviation": "cholest-5-ene-3-ol, 24-methyl",

@@ -3,7 +3,7 @@
         "abbreviation": "Dicarboxylate",
         "abstract_compound": null,
         "aliases": [
-            "Name: Dicarboxylate; Dicarboxylic acid",
+            "Name: Dicarboxylate; Dicarboxylic acid; a dicarboxylate; dicarboxylates; dicarboxylic acid dianion; dicarboxylic acid dianions",
             "KEGG: C02028"
         ],
         "charge": -2,
@@ -88,7 +88,7 @@
         "abbreviation": "leutrna",
         "abstract_compound": null,
         "aliases": [
-            "Name: L-Leucyl-tRNA; L-Leucyl-tRNA(Leu)",
+            "Name: L-Leucyl-tRNA; L-Leucyl-tRNA(Leu); L-leucyl-tRNA(Leu)",
             "AlgaGEM: S_L_45_Leucyl_45_tRNA_c",
             "AraGEM: S_L_45_Leucyl_45_tRNA_40_Leu_41__c",
             "BiGG: leutrna",
@@ -552,7 +552,7 @@
         "abbreviation": "Tropine ester",
         "abstract_compound": null,
         "aliases": [
-            "Name: O-Acyltropine; Tropine ester",
+            "Name: O-Acyltropine; O-acyltropine; Tropine ester",
             "KEGG: C02089"
         ],
         "charge": 0,
@@ -902,7 +902,7 @@
         "abbreviation": "Dialkyl ketone",
         "abstract_compound": null,
         "aliases": [
-            "Name: DIALKYLKETONE-CPD; Dialkyl ketone; dialkyl ketone",
+            "Name: DIALKYLKETONE-CPD; Dialkyl ketone; dialkyl ketone; dialkyl ketones",
             "KEGG: C02146",
             "MetaCyc: DIALKYLKETONE-CPD"
         ],
@@ -983,7 +983,7 @@
         "abbreviation": "argtrna",
         "abstract_compound": null,
         "aliases": [
-            "Name: L-Arginyl-tRNA; L-Arginyl-tRNA(Arg)",
+            "Name: L-Arginyl-tRNA; L-Arginyl-tRNA(Arg); L-arginyl-tRNA(Arg)",
             "AlgaGEM: S_L_45_Arginyl_45_tRNA_40_Arg_41__c",
             "AraGEM: S_L_45_Arginyl_45_tRNA_40_Arg_41__c",
             "BiGG: argtrna",
@@ -1357,7 +1357,7 @@
         "abbreviation": "Alkyl sulfenate",
         "abstract_compound": null,
         "aliases": [
-            "Name: Alkyl sulfenate",
+            "Name: Alkyl sulfenate; S-alkyl-SO-thioperoxol; S-alkyl-SO-thioperoxols; S-alkylsulfenic acids; alkyl sulfenates; an S-alkyl sulfenate",
             "KEGG: C02245"
         ],
         "charge": 0,
@@ -1411,7 +1411,7 @@
         "abbreviation": "Apocytochrome c",
         "abstract_compound": null,
         "aliases": [
-            "Name: Apocytochrome c",
+            "Name: Apocytochrome c; apo-[cytochrome c]",
             "AlgaGEM: S_Apocytochrome_32_c_c",
             "BiGG: apocytc",
             "JP_Creinhardtii_MSB: M_apocytc_h; M_apocytc_m",
@@ -1629,7 +1629,7 @@
         "abbreviation": "glntrna",
         "abstract_compound": null,
         "aliases": [
-            "Name: Gln-tRNA(Gln); Glutaminyl-tRNA; Glutaminyl-tRNA(Gln); L-Glutaminyl-tRNA(Gln)",
+            "Name: Gln-tRNA(Gln); Glutaminyl-tRNA; Glutaminyl-tRNA(Gln); L-Glutaminyl-tRNA(Gln); L-glutaminyl-tRNA(Gln)",
             "AlgaGEM: S_Glutaminyl_45_tRNA_c",
             "AraGEM: S_Glutaminyl_45_tRNA_40_Gln_41__c",
             "BiGG: glntrna",
@@ -1946,7 +1946,7 @@
         "abbreviation": "Protein dithiol",
         "abstract_compound": null,
         "aliases": [
-            "Name: Protein dithiol",
+            "Name: Protein dithiol; [protein]-dithiol",
             "AlgaGEM: S_Protein_32_dithiol_c",
             "AraGEM: S_Protein_32_dithiol_c",
             "BiGG: protdt",
@@ -2312,7 +2312,7 @@
         "abbreviation": "14bxyl",
         "abstract_compound": null,
         "aliases": [
-            "Name: (1,4-beta-D-Xylan)n; (1,4-beta-D-Xylan)n+1; 1,4-beta-D-Xylan; Xylan",
+            "Name: (1,4-beta-D-Xylan)n; (1,4-beta-D-Xylan)n+1; 1,4-beta-D-Xylan; Xylan; [(1->4)-beta-D-xylan](n); [(1->4)-beta-D-xylan](n+1)",
             "AraGEM: S_1_44_4_45_beta_45_D_45_Xylan_c",
             "BiGG: 14bxyl",
             "DF_Athaliana: 14-BETA-D-XYLANN",
@@ -2323,9 +2323,9 @@
         "comprised_of": null,
         "deltag": 10000000.0,
         "deltagerr": 10000000.0,
-        "formula": "C5H8O4R2",
+        "formula": "C5H10O5",
         "id": "cpd12085",
-        "inchikey": "",
+        "inchikey": "SRBFZHDQGSBBOR-KKQCNMDGSA-N",
         "is_cofactor": 0,
         "is_core": 1,
         "is_obsolete": 0,
@@ -2335,7 +2335,7 @@
         "notes": null,
         "pka": "",
         "pkb": "",
-        "smiles": "",
+        "smiles": "O[C@H]1[C@H](O)CO[C@@H](O)[C@@H]1O",
         "source": "Primary Database"
     },
     {
@@ -2553,7 +2553,7 @@
         "abbreviation": "Alkanate",
         "abstract_compound": null,
         "aliases": [
-            "Name: Alkanate; Alkane acid; Fatty acid anion",
+            "Name: Alkanate; Alkane acid; Fatty acid anion; Fettsaeureanion; Fettsaeureanionen; a fatty acid; acido graso anionico; acidos grasos anionicos; anion de l'acide gras; fatty acid anions",
             "KEGG: C02403"
         ],
         "charge": -1,
@@ -2685,7 +2685,7 @@
         "abbreviation": "glytrna",
         "abstract_compound": null,
         "aliases": [
-            "Name: Glycyl-tRNA(Gly)",
+            "Name: Glycyl-tRNA(Gly); glycyl-tRNA(Gly)",
             "AlgaGEM: S_Glycyl_45_tRNA_40_Gly_41__c",
             "AraGEM: S_Glycyl_45_tRNA_40_Gly_41__c",
             "BiGG: glytrna",
@@ -2801,7 +2801,7 @@
         "abbreviation": "mettrna",
         "abstract_compound": null,
         "aliases": [
-            "Name: L-Methionyl-tRNA; L-Methionyl-tRNA (Met); L-Methionyl-tRNA(Met)",
+            "Name: L-Methionyl-tRNA; L-Methionyl-tRNA (Met); L-Methionyl-tRNA(Met); L-methionyl-tRNA(Met)",
             "AlgaGEM: S_L_45_Methionyl_45_tRNA_c",
             "AraGEM: S_L_45_Methionyl_45_tRNA_40_Met_41__c",
             "BiGG: mettrna",
@@ -2920,7 +2920,7 @@
         "abbreviation": "O-Alkylglycerone",
         "abstract_compound": null,
         "aliases": [
-            "Name: O-ALKYLGLYCERONE; O-Alkylglycerone; O-alkylglycerone",
+            "Name: 1-alkyl-glycerones; O-ALKYLGLYCERONE; O-Alkylglycerone; O-alkylglycerone; O-alkylglycerones",
             "KEGG: C02446",
             "MetaCyc: O-ALKYLGLYCERONE"
         ],
@@ -3029,16 +3029,16 @@
         "abbreviation": "[Glu(-Cys)]n-Gly",
         "abstract_compound": null,
         "aliases": [
-            "Name: (gamma-Glutamylcysteine)n-glycine; Poly(gamma-glutamylcysteine)glycine; [Glu(-Cys)]n-Gly",
+            "Name: (gamma-Glutamylcysteine)n-glycine; Poly(gamma-glutamylcysteine)glycine; [Glu(-Cys)](n)-Gly; [Glu(-Cys)]n-Gly",
             "KEGG: C02471"
         ],
-        "charge": -1,
+        "charge": 0,
         "comprised_of": null,
         "deltag": 10000000.0,
         "deltagerr": 10000000.0,
-        "formula": "C10H16N3O6S",
+        "formula": "C10H17N3O6S",
         "id": "cpd12113",
-        "inchikey": "",
+        "inchikey": "RWSXRVCMGQZWBV-WDSKDSINSA-N",
         "is_cofactor": 0,
         "is_core": 1,
         "is_obsolete": 0,
@@ -3048,7 +3048,7 @@
         "notes": null,
         "pka": "",
         "pkb": "",
-        "smiles": "",
+        "smiles": "N[C@@H](CCC(=O)N[C@@H](CS)C(=O)NCC(=O)O)C(=O)O",
         "source": "Primary Database"
     },
     {
@@ -3111,7 +3111,7 @@
         "abbreviation": "alpha-L-Fucoside",
         "abstract_compound": null,
         "aliases": [
-            "Name: alpha-L-Fucoside; alpha-L-fucoside",
+            "Name: alpha-L-Fucoside; alpha-L-fucoside; alpha-L-fucosides; an alpha-L-fucoside",
             "AraCyc: AN-ALPHA-L-FUCOSIDE",
             "BrachyCyc: AN-ALPHA-L-FUCOSIDE",
             "CornCyc: AN-ALPHA-L-FUCOSIDE",
@@ -3362,7 +3362,7 @@
         "abbreviation": "Aliphatic alcohol",
         "abstract_compound": null,
         "aliases": [
-            "Name: Aliphatic alcohol",
+            "Name: Aliphatic alcohol; aliphatic alcohols; an aliphatic alcohol",
             "KEGG: C02525"
         ],
         "charge": 0,
@@ -3552,7 +3552,7 @@
         "abbreviation": "sertrna",
         "abstract_compound": null,
         "aliases": [
-            "Name: L-Seryl-tRNA(Ser)",
+            "Name: L-Seryl-tRNA(Ser); L-seryl-tRNA(Ser)",
             "AlgaGEM: S_L_45_Seryl_45_tRNA_40_Ser_41__c",
             "AraGEM: S_L_45_Seryl_45_tRNA_40_Ser_41__c",
             "BiGG: sertrna",
@@ -3582,7 +3582,7 @@
         "abbreviation": "valtrna",
         "abstract_compound": null,
         "aliases": [
-            "Name: L-Valyl-tRNA(Val)",
+            "Name: L-Valyl-tRNA(Val); L-valyl-tRNA(Val)",
             "AlgaGEM: S_L_45_Valyl_45_tRNA_40_Val_41__c",
             "AraGEM: S_L_45_Valyl_45_tRNA_40_Val_41__c",
             "BiGG: valtrna",
@@ -3741,7 +3741,7 @@
         "abbreviation": "Protein disulfide",
         "abstract_compound": null,
         "aliases": [
-            "Name: Protein disulfide",
+            "Name: Protein disulfide; [protein]-disulfide",
             "AlgaGEM: S_Protein_32_disulfide_c",
             "AraGEM: S_Protein_32_disulfide_c",
             "BiGG: protds",
@@ -3801,7 +3801,7 @@
         "abbreviation": "S-Acylglutathione",
         "abstract_compound": null,
         "aliases": [
-            "Name: S-Acylglutathione",
+            "Name: S-Acylglutathione; S-acylglutathionate anion; S-acylglutathione",
             "KEGG: C02589"
         ],
         "charge": -1,
@@ -3883,7 +3883,7 @@
         "abbreviation": "alpha-D-Mannoside",
         "abstract_compound": null,
         "aliases": [
-            "Name: alpha-D-Mannoside",
+            "Name: alpha-D-Mannoside; alpha-D-mannopyranoside; alpha-D-mannopyranosides; alpha-D-mannose derivative; alpha-D-mannosides",
             "KEGG: C02603"
         ],
         "charge": 0,
@@ -3965,7 +3965,7 @@
         "abbreviation": "(S)-2-Hydroxyacid",
         "abstract_compound": null,
         "aliases": [
-            "Name: (2S)-2-Hydroxycarboxylate; (S)-2-Hydroxy acid; (S)-2-Hydroxyacid; (S)-2-Hydroxyalkanoic acid; (S)-2-Hydroxycarboxylic acid; L-2-hydroxyacids",
+            "Name: (2S)-2-Hydroxycarboxylate; (2S)-2-hydroxy monocarboxylate; (2S)-2-hydroxy monocarboxylates; (2S)-2-hydroxy monocarboxylic acid anions; (2S)-2-hydroxycarboxylate; (2S)-alpha-hydroxy monocarboxylic acid anion; (2S)-alpha-hydroxy monocarboxylic acid anions; (S)-2-Hydroxy acid; (S)-2-Hydroxyacid; (S)-2-Hydroxyalkanoic acid; (S)-2-Hydroxycarboxylic acid; (S)-2-hydroxyacid anion; (S)-2-hydroxyacid anions; L-2-hydroxyacids; a (2S)-2-hydroxycarboxylate",
             "KEGG: C02613; C15565",
             "MetaCyc: L-2-hydroxyacids",
             "iRS1563: M_C02613_c"
@@ -4021,7 +4021,7 @@
         "abbreviation": "2,2-Dialkylglycine",
         "abstract_compound": null,
         "aliases": [
-            "Name: 2,2-Dialkylglycine; 2,2-dialkylglycine; CPD-50",
+            "Name: 2,2-Dialkylglycine; 2,2-dialkylglycine; 2,2-dialkylglycine zwitterions; CPD-50",
             "KEGG: C02623",
             "MetaCyc: CPD-50"
         ],
@@ -4210,7 +4210,7 @@
         "abbreviation": "D-Hexose phosphate",
         "abstract_compound": null,
         "aliases": [
-            "Name: D-Hexose phosphate",
+            "Name: D-Hexose phosphate; D-hexose phosphate",
             "KEGG: C02672"
         ],
         "charge": 0,
@@ -4435,7 +4435,7 @@
         "abbreviation": "protrna",
         "abstract_compound": null,
         "aliases": [
-            "Name: L-Prolyl-tRNA(Pro)",
+            "Name: L-Prolyl-tRNA(Pro); L-prolyl-tRNA(Pro)",
             "AlgaGEM: S_L_45_Prolyl_45_tRNA_40_Pro_41__c",
             "AraGEM: S_L_45_Prolyl_45_tRNA_40_Pro_41__c",
             "BiGG: protrna",
@@ -4660,7 +4660,7 @@
         "abbreviation": "Reduced flavodoxin",
         "abstract_compound": null,
         "aliases": [
-            "Name: Reduced flavodoxin",
+            "Name: Reduced flavodoxin; reduced [flavodoxin]",
             "KEGG: C02745",
             "TS_Athaliana: met1100_c; met1100_g; met1100_m; met1100_p; met1100_v"
         ],
@@ -4741,16 +4741,16 @@
         "abbreviation": "[Glu(-Cys)]n+1-Gly",
         "abstract_compound": null,
         "aliases": [
-            "Name: [Glu(-Cys)]n+1-Gly",
+            "Name: [Glu(-Cys)](n+1)-Gly; [Glu(-Cys)]n+1-Gly",
             "KEGG: C02755"
         ],
-        "charge": -2,
+        "charge": 0,
         "comprised_of": null,
         "deltag": 10000000.0,
         "deltagerr": 10000000.0,
-        "formula": "C18H27N5O10S2",
+        "formula": "C10H17N3O6S",
         "id": "cpd12176",
-        "inchikey": "",
+        "inchikey": "RWSXRVCMGQZWBV-WDSKDSINSA-N",
         "is_cofactor": 0,
         "is_core": 1,
         "is_obsolete": 0,
@@ -4760,7 +4760,7 @@
         "notes": null,
         "pka": "",
         "pkb": "",
-        "smiles": "",
+        "smiles": "N[C@@H](CCC(=O)N[C@@H](CS)C(=O)NCC(=O)O)C(=O)O",
         "source": "Primary Database"
     },
     {
@@ -4961,7 +4961,7 @@
         "abbreviation": "1-Alkyl-sn-glycerol",
         "abstract_compound": null,
         "aliases": [
-            "Name: 1-Alkyl-sn-glycerol; 1-O-Alkyl-sn-glycerol; 1-O-alkyl-sn-glycerol; 1-alkyl-sn-glycerol",
+            "Name: 1-Alkyl-sn-glycerol; 1-O-Alkyl-sn-glycerol; 1-O-alkyl-sn-glycerol; 1-O-alkyl-sn-glycerols; 1-alkyl-sn-glycerol; 1-alkyl-sn-glycerols",
             "KEGG: C02773",
             "MetaCyc: 1-ALKYL-SN-GLYCEROL"
         ],
@@ -5039,7 +5039,7 @@
         "abbreviation": "3'-Hydroxyflavonoid",
         "abstract_compound": null,
         "aliases": [
-            "Name: 3'-Hydroxyflavonoid",
+            "Name: 3'-Hydroxyflavonoid; 3'-hydroxyflavones; 3'-hydroxyflavonoids; a 3'-hydroxyflavone",
             "KEGG: C02790"
         ],
         "charge": 0,
@@ -5117,7 +5117,7 @@
         "abbreviation": "Calmodulin L-lysine",
         "abstract_compound": null,
         "aliases": [
-            "Name: Calmodulin L-lysine",
+            "Name: Calmodulin L-lysine; [calmodulin]-L-lysine",
             "KEGG: C02816"
         ],
         "charge": 1,
@@ -5223,7 +5223,7 @@
         "abbreviation": "tyrtrna",
         "abstract_compound": null,
         "aliases": [
-            "Name: L-Tyrosyl-tRNA(Tyr)",
+            "Name: L-Tyrosyl-tRNA(Tyr); L-tyrosyl-tRNA(Tyr)",
             "AlgaGEM: S_L_45_Tyrosyl_45_tRNA_40_Tyr_41__c",
             "AraGEM: S_L_45_Tyrosyl_45_tRNA_40_Tyr_41__c",
             "BiGG: tyrtrna",
@@ -5476,7 +5476,7 @@
         "abbreviation": "N5-Acyl-L-ornithine",
         "abstract_compound": null,
         "aliases": [
-            "Name: N5-Acyl-L-ornithine",
+            "Name: N(5)-acyl-L-ornithine; N5-Acyl-L-ornithine",
             "KEGG: C02858"
         ],
         "charge": 0,
@@ -5504,7 +5504,7 @@
         "abbreviation": "N6-Alkylaminopurine",
         "abstract_compound": null,
         "aliases": [
-            "Name: N6-Alkylaminopurine",
+            "Name: 6-alkylaminopurines; N6-Alkylaminopurine; an N(6)-alkylaminopurine",
             "KEGG: C02860"
         ],
         "charge": 0,
@@ -5586,7 +5586,7 @@
         "abbreviation": "Oxidized flavodoxin",
         "abstract_compound": null,
         "aliases": [
-            "Name: Oxidized flavodoxin",
+            "Name: Oxidized flavodoxin; oxidized [flavodoxin]",
             "KEGG: C02869",
             "TS_Athaliana: met1026_c; met1026_g; met1026_m; met1026_p; met1026_v"
         ],
@@ -5669,7 +5669,7 @@
         "abbreviation": "Protoaphin aglucone",
         "abstract_compound": null,
         "aliases": [
-            "Name: Protoaphin aglucone; Protoaphin aglycone; protoaphin aglucone",
+            "Name: (1R,1'R,3R,3'R,4S,4'S)-4,4',7,9,9',10-hexahydroxy-1,1',3,3'-tetramethyl-5',10'-dioxo-3,3',4,4',5',10'-hexahydro-1H,1'H-5,6'-bibenzo[g]isochromen-7'-olate; Protoaphin aglucone; Protoaphin aglycone; protoaphin aglucone",
             "KEGG: C02879",
             "MetaCyc: PROTOAPHIN-AGLUCONE"
         ],
@@ -5754,7 +5754,7 @@
         "abbreviation": "S-Alkyl thiosulfate",
         "abstract_compound": null,
         "aliases": [
-            "Name: S-ALKYL-THIOSULFATE; S-Alkyl thiosulfate; S-alkyl thiosulfate",
+            "Name: S-ALKYL-THIOSULFATE; S-Alkyl thiosulfate; S-alkyl thiosulfate; S-alkyl thiosulfate anions; S-alkyl thiosulfate(1-)",
             "KEGG: C02885",
             "MetaCyc: S-ALKYL-THIOSULFATE"
         ],
@@ -6061,7 +6061,7 @@
         "abbreviation": "asptrna",
         "abstract_compound": null,
         "aliases": [
-            "Name: L-Aspartyl-tRNA(Asp)",
+            "Name: L-Aspartyl-tRNA(Asp); L-aspartyl-tRNA(Asp)",
             "AlgaGEM: S_L_45_Aspartyl_45_tRNA_40_Asp_41__c",
             "AraGEM: S_L_45_Aspartyl_45_tRNA_40_Asp_41__c",
             "BiGG: asptrna",
@@ -6091,7 +6091,7 @@
         "abbreviation": "glutrna",
         "abstract_compound": null,
         "aliases": [
-            "Name: L-Glutamyl-tRNA(Glu); L-Glutamyl-tRNA-Glu",
+            "Name: L-Glutamyl-tRNA(Glu); L-Glutamyl-tRNA-Glu; L-glutamyl-tRNA(Glu)",
             "AlgaGEM: S_L_45_Glutamyl_45_tRNA_40_Glu_41__c",
             "AraGEM: S_L_45_Glutamyl_45_tRNA_40_Glu_41__c",
             "BiGG: glutrna",
@@ -6121,7 +6121,7 @@
         "abbreviation": "histrna",
         "abstract_compound": null,
         "aliases": [
-            "Name: L-Histidyl-tRNA(His)",
+            "Name: L-Histidyl-tRNA(His); L-histidyl-tRNA(His)",
             "AlgaGEM: S_L_45_Histidyl_45_tRNA_40_His_41__c",
             "AraGEM: S_L_45_Histidyl_45_tRNA_40_His_41__c",
             "BiGG: histrna",
@@ -6151,7 +6151,7 @@
         "abbreviation": "thrtrna",
         "abstract_compound": null,
         "aliases": [
-            "Name: L-Threonyl-tRNA(Thr)",
+            "Name: L-Threonyl-tRNA(Thr); L-threonyl-tRNA(Thr)",
             "AlgaGEM: S_L_45_Threonyl_45_tRNA_40_Thr_41__c",
             "AraGEM: S_L_45_Threonyl_45_tRNA_40_Thr_41__c",
             "BiGG: thrtrna",
@@ -6435,7 +6435,7 @@
         "abbreviation": "Reduced plastocyanin",
         "abstract_compound": null,
         "aliases": [
-            "Name: Reduced plastocyanin",
+            "Name: Reduced plastocyanin; reduced [plastocyanin]",
             "KEGG: C03025",
             "iRS1563: M_C03025_c"
         ],
@@ -6519,7 +6519,7 @@
         "abbreviation": "(+)-Bisdechlorogeodin",
         "abstract_compound": null,
         "aliases": [
-            "Name: (+)-Bisdechlorogeodin; (+)-bisdechlorogeodin; methyl (2S)-4-hydroxy-6-methyl-4'-oxo-3H-spiro[1-benzofuran-2,1'-cyclohexa[2,5]diene]-2'-carboxylate",
+            "Name: (+)-Bisdechlorogeodin; (+)-bisdechlorogeodin; (2S)-bisdechlorogeodin; methyl (2S)-4-hydroxy-6-methyl-4'-oxo-3H-spiro[1-benzofuran-2,1'-cyclohexa[2,5]diene]-2'-carboxylate",
             "KEGG: C03036",
             "MetaCyc: CPD-1901"
         ],
@@ -6549,7 +6549,7 @@
         "abbreviation": "(-)-Bisdechlorogeodin",
         "abstract_compound": null,
         "aliases": [
-            "Name: (-)-Bisdechlorogeodin; (-)-bisdechlorogeodin; methyl (2R)-4-hydroxy-6-methyl-4'-oxo-3H-spiro[1-benzofuran-2,1'-cyclohexa[2,5]diene]-2'-carboxylate",
+            "Name: (-)-Bisdechlorogeodin; (-)-bisdechlorogeodin; (2R)-bisdechlorogeodin; methyl (2R)-4-hydroxy-6-methyl-4'-oxo-3H-spiro[1-benzofuran-2,1'-cyclohexa[2,5]diene]-2'-carboxylate",
             "KEGG: C03040",
             "MetaCyc: CPD-1907"
         ],
@@ -6873,7 +6873,7 @@
         "abbreviation": "cystrna",
         "abstract_compound": null,
         "aliases": [
-            "Name: L-Cysteinyl-tRNA(Cys)",
+            "Name: L-Cysteinyl-tRNA(Cys); L-cysteinyl-tRNA(Cys)",
             "AlgaGEM: S_L_45_Cysteinyl_45_tRNA_40_Cys_41__c",
             "AraGEM: S_L_45_Cysteinyl_45_tRNA_40_Cys_41__c",
             "BiGG: cystrna",
@@ -6903,7 +6903,7 @@
         "abbreviation": "iletrna",
         "abstract_compound": null,
         "aliases": [
-            "Name: L-Isoleucyl-tRNA(Ile)",
+            "Name: L-Isoleucyl-tRNA(Ile); L-isoleucyl-tRNA(Ile)",
             "AlgaGEM: S_L_45_Isoleucyl_45_tRNA_40_Ile_41__c",
             "AraGEM: S_L_45_Isoleucyl_45_tRNA_40_Ile_41__c",
             "BiGG: iletrna",
@@ -6987,7 +6987,7 @@
         "abbreviation": "N-Acetyl-D-amino acid",
         "abstract_compound": null,
         "aliases": [
-            "Name: N-ACETYL-D-AMINO-ACID; N-Acetyl-D-amino acid; an N-acetyl-D-amino acid",
+            "Name: N-ACETYL-D-AMINO-ACID; N-Acetyl-D-amino acid; N-acetyl-D-amino acetate(1-); N-acetyl-D-amino acid anions; N-acetyl-D-amino carboxylate anions; an N-acetyl-D-amino acid",
             "KEGG: C03135",
             "MetaCyc: N-ACETYL-D-AMINO-ACID"
         ],
@@ -7155,7 +7155,7 @@
         "abbreviation": "Oxidized plastocyanin",
         "abstract_compound": null,
         "aliases": [
-            "Name: OXIDIZED-PLASTOCYANIN; Oxidized plastocyanin",
+            "Name: OXIDIZED-PLASTOCYANIN; Oxidized plastocyanin; oxidized [plastocyanin]",
             "ChlamyCyc: OXIDIZED-PLASTOCYANIN",
             "KEGG: C03162",
             "RiceCyc: OXIDIZED-PLASTOCYANIN",
@@ -7374,7 +7374,7 @@
         "abbreviation": "1-Alkyl-2-acylglycerol",
         "abstract_compound": null,
         "aliases": [
-            "Name: 1-Alkyl-2-acylglycerol; 2-Acyl-1-alkyl-sn-glycerol",
+            "Name: 1-Alkyl-2-acylglycerol; 1-O-alkyl-2-O-acyl-sn-glycerol; 1-O-alkyl-2-acyl-sn-glycerol; 1-alkyl-2-acyl-sn-glycerols; 2-Acyl-1-alkyl-sn-glycerol",
             "AlgaGEM: S_1_45_Alkyl_45_2_45_acylglycerol_c",
             "AraGEM: S_1_45_Alkyl_45_2_45_acylglycerol_c",
             "BiGG: ak2g_hs",
@@ -7838,7 +7838,7 @@
         "abbreviation": "Protein L-isoaspartate",
         "abstract_compound": null,
         "aliases": [
-            "Name: Protein L-isoaspartate",
+            "Name: Protein L-isoaspartate; [protein]-L-isoaspartate",
             "KEGG: C03306",
             "iRS1563: M_C03306_c"
         ],
@@ -7921,7 +7921,7 @@
         "abbreviation": "alpha-Amino acid ester",
         "abstract_compound": null,
         "aliases": [
-            "Name: alpha-Amino acid ester; an alpha amino acid ester",
+            "Name: alpha-Amino acid ester; alpha-amino acid ester cation; an alpha amino acid ester; an alpha-amino acid ester",
             "KEGG: C03317",
             "MetaCyc: CPD-8569"
         ],
@@ -8030,7 +8030,7 @@
         "abbreviation": "5'-Acylphosphoadenosine",
         "abstract_compound": null,
         "aliases": [
-            "Name: 5'-Acylphosphoadenosine",
+            "Name: 5'-Acylphosphoadenosine; 5'-acylphosphoadenosine",
             "KEGG: C03361"
         ],
         "charge": -1,
@@ -8058,7 +8058,7 @@
         "abbreviation": "5-L-Glutamyl amino acid",
         "abstract_compound": null,
         "aliases": [
-            "Name: 5-L-GLUTAMYL-AMINO-ACID; 5-L-Glutamyl amino acid; L-gamma-Glutamyl amino acid",
+            "Name: 5-L-GLUTAMYL-AMINO-ACID; 5-L-Glutamyl amino acid; 5-L-glutamyl amino acid; L-gamma-Glutamyl amino acid",
             "KEGG: C03363",
             "MetaCyc: 5-L-GLUTAMYL-AMINO-ACID",
             "iRS1563: M_C03363_c"
@@ -8459,7 +8459,7 @@
         "abbreviation": "asntrna",
         "abstract_compound": null,
         "aliases": [
-            "Name: Asn-tRNA(Asn); Asparaginyl-tRNA(Asn); L-Asparaginyl-tRNA(Asn)",
+            "Name: Asn-tRNA(Asn); Asparaginyl-tRNA(Asn); L-Asparaginyl-tRNA(Asn); L-asparaginyl-tRNA(Asn)",
             "AlgaGEM: S_L_45_Asparaginyl_45_tRNA_40_Asn_41__c",
             "AraGEM: S_L_45_Asparaginyl_45_tRNA_40_Asn_41__c",
             "BiGG: asntrna",
@@ -9031,7 +9031,7 @@
         "abbreviation": "phetrna",
         "abstract_compound": null,
         "aliases": [
-            "Name: L-Phenylalanyl-tRNA(Phe)",
+            "Name: L-Phenylalanyl-tRNA(Phe); L-phenylalanyl-tRNA(Phe)",
             "AlgaGEM: S_L_45_Phenylalanyl_45_tRNA_40_Phe_41__c",
             "AraGEM: S_L_45_Phenylalanyl_45_tRNA_40_Phe_41__c",
             "BiGG: phetrna",
@@ -9061,7 +9061,7 @@
         "abbreviation": "trptrna",
         "abstract_compound": null,
         "aliases": [
-            "Name: L-Tryptophanyl-tRNA(Trp)",
+            "Name: L-Tryptophanyl-tRNA(Trp); L-tryptophanyl-tRNA(Trp)",
             "AlgaGEM: S_L_45_Tryptophanyl_45_tRNA_40_Trp_41__c",
             "AraGEM: S_L_45_Tryptophanyl_45_tRNA_40_Trp_41__c",
             "BiGG: trptrna",
@@ -9364,7 +9364,7 @@
         "abbreviation": "2-Deoxy-alpha-D-glucoside",
         "abstract_compound": null,
         "aliases": [
-            "Name: 2-Deoxy-alpha-D-glucoside; a 2-deoxy-alpha-D-glucoside",
+            "Name: 2-Deoxy-alpha-D-glucoside; 2-deoxy-alpha-D-arabino-hexosides; 2-deoxy-alpha-D-glucosides; a 2-deoxy-alpha-D-glucoside",
             "KEGG: C03573",
             "MetaCyc: A-2-DEOXY-D-GLUCOSIDE"
         ],
@@ -9554,7 +9554,7 @@
         "abbreviation": "N5-Acyl-L-ornithine ester",
         "abstract_compound": null,
         "aliases": [
-            "Name: N5-Acyl-L-ornithine ester",
+            "Name: N(5)-acyl-L-ornithine ester; N(5)-acyl-L-ornithine ester cation; N5-Acyl-L-ornithine ester",
             "KEGG: C03625"
         ],
         "charge": 1,
@@ -9863,7 +9863,7 @@
         "abbreviation": "2-Hydroxycarbonyl compound",
         "abstract_compound": null,
         "aliases": [
-            "Name: 2-Hydroxycarbonyl compound; A-2-HYDROXYCARBONYL-COMPOUND; a 2-hydroxycarbonyl compound",
+            "Name: 2-Hydroxycarbonyl compound; 2-hydroxycarbonyl compounds; A-2-HYDROXYCARBONYL-COMPOUND; a 2-hydroxycarbonyl; a 2-hydroxycarbonyl compound; alpha-hydroxycarbonyl compound",
             "KEGG: C03667",
             "MetaCyc: A-2-HYDROXYCARBONYL-COMPOUND"
         ],
@@ -9972,7 +9972,7 @@
         "abbreviation": "apoACP",
         "abstract_compound": null,
         "aliases": [
-            "Name: Apo-[acyl-carrier-protein]; an apo-[acp]; an apo-[acyl-carrier protein]; apo-ACP",
+            "Name: Apo-[acyl-carrier-protein]; an apo-[acp]; an apo-[acyl-carrier protein]; apo-ACP; apo-[ACP]",
             "AraCyc: apo-ACP",
             "BiGG: apoACP",
             "BrachyCyc: apo-ACP",
@@ -10004,7 +10004,7 @@
         "abbreviation": "MGDG",
         "abstract_compound": null,
         "aliases": [
-            "Name: 1,2-Diacyl-3-beta-D-galactosyl-sn-glycerol; 1,2-diacyl-3-b-D-galactosyl-sn-glycerol; 1,2-diacyl-3-beta-D-galactosyl-sn-glycerol; 3-(beta-D-Galactosyl)-1,2-diacyl-sn-glycerol; 3-beta-D-Galactosyl-1,2-diacylglycerol; D-Galactosyldiacylglycerol; Galbeta1->3acyl2Gro; MGDG; Monogalactosyl-diacylglycerol; Monogalactosyldiglyceride",
+            "Name: 1,2-Diacyl-3-beta-D-galactosyl-sn-glycerol; 1,2-diacyl-3-b-D-galactosyl-sn-glycerol; 1,2-diacyl-3-beta-D-galactosyl-sn-glycerol; 3-(beta-D-Galactosyl)-1,2-diacyl-sn-glycerol; 3-beta-D-Galactosyl-1,2-diacylglycerol; D-Galactosyldiacylglycerol; Galbeta1->3acyl2Gro; MGDG; Monogalactosyl-diacylglycerol; Monogalactosyldiglyceride; a 1,2-diacyl-3-O-(beta-D-galactosyl)-sn-glycerol",
             "AlgaGEM: S_1_44_2_45_Diacyl_45_3_45_beta_45_D_45_galactosyl_45_sn_45_glycerol_c",
             "AraGEM: S_1_44_2_45_Diacyl_45_3_45_beta_45_D_45_galactosyl_45_sn_45_glycerol_c",
             "ChlamyCyc: 12-DIACYL-ETCETERA-GLYCEROL",
@@ -10329,7 +10329,7 @@
         "abbreviation": "6-Acetyl-beta-D-galactoside",
         "abstract_compound": null,
         "aliases": [
-            "Name: 6-Acetyl-beta-D-galactoside",
+            "Name: 6-Acetyl-beta-D-galactoside; 6-O-acetyl-beta-D-galactosides; a 6-acetyl-beta-D-galactoside",
             "KEGG: C03773"
         ],
         "charge": 0,
@@ -10770,7 +10770,7 @@
         "abbreviation": "1-Alkyl-2-acetyl-sn-glycerol",
         "abstract_compound": null,
         "aliases": [
-            "Name: 1-Alkyl-2-acetyl-sn-glycerol; 1-O-Alkyl-2-acetyl-sn-glycerol; 1-O-alkyl-2-acetyl-sn-glycerol; 2-Acetyl-1-alkyl-sn-glycerol; a 1-alkyl-2-acetyl-sn-glycerol",
+            "Name: 1-Alkyl-2-acetyl-sn-glycerol; 1-O-Alkyl-2-acetyl-sn-glycerol; 1-O-alkyl-2-acetyl-sn-glycerol; 1-alkyl-2-acetyl-sn-glycerols; 2-Acetyl-1-alkyl-sn-glycerol; a 1-O-alkyl-2-acetyl-sn-glycerol; a 1-alkyl-2-acetyl-sn-glycerol",
             "EcoCyc: 1-O-ALKYL-2-ACETYL-SN-GLYCEROL",
             "KEGG: C03820",
             "MetaCyc: 1-O-ALKYL-2-ACETYL-SN-GLYCEROL"
@@ -10969,16 +10969,16 @@
         "abbreviation": "Glucuronoxylan",
         "abstract_compound": null,
         "aliases": [
-            "Name: Glucuronoxylan; Glucuronoxylan D-glucuronate",
+            "Name: Glucuronoxylan; Glucuronoxylan D-glucuronate; glucuronoxylan D-glucuronate",
             "KEGG: C03866"
         ],
-        "charge": -1,
+        "charge": 0,
         "comprised_of": null,
         "deltag": 10000000.0,
         "deltagerr": 10000000.0,
-        "formula": "C21H31O18R2",
+        "formula": "C21H34O19",
         "id": "cpd12408",
-        "inchikey": "",
+        "inchikey": "GPEOEAOYOXIFLP-IKLRGTITSA-N",
         "is_cofactor": 0,
         "is_core": 1,
         "is_obsolete": 0,
@@ -10988,7 +10988,7 @@
         "notes": null,
         "pka": "",
         "pkb": "",
-        "smiles": "",
+        "smiles": "O=C(O)[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3CO[C@@H](O)[C@H](O)[C@H]3O)OC[C@@H](O[C@@H]3OC[C@@H](O)[C@H](O)[C@H]3O)[C@@H]2O)[C@H](O)[C@@H](O)[C@@H]1O",
         "source": "Primary Database"
     },
     {
@@ -11520,7 +11520,7 @@
         "abbreviation": "Anthocyanidin-3-O-D-glucoside",
         "abstract_compound": null,
         "aliases": [
-            "Name: Anthocyanidin-3-O-D-glucoside; Anthocyanidin-3-O-beta-D-glucoside",
+            "Name: Anthocyanidin-3-O-D-glucoside; Anthocyanidin-3-O-beta-D-glucoside; an anthocyanidin 3-O-beta-D-glucoside",
             "KEGG: C03940"
         ],
         "charge": 0,
@@ -11548,7 +11548,7 @@
         "abbreviation": "Calmodulin N6-methyl-L-lysine",
         "abstract_compound": null,
         "aliases": [
-            "Name: Calmodulin N6-methyl-L-lysine",
+            "Name: Calmodulin N6-methyl-L-lysine; [calmodulin]-N(6)-methyl-L-lysine",
             "KEGG: C03941"
         ],
         "charge": 1,
@@ -11963,7 +11963,7 @@
         "abbreviation": "N-Acetyl-alpha-D-glucosaminide",
         "abstract_compound": null,
         "aliases": [
-            "Name: N-Acetyl-alpha-D-glucosaminide",
+            "Name: N-Acetyl-alpha-D-glucosaminide; N-acetyl-alpha-D-glucosaminides; an N-acetyl-alpha-D-glucosaminyl derivative",
             "KEGG: C04019"
         ],
         "charge": 0,
@@ -12127,7 +12127,7 @@
         "abbreviation": "3g12dgr_SA",
         "abstract_compound": null,
         "aliases": [
-            "Name: 1,2-Diacyl-3-beta-D-glucosyl-sn-glycerol; 3-D-Glucosyl-1,2-diacylglycerol; D-Glucosyl-12-diacyl-glycerols; Glcbeta1->3acyl2Gro; Monoglucosyl-diacylglycerol; Monoglucosyldiglyceride; monoglucosyl diacylglycerol",
+            "Name: 1,2 diacyl-3-O-beta-D-glucosyl-sn-glycerol; 1,2-Diacyl-3-beta-D-glucosyl-sn-glycerol; 3-D-Glucosyl-1,2-diacylglycerol; D-Glucosyl-12-diacyl-glycerols; Glcbeta1->3acyl2Gro; Monoglucosyl-diacylglycerol; Monoglucosyldiglyceride; a 1,2-diacyl-3-O-(beta-D-glucopyranosyl)-sn-glycerol; beta-D-Glc-(1->3')-1,2-diacyl-sn-glycerol; monoglucosyl diacylglycerol",
             "AlgaGEM: S_3_45_D_45_Glucosyl_45_1_44_2_45_diacylglycerol_c",
             "AraGEM: S_3_45_D_45_Glucosyl_45_1_44_2_45_diacylglycerol_c",
             "BiGG: 3g12dgr_SA2",
@@ -12295,7 +12295,7 @@
         "abbreviation": "cll_430",
         "abstract_compound": null,
         "aliases": [
-            "Name: 18:0-ACP; Octadecanoyl-ACP; Octadecanoyl-[acyl-carrier protein]; Stearoyl-ACPs; Stearoyl-PKS2; Stearoyl-[acyl-carrier protein]; a stearoyl-[acp]; a stearoyl-[acyl-carrier-protein]; an octadecanoyl-[acp]; octadecanoyl-[acyl-carrier protein]; octadecanyl-[acp]; stearoyl-ACP; stearoyl-MAS",
+            "Name: 18:0-ACP; Octadecanoyl-ACP; Octadecanoyl-[acyl-carrier protein]; Stearoyl-ACPs; Stearoyl-PKS2; Stearoyl-[acyl-carrier protein]; a stearoyl-[acp]; a stearoyl-[acyl-carrier-protein]; an octadecanoyl-[acp]; octadecanoyl-[ACP]; octadecanoyl-[acyl-carrier protein]; octadecanyl-[acp]; stearoyl-ACP; stearoyl-MAS",
             "AraCyc: Stearoyl-ACPs",
             "BiGG: ocdcaACP",
             "BrachyCyc: Stearoyl-ACPs",
@@ -12648,7 +12648,7 @@
         "abbreviation": "N-Acetyl-alpha-D-galactosaminide",
         "abstract_compound": null,
         "aliases": [
-            "Name: Alpha-Acetylgalactosaminides; N-Acetyl-alpha-D-galactosaminide",
+            "Name: Alpha-Acetylgalactosaminides; N-Acetyl-alpha-D-galactosaminide; N-acetyl-alpha-D-galactosaminides; an N-acetyl-alpha-D-galactosaminyl derivative",
             "KEGG: C04134",
             "MetaCyc: Alpha-Acetylgalactosaminides"
         ],
@@ -12733,7 +12733,7 @@
         "abbreviation": "Phospho-beta-adrenergic receptor",
         "abstract_compound": null,
         "aliases": [
-            "Name: Phospho-beta-adrenergic receptor; [beta-Adrenergic receptor] phosphate",
+            "Name: Phospho-beta-adrenergic receptor; [beta-Adrenergic receptor] phosphate; [beta-adrenergic receptor]-phosphate",
             "KEGG: C04141"
         ],
         "charge": -2,
@@ -13227,7 +13227,7 @@
         "abbreviation": "Long-chain-fatty-acyl ethyl ester",
         "abstract_compound": null,
         "aliases": [
-            "Name: Long-chain-fatty-acyl ethyl ester",
+            "Name: Long-chain-fatty-acyl ethyl ester; a long-chain fatty acyl ethyl ester; long-chain fatty acid ethyl esters; long-chain fatty acyl ethyl ester; long-chain fatty acyl ethyl esters",
             "KEGG: C04202"
         ],
         "charge": 0,
@@ -13504,7 +13504,7 @@
         "abbreviation": "Deoxylimononic acid D-ring-lactone",
         "abstract_compound": null,
         "aliases": [
-            "Name: Deoxylimononic acid D-ring-lactone; deoxylimononic acid D-ring-lactone",
+            "Name: 2,2'-[(2S,3R,4R)-3-[(1R,6S,8aR)-1-(3-furyl)-5,8a-dimethyl-3-oxo-3,4,6,7,8,8a-hexahydro-1H-2-benzopyran-6-yl]-3-(hydroxymethyl)-5,5-dimethyltetrahydrofuran-2,4-diyl]diacetate; Deoxylimononic acid D-ring-lactone; deoxylimononate D-ring-lactone; deoxylimononate D-ring-lactone dianion; deoxylimononic acid D-ring-lactone",
             "KEGG: C04251",
             "MetaCyc: DEOXYLIMONONIC-ACID-D-RING-LACTONE"
         ],
@@ -13534,15 +13534,15 @@
         "abbreviation": "Dolichyl beta-D-mannosyl phosphate",
         "abstract_compound": null,
         "aliases": [
-            "Name: Dolichyl beta-D-mannosyl phosphate"
+            "Name: Dolichyl beta-D-mannosyl phosphate; dolichyl beta-D-mannosyl phosphate"
         ],
-        "charge": -1,
+        "charge": 0,
         "comprised_of": null,
         "deltag": 10000000.0,
         "deltagerr": 10000000.0,
-        "formula": "C21H38O9P",
+        "formula": "C31H55O9P",
         "id": "cpd12504",
-        "inchikey": "",
+        "inchikey": "AGLXCEGQRIYVRV-JUKRTZSXSA-N",
         "is_cofactor": 0,
         "is_core": 1,
         "is_obsolete": 0,
@@ -13552,8 +13552,8 @@
         "notes": null,
         "pka": "",
         "pkb": "",
-        "smiles": "",
-        "source": "Orphan"
+        "smiles": "CC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCCC(C)CCOP(=O)(O)O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]1O",
+        "source": "Primary Database"
     },
     {
         "abbreviation": "Electron-transferring flavoprotein",
@@ -13779,7 +13779,7 @@
         "abbreviation": "N-Long-chain-fatty-acyl-L-glutamate",
         "abstract_compound": null,
         "aliases": [
-            "Name: N-Long-chain-fatty-acyl-L-glutamate",
+            "Name: N-(long-chain-fatty-acyl)-L-glutamate; N-Long-chain-fatty-acyl-L-glutamate",
             "KEGG: C04305"
         ],
         "charge": -2,
@@ -13837,7 +13837,7 @@
         "abbreviation": "Protein L-isoaspartate methyl ester",
         "abstract_compound": null,
         "aliases": [
-            "Name: Protein L-isoaspartate alpha-methyl ester; Protein L-isoaspartate methyl ester",
+            "Name: Protein L-isoaspartate alpha-methyl ester; Protein L-isoaspartate methyl ester; [protein]-L-isoaspartate alpha-methyl ester",
             "KEGG: C04311",
             "iRS1563: M_C04311_c"
         ],
@@ -14415,7 +14415,7 @@
         "abbreviation": "Phospho-[DNA-directed RNA polymerase]",
         "abstract_compound": null,
         "aliases": [
-            "Name: Phospho-[DNA-directed RNA polymerase]",
+            "Name: Phospho-[DNA-directed RNA polymerase]; phospho-[DNA-directed RNA polymerase]",
             "KEGG: C04395"
         ],
         "charge": 0,
@@ -14582,7 +14582,7 @@
         "abbreviation": "N6-Alkylaminopurine-7-beta-D-glucoside",
         "abstract_compound": null,
         "aliases": [
-            "Name: N6-Alkylaminopurine-7-beta-D-glucoside",
+            "Name: 6-alkylamino-7-beta-D-glucosylpurines; N6-Alkylaminopurine-7-beta-D-glucoside; an N(6)-alkylamino-7-beta-D-glucosylpurine",
             "KEGG: C04422"
         ],
         "charge": 0,
@@ -14751,16 +14751,16 @@
         "abbreviation": "4-O-methylglucuronoxylan",
         "abstract_compound": null,
         "aliases": [
-            "Name: 4-O-Methylglucuronoxylan; 4-O-methylglucuronoxylan; Glucuronoxylan 4-O-methyl-D-glucuronate",
+            "Name: 4-O-Methylglucuronoxylan; 4-O-methylglucuronoxylan; Glucuronoxylan 4-O-methyl-D-glucuronate; glucuronoxylan 4-O-methyl-D-glucuronate",
             "KEGG: C04459; G11623"
         ],
-        "charge": -1,
+        "charge": 0,
         "comprised_of": null,
         "deltag": 10000000.0,
         "deltagerr": 10000000.0,
-        "formula": "C22H33O18R2",
+        "formula": "C22H36O19",
         "id": "cpd12550",
-        "inchikey": "",
+        "inchikey": "IBPXPPHZZQVGHN-NPARFUQOSA-N",
         "is_cofactor": 0,
         "is_core": 1,
         "is_obsolete": 0,
@@ -14770,7 +14770,7 @@
         "notes": null,
         "pka": "",
         "pkb": "",
-        "smiles": "",
+        "smiles": "CO[C@@H]1[C@@H](C(=O)O)O[C@H](O[C@H]2[C@H](O[C@@H]3CO[C@@H](O)[C@H](O)[C@H]3O)OC[C@@H](O[C@@H]3OC[C@@H](O)[C@H](O)[C@H]3O)[C@@H]2O)[C@H](O)[C@H]1O",
         "source": "Primary Database"
     },
     {
@@ -15222,19 +15222,19 @@
         "abbreviation": "Chitobiosyldiphosphodolichol",
         "abstract_compound": null,
         "aliases": [
-            "Name: Chitobiosyldiphosphodolichol; N,N'-Diacetylchitobiosyldiphosphodolichol",
+            "Name: Chitobiosyldiphosphodolichol; N,N'-Diacetylchitobiosyldiphosphodolichol; N,N'-diacetylchitobiosyl diphosphodolichol",
             "AlgaGEM: S_N_44_N_39__45_Chitobiosyldiphosphodolichol_c",
             "AraGEM: S_N_44_N_39__45_Chitobiosyldiphosphodolichol_c",
             "KEGG: C04537",
             "Maize_C4GEM: S_N_44_N_39__45_Chitobiosyldiphosphodolichol_c"
         ],
-        "charge": -2,
+        "charge": 0,
         "comprised_of": null,
         "deltag": 10000000.0,
         "deltagerr": 10000000.0,
-        "formula": "C41H70N2O17P2",
+        "formula": "C41H72N2O17P2",
         "id": "cpd12568",
-        "inchikey": "",
+        "inchikey": "QBRZRKKUHJLMCY-PAYFYKCCSA-N",
         "is_cofactor": 0,
         "is_core": 1,
         "is_obsolete": 0,
@@ -15244,7 +15244,7 @@
         "notes": null,
         "pka": "",
         "pkb": "",
-        "smiles": "",
+        "smiles": "CC(=O)N[C@H]1[C@H](O[C@@H]2[C@@H](CO)O[C@H](OP(=O)(O)OP(=O)(O)OCCC(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C)[C@H](NC(C)=O)[C@H]2O)O[C@H](CO)[C@@H](O)[C@@H]1O",
         "source": "Primary Database"
     },
     {
@@ -15305,7 +15305,7 @@
         "abbreviation": "tRNA containing 2'-O-methylguanosine",
         "abstract_compound": null,
         "aliases": [
-            "Name: 2-O-MeGuan-34-tRNAs; 2-O-methylguanosine-2922-in-27S-pre-rRNA; tRNA containing 2'-O-methylguanosine; tRNA-Containing-2-O-Methylguanosine",
+            "Name: 2'-O-methylguanosine(2922) in 27S pre-rRNA; 2-O-MeGuan-34-tRNAs; 2-O-methylguanosine-2922-in-27S-pre-rRNA; tRNA containing 2'-O-methylguanosine; tRNA-Containing-2-O-Methylguanosine",
             "ChlamyCyc: tRNA-Containing-2-O-Methylguanosine",
             "KEGG: C04545",
             "MetaCyc: 2-O-MeGuan-34-tRNAs; 2-O-methylguanosine-2922-in-27S-pre-rRNA"
@@ -15449,7 +15449,7 @@
         "abbreviation": "Reduced electron-transferring flavoprotein",
         "abstract_compound": null,
         "aliases": [
-            "Name: Reduced electron-transfer flavoprotein; Reduced electron-transferring flavoprotein",
+            "Name: Reduced electron-transfer flavoprotein; Reduced electron-transferring flavoprotein; reduced [electron-transfer flavoprotein]",
             "AlgaGEM: S_Reduced_32_electron_45_transferring_32_flavoprotein_c",
             "AraGEM: S_Reduced_32_electron_45_transferring_32_flavoprotein_c",
             "KEGG: C04570",
@@ -15755,13 +15755,13 @@
             "KEGG: C04678",
             "MetaCyc: CPD-167"
         ],
-        "charge": -1,
+        "charge": 0,
         "comprised_of": null,
         "deltag": 10000000.0,
         "deltagerr": 10000000.0,
-        "formula": "C33H57NO9P",
+        "formula": "C33H58NO9P",
         "id": "cpd12587",
-        "inchikey": "",
+        "inchikey": "BJAFYRSZBSGAET-PZDXOPSFSA-N",
         "is_cofactor": 0,
         "is_core": 1,
         "is_obsolete": 0,
@@ -15771,7 +15771,7 @@
         "notes": null,
         "pka": "",
         "pkb": "",
-        "smiles": "",
+        "smiles": "CC(=O)N[C@H]1[C@@H](OP(=O)(O)OCCC(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C)O[C@H](CO)[C@@H](O)[C@@H]1O",
         "source": "Primary Database"
     },
     {
@@ -15862,7 +15862,7 @@
         "abbreviation": "Holo-[methylmalonyl-CoA-carboxyltransferase]",
         "abstract_compound": null,
         "aliases": [
-            "Name: Biotin-[methylmalonyl-CoA-carboxyltransferase]; Biotin-[methylmalonyl-CoA:pyruvate carboxytransferase]; Holo-[methylmalonyl-CoA-carboxyltransferase]; Holo-[methylmalonyl-CoA:pyruvate carboxytransferase]; [Methylmalonyl-CoA:pyruvate carboxytransferase]",
+            "Name: Biotin-[methylmalonyl-CoA-carboxyltransferase]; Biotin-[methylmalonyl-CoA:pyruvate carboxytransferase]; Holo-[methylmalonyl-CoA-carboxyltransferase]; Holo-[methylmalonyl-CoA:pyruvate carboxytransferase]; [Methylmalonyl-CoA:pyruvate carboxytransferase]; holo-[methylmalonyl-CoA:pyruvate carboxytransferase]",
             "KEGG: C04682"
         ],
         "charge": 0,
@@ -16030,7 +16030,7 @@
         "abbreviation": "Holo-[propionyl-CoA-carboxylase (ATP-hydrolysing)]",
         "abstract_compound": null,
         "aliases": [
-            "Name: Biotin-[propionyl-CoA-carboxylase (ATP-hydrolysing)]; Biotin-[propionyl-CoA:carbon-dioxide ligase (ADP-forming)]; Holo-[propionyl-CoA-carboxylase (ATP-hydrolysing)]; Holo-[propionyl-CoA:carbon-dioxide ligase (ADP-forming)]; [Propanoyl-CoA:carbon-dioxide ligase (ADP-forming)]; [Propionyl-CoA:carbon-dioxide ligase (ADP-forming)]",
+            "Name: Biotin-[propionyl-CoA-carboxylase (ATP-hydrolysing)]; Biotin-[propionyl-CoA:carbon-dioxide ligase (ADP-forming)]; Holo-[propionyl-CoA-carboxylase (ATP-hydrolysing)]; Holo-[propionyl-CoA:carbon-dioxide ligase (ADP-forming)]; [Propanoyl-CoA:carbon-dioxide ligase (ADP-forming)]; [Propionyl-CoA:carbon-dioxide ligase (ADP-forming)]; holo-[propionyl-CoA:carbon-dioxide ligase (ADP-forming)]",
             "KEGG: C04727"
         ],
         "charge": 0,
@@ -16144,7 +16144,7 @@
         "abbreviation": "Apo-[methylmalonyl-CoA-carboxyltransferase]",
         "abstract_compound": null,
         "aliases": [
-            "Name: Apo-[methylmalonyl-CoA-carboxyltransferase]; Apo-[methylmalonyl-CoA:pyruvate carboxytransferase]",
+            "Name: Apo-[methylmalonyl-CoA-carboxyltransferase]; Apo-[methylmalonyl-CoA:pyruvate carboxytransferase]; apo-[methylmalonyl-CoA:pyruvate carboxytransferase]",
             "KEGG: C04736"
         ],
         "charge": 1,
@@ -16342,7 +16342,7 @@
         "abbreviation": "Apo-[propionyl-CoA-carboxylase (ATP-hydrolysing)]",
         "abstract_compound": null,
         "aliases": [
-            "Name: Apo-[propionyl-CoA-carboxylase (ATP-hydrolysing)]; Apo-[propionyl-CoA:carbon-dioxide ligase (ADP-forming)]",
+            "Name: Apo-[propionyl-CoA-carboxylase (ATP-hydrolysing)]; Apo-[propionyl-CoA:carbon-dioxide ligase (ADP-forming)]; apo-[propionyl-CoA:carbon-dioxide ligase (ADP-forming)]",
             "KEGG: C04763"
         ],
         "charge": 1,
@@ -16689,7 +16689,7 @@
         "abbreviation": "Holo-[methylcrotonoyl-CoA-carboxylase]",
         "abstract_compound": null,
         "aliases": [
-            "Name: Biotin-[3-methylcrotonoyl-CoA:carbon-dioxide ligase (ADP-forming)]; Biotin-[methylcrotonoyl-CoA-carboxylase]; Holo-[3-methylcrotonoyl-CoA:carbon-dioxide ligase (ADP-forming)]; Holo-[methylcrotonoyl-CoA-carboxylase]; [3-Methylcrotonoyl-CoA:carbon-dioxide ligase (ADP-forming)]; [3-methylcrotonoyl-CoA:carbon-dioxide ligase(ADP-forming)]",
+            "Name: Biotin-[3-methylcrotonoyl-CoA:carbon-dioxide ligase (ADP-forming)]; Biotin-[methylcrotonoyl-CoA-carboxylase]; Holo-[3-methylcrotonoyl-CoA:carbon-dioxide ligase (ADP-forming)]; Holo-[methylcrotonoyl-CoA-carboxylase]; [3-Methylcrotonoyl-CoA:carbon-dioxide ligase (ADP-forming)]; [3-methylcrotonoyl-CoA:carbon-dioxide ligase(ADP-forming)]; holo-[3-methylcrotonoyl-CoA:carbon-dioxide ligase (ADP-forming)]",
             "AraCyc: CPD-8602",
             "ChlamyCyc: CPD-8602",
             "CornCyc: CPD-8602",
@@ -16938,7 +16938,7 @@
         "abbreviation": "Apo-[methylcrotonoyl-CoA-carboxylase]",
         "abstract_compound": null,
         "aliases": [
-            "Name: APO-[3-methylcrotonoyl-CoA:carbon-dioxide ligase (ADP-forming)]; Apo-[3-methylcrotonoyl-CoA:carbon-dioxide ligase (ADP-forming)]; Apo-[methylcrotonoyl-CoA-carboxylase]",
+            "Name: APO-[3-methylcrotonoyl-CoA:carbon-dioxide ligase (ADP-forming)]; Apo-[3-methylcrotonoyl-CoA:carbon-dioxide ligase (ADP-forming)]; Apo-[methylcrotonoyl-CoA-carboxylase]; apo-[3-methylcrotonoyl-CoA:carbon-dioxide ligase (ADP-forming)]",
             "AraCyc: CPD-8601",
             "ChlamyCyc: CPD-8601",
             "CornCyc: CPD-8601",
@@ -17022,7 +17022,7 @@
         "abbreviation": "2,3-Di-O-acyl-1-O-(6-O-alpha-D-galactosyl-beta-D-galactosyl)-D- glycerol",
         "abstract_compound": null,
         "aliases": [
-            "Name: 1,2-Diacyl-3-O-(alpha-D-galactosyl(1->6)-O-beta-D-galactosyl)-sn-glycerol; 2,3-Di-O-acyl-1-O-(6-O-alpha-D-galactosyl-beta-D-galactosyl)-D- glycerol; 2,3-Di-O-acyl-1-O-(6-O-alpha-D-galactosyl-beta-D-galactosyl)-D-glycerol; 3-[alpha-D-Galactosyl-(1->6)-beta-D-galactosyl]-1,2-diacyl-sn-glycerol; DGDG; Digalactosyl-diacylglycerol; Gal-alpha1->6Gal-beta1->3acyl2Gro; Galalpha1->6Galbeta1->3acyl2Gro",
+            "Name: 1,2-Diacyl-3-O-(alpha-D-galactosyl(1->6)-O-beta-D-galactosyl)-sn-glycerol; 1,2-diacyl-3-O-[alpha-D-galactosyl-(1->6)-beta-D-galactosyl]-sn-glycerol; 2,3-Di-O-acyl-1-O-(6-O-alpha-D-galactosyl-beta-D-galactosyl)-D- glycerol; 2,3-Di-O-acyl-1-O-(6-O-alpha-D-galactosyl-beta-D-galactosyl)-D-glycerol; 3-[alpha-D-Galactosyl-(1->6)-beta-D-galactosyl]-1,2-diacyl-sn-glycerol; DGDG; Digalactosyl-diacylglycerol; Gal-alpha1->6Gal-beta1->3acyl2Gro; Galalpha1->6Galbeta1->3acyl2Gro",
             "AlgaGEM: S_Digalactosyl_45_diacylglycerol_c",
             "AraGEM: S_Digalactosyl_45_diacylglycerol_c",
             "JM_Creinhardtii: DGDG_c",
@@ -17218,7 +17218,7 @@
         "abbreviation": "GM1",
         "abstract_compound": null,
         "aliases": [
-            "Name: D-Galactosyl-1,3-beta-N-acetyl-D-galactosaminyl-(N- acetylneuraminyl)-D-galactosyl-D-glucosyl-N-acylsphingosine; D-Galactosyl-1,3-beta-N-acetyl-D-galactosaminyl-(N-acetylneuraminyl)-D-galactosyl-D-glucosyl-N-acylsphingosine; D-Galactosyl-N-acetyl-D-galactosaminyl-(N-acetylneuraminyl)-D- galactosyl-D-glucosylceramide; D-Galactosyl-N-acetyl-D-galactosaminyl-(N-acetylneuraminyl)-D-galactosyl-D-glucosylceramide; GM1; GM1a; Gal-beta1->3GalNAc-beta1->4(Neu5Ac-alpha2->3)Gal-beta1->4Glc-beta1- >1'Cer; Gal-beta1->3GalNAc-beta1->4(Neu5Ac-alpha2->3)Gal-beta1->4Glc-beta1->1'Cer",
+            "Name: D-Galactosyl-1,3-beta-N-acetyl-D-galactosaminyl-(N- acetylneuraminyl)-D-galactosyl-D-glucosyl-N-acylsphingosine; D-Galactosyl-1,3-beta-N-acetyl-D-galactosaminyl-(N-acetylneuraminyl)-D-galactosyl-D-glucosyl-N-acylsphingosine; D-Galactosyl-N-acetyl-D-galactosaminyl-(N-acetylneuraminyl)-D- galactosyl-D-glucosylceramide; D-Galactosyl-N-acetyl-D-galactosaminyl-(N-acetylneuraminyl)-D-galactosyl-D-glucosylceramide; GM1; GM1 ganglioside(1-); GM1a; Gal-beta1->3GalNAc-beta1->4(Neu5Ac-alpha2->3)Gal-beta1->4Glc-beta1- >1'Cer; Gal-beta1->3GalNAc-beta1->4(Neu5Ac-alpha2->3)Gal-beta1->4Glc-beta1->1'Cer; alpha-Neu5Ac-(2->3)-[beta-D-Gal-(1->3)-beta-D-GalNAc-(1->4)]-beta-D-Gal-(1->4)-beta-D-Glc-(1<->1')-N-stearoylsphingosine(1-); ganglioside GM1 (d18:1(4E)/18:0); monosialoganglioside GM1",
             "AlgaGEM: S_GM1_c",
             "AraGEM: S_GM1_c",
             "KEGG: C04911; G00110; G01438",
@@ -18227,7 +18227,7 @@
         "abbreviation": "1-Radyl-2-acyl-sn-glycero-3-phosphocholine",
         "abstract_compound": null,
         "aliases": [
-            "Name: 1-Organyl-2-acyl-sn-glycero-3-phosphocholine; 1-Radyl-2-acyl-sn-glycero-3-phosphocholine; 2-Acyl-1-alkyl-sn-glycero-3-phosphocholine",
+            "Name: 1-O-alkyl-2-acyl-sn-glycero-3-phosphocholine; 1-Organyl-2-acyl-sn-glycero-3-phosphocholine; 1-Radyl-2-acyl-sn-glycero-3-phosphocholine; 2-Acyl-1-alkyl-sn-glycero-3-phosphocholine; 2-acyl-1-alkyl-sn-glycero-3-phosphocholine betaines; 2-acyl-1-alkyl-sn-glycero-3-phosphocholines",
             "KEGG: C05212"
         ],
         "charge": 0,
@@ -18255,7 +18255,7 @@
         "abbreviation": "1-Radyl-2-acyl-sn-glycero-3-phospholipid",
         "abstract_compound": null,
         "aliases": [
-            "Name: 1-Organyl-2-lyso-sn-glycero-3-phospholipid; 1-Radyl-2-acyl-sn-glycero-3-phospholipid",
+            "Name: 1-Organyl-2-lyso-sn-glycero-3-phospholipid; 1-Radyl-2-acyl-sn-glycero-3-phospholipid; 1-organyl-2-lyso-sn-glycero-3-phospholipid; 1-organyl-sn-glycero-3-phospholipid(1-)",
             "KEGG: C05217"
         ],
         "charge": -1,
@@ -18500,7 +18500,7 @@
         "abbreviation": "Ubiquinone-0",
         "abstract_compound": null,
         "aliases": [
-            "Name: 2,3-dimethoxy-5-methyl-1,4-benzoquinone; 2-Methyl-4,5-dimethoxy-p-quinone; CoQ0; Q0; Ubiquinone-0; coenzyme Q0; ubiquinone 0; ubiquinone Q0; ubiquinone-0; ubiquinone-O; ubiquinone-Q0",
+            "Name: 2,3-dimethoxy-5-methyl-1,4-benzoquinone; 2,3-dimethoxy-5-methyl-p-benzoquinone; 2,3-dimethoxy-5-methylbenzo-1,4-quinone; 2,3-dimethoxy-5-methylbenzoquinone; 2,3-dimethoxy-5-methylcyclohexa-2,5-diene-1,4-dione; 2-Methyl-4,5-dimethoxy-p-quinone; 2-methyl-4,5-dimethoxy-p-quinone; 2-methyl-5,6-dimethoxybenzoquinone; CoQ0; Q0; Ubiquinone-0; coenzyme Q0; ubiquinone 0; ubiquinone Q0; ubiquinone-0; ubiquinone-O; ubiquinone-Q0",
             "EcoCyc: CPD0-1464",
             "KEGG: C05251",
             "MetaCyc: CPD0-1464"
@@ -18532,7 +18532,7 @@
         "abbreviation": "3otdcoa",
         "abstract_compound": null,
         "aliases": [
-            "Name: 3-Oxotetradecanoyl-CoA; 3-oxo-myristoyl-CoA; 3-oxotetradecanoyl-CoA",
+            "Name: 3'-phosphonatoadenosine 5'-{3-[(3R)-3-hydroxy-2,2-dimethyl-4-oxo-4-{[3-oxo-3-({2-[(3-oxotetradecanoyl)sulfanyl]ethyl}amino)propyl]amino}butyl] diphosphate}; 3-Oxotetradecanoyl-CoA; 3-oxo-myristoyl-CoA; 3-oxo-myristoyl-CoA(4-); 3-oxomyristoyl-CoA(4-); 3-oxotetradecanoyl-CoA",
             "BiGG: 3otdcoa",
             "EcoCyc: CPD-10284",
             "KEGG: C05261",
@@ -18591,7 +18591,7 @@
         "abbreviation": "(R)-3-Hydroxycapryloyl-CoA",
         "abstract_compound": null,
         "aliases": [
-            "Name: (3R)-3-hydroxyoctanoyl-CoA; (R)-3-Hydroxycapryloyl-CoA; (R)-3-hydroxyoctanoyl-CoA",
+            "Name: (3R)-3-hydroxyoctanoyl-CoA; (3R)-hydroxyoctanoyl-CoA; (R)-3-Hydroxycapryloyl-CoA; (R)-3-hydroxyoctanoyl-CoA; (R)-3-hydroxyoctanoyl-coenzyme A(4-); 3'-phosphonatoadenosine 5'-{3-[(3R)-3-hydroxy-4-({3-[(2-{[(3R)-3-hydroxyoctanoyl]sulfanyl}ethyl)amino]-3-oxopropyl}amino)-2,2-dimethyl-4-oxobutyl] diphosphate}",
             "KEGG: C05278",
             "MetaCyc: CPD-14916"
         ],
@@ -18622,7 +18622,7 @@
         "abbreviation": "5-Methylbarbiturate",
         "abstract_compound": null,
         "aliases": [
-            "Name: 5-Methylbarbiturate; 5-Methylbarbituric acid; 5-methyl-barbiturate",
+            "Name: 5-Methylbarbiturate; 5-Methylbarbituric acid; 5-methyl-2,4,6-trioxohexahydropyrimidin-5-ide; 5-methyl-barbiturate; 5-methylbarbiturate",
             "KEGG: C05281",
             "MetaCyc: 5-METHYL-BARBITURATE"
         ],
@@ -18653,7 +18653,7 @@
         "abbreviation": "19-Oxotestosterone",
         "abstract_compound": null,
         "aliases": [
-            "Name: 19-Oxotestosterone; 19-aldehyde-testosterone; 19-oxo-testosterone",
+            "Name: (17beta)-17-hydroxy-3-oxoandrost-4-en-19-al; 19-Oxotestosterone; 19-aldehyde-testosterone; 19-oxo-testosterone; 19-oxotestosterone",
             "AraCyc: 19-OXO-TESTOSTERONE",
             "CornCyc: 19-OXO-TESTOSTERONE",
             "KEGG: C05295",
@@ -19166,7 +19166,7 @@
         "abbreviation": "Oxidized azurin",
         "abstract_compound": null,
         "aliases": [
-            "Name: Azurinox; Oxidized azurin",
+            "Name: Azurinox; Oxidized azurin; oxidized [azurin]",
             "KEGG: C05357"
         ],
         "charge": 2,
@@ -19192,7 +19192,7 @@
         "abbreviation": "Reduced azurin",
         "abstract_compound": null,
         "aliases": [
-            "Name: Azurinred; Reduced azurin",
+            "Name: Azurinred; Reduced azurin; reduced [azurin]",
             "KEGG: C05358"
         ],
         "charge": 1,
@@ -19218,7 +19218,7 @@
         "abbreviation": "e-",
         "abstract_compound": null,
         "aliases": [
-            "Name: E-; Electron; e-; electron",
+            "Name: E-; Electron; Elektron; beta; beta(-); beta-particle; e; e(-); e-; electron; negatron",
             "AraCyc: E-",
             "BrachyCyc: E-",
             "ChlamyCyc: E-",
@@ -19304,7 +19304,7 @@
         "abbreviation": "(+)-Pinoresinol",
         "abstract_compound": null,
         "aliases": [
-            "Name: (+)-Pinoresinol; (+)-pinoresinol",
+            "Name: (+)-Pinoresinol; (+)-pinoresinol; (7alpha,7'alpha,8alpha,8'alpha)-3,3'-dimethoxy-7,9':7',9-diepoxylignane-4,4'-diol; 4,4'-(1S,3aR,4S,6aR)-tetrahydro-1H,3H-furo[3,4-c]furan-1,4-diylbis(2-methoxyphenol); pinoresinol",
             "AraCyc: CPD-8905",
             "CornCyc: CPD-8905",
             "KEGG: C05366",
@@ -19651,7 +19651,7 @@
         "abbreviation": "Urate-3-ribonucleoside",
         "abstract_compound": null,
         "aliases": [
-            "Name: Urate-3-ribonucleoside; Uric acid ribonucleoside; urate 3-ribonucleoside; urate-3-ribonucleoside; urate-D-ribonucleoside; urate-ribonucleoside",
+            "Name: 3-beta-D-ribofuranosyl-7,9-dihydro-1H-purine-2,6,8(3H)-trione; 3-ribosyluric acid; 7,9-dihydro-3-beta-D-ribofuranosyl-1H-purine-2,6,8(3H)-trione; Urate-3-ribonucleoside; Uric acid ribonucleoside; urate 3-ribonucleoside; urate D-ribonucleoside; urate-3-ribonucleoside; urate-D-ribonucleoside; urate-ribonucleoside; uric acid ribonucleoside; uric acid riboside",
             "KEGG: C05513",
             "MetaCyc: URATE-3-RIBONUCLEOSIDE"
         ],
@@ -21173,20 +21173,20 @@
         "abbreviation": "Dehydrodolichol diphosphate",
         "abstract_compound": null,
         "aliases": [
-            "Name: Dehydrodolichol diphosphate; Dehydrodolichyl diphosphate; ditrans,polycis-Polyprenyl diphosphate",
+            "Name: Dehydrodolichol diphosphate; Dehydrodolichyl diphosphate; di-trans,poly-cis-polyprenyl diphosphate; ditrans,polycis-Polyprenyl diphosphate",
             "AlgaGEM: S_Dehydrodolichol_32_diphosphate_c",
             "AraGEM: S_Dehydrodolichol_32_diphosphate_c",
             "JP_Creinhardtii_MSB: M_dedoldp_c",
             "KEGG: C05859",
             "Maize_C4GEM: S_Dehydrodolichol_32_diphosphate_c"
         ],
-        "charge": -2,
+        "charge": 0,
         "comprised_of": null,
         "deltag": 10000000.0,
         "deltagerr": 10000000.0,
-        "formula": "C25H42O7P2",
+        "formula": "C20H36O7P2",
         "id": "cpd12788",
-        "inchikey": "",
+        "inchikey": "OINNEUNVOZHBOX-UHFFFAOYSA-N",
         "is_cofactor": 0,
         "is_core": 1,
         "is_obsolete": 0,
@@ -21196,7 +21196,7 @@
         "notes": null,
         "pka": "",
         "pkb": "",
-        "smiles": "",
+        "smiles": "CC(C)=CCCC(C)=CCCC(C)=CCCC(C)=CCOP(=O)(O)OP(=O)(O)O",
         "source": "Primary Database"
     },
     {
@@ -21921,7 +21921,7 @@
         "abbreviation": "cll_416",
         "abstract_compound": null,
         "aliases": [
-            "Name: 1,2-Diacyl-3-O-(beta-D-glucopyranosyl(1->6)-O-beta-D- glucopyranosyl)-sn-glycerol; 1,2-Diacyl-3-O-(beta-D-glucopyranosyl(1->6)-O-beta-D- glucopyranosyl)sn-glycerol; 1,2-Diacyl-3-O-(beta-D-glucopyranosyl(1->6)-O-beta-D-glucopyranosyl)-sn-glycerol; Diglucosyl-diacylglycerol; Glc-beta1->6Glc-beta1->3acyl2Gro; Glcbeta1->6Glcbeta1->3acyl2Gro; diacyl-3-O-glucl-1-6-gluc-sn-glycerol; diglucosyl diacylglycerol",
+            "Name: 1,2-Diacyl-3-O-(beta-D-glucopyranosyl(1->6)-O-beta-D- glucopyranosyl)-sn-glycerol; 1,2-Diacyl-3-O-(beta-D-glucopyranosyl(1->6)-O-beta-D- glucopyranosyl)sn-glycerol; 1,2-Diacyl-3-O-(beta-D-glucopyranosyl(1->6)-O-beta-D-glucopyranosyl)-sn-glycerol; 1,2-diacyl-3-O-(6'-(beta-D-glucosyl)-beta-D-glucosyl)-sn-glycerol; 1,2-diacyl-3-O-(beta-D-glucosyl-(1->6)-beta-D-glucosyl)-sn-glycerol; Diglucosyl-diacylglycerol; Glc-beta1->6Glc-beta1->3acyl2Gro; Glcbeta1->6Glcbeta1->3acyl2Gro; a 1,2-diacyl-3-O-(beta-D-Glc-(1->6)-beta-D-Glc)-sn-glycerol; diacyl-3-O-glucl-1-6-gluc-sn-glycerol; diglucosyl diacylglycerol",
             "AlgaGEM: S_Diglucosyl_45_diacylglycerol_c",
             "AraGEM: S_Diglucosyl_45_diacylglycerol_c",
             "KEGG: C06040",
@@ -22272,7 +22272,7 @@
         "abbreviation": "glutrna(gln)",
         "abstract_compound": null,
         "aliases": [
-            "Name: Glu-tRNA(Gln); Glutamyl-tRNA(Gln); L-Glutamyl-tRNA(Gln)",
+            "Name: Glu-tRNA(Gln); Glutamyl-tRNA(Gln); L-Glutamyl-tRNA(Gln); L-glutamyl-tRNA(Gln)",
             "AlgaGEM: S_L_45_Glutamyl_45_tRNA_40_Gln_41__c",
             "AraGEM: S_L_45_Glutamyl_45_tRNA_40_Gln_41__m",
             "BiGG: glutrna_gln",
@@ -22302,7 +22302,7 @@
         "abbreviation": "ASPARTYL-TRNAASN",
         "abstract_compound": null,
         "aliases": [
-            "Name: Asp-tRNA(Asn); Aspartyl-tRNA(Asn); L-Aspartyl-tRNA(Asn)",
+            "Name: Asp-tRNA(Asn); Aspartyl-tRNA(Asn); L-Aspartyl-tRNA(Asn); L-aspartyl-tRNA(Asn)",
             "AlgaGEM: S_L_45_Aspartyl_45_tRNA_40_Asn_41__c",
             "AraGEM: S_L_45_Aspartyl_45_tRNA_40_Asn_41__c",
             "BiGG: asptrna_asn",
@@ -22610,7 +22610,7 @@
         "abbreviation": "Levan n",
         "abstract_compound": null,
         "aliases": [
-            "Name: (2,6-beta-D-Fructosyl)n; (2,6-beta-D-Fructosyl)n+1; 2,6-beta-D-Fructan; 6-kestose; 6-kestotriose; Levan; Levan n",
+            "Name: (2,6-beta-D-Fructosyl)n; (2,6-beta-D-Fructosyl)n+1; (Fruf)2 (Glc)1; 2,6-beta-D-Fructan; 6-kestose; 6-kestotriose; Levan; Levan n; beta-D-fructofuranosyl-(2->6)-beta-D-fructofuranosyl alpha-D-glucopyranoside",
             "BrachyCyc: 6-KESTOSE",
             "CornCyc: 6-KESTOSE",
             "KEGG: C06215",
@@ -22726,7 +22726,7 @@
         "abbreviation": "Phytonadiol",
         "abstract_compound": null,
         "aliases": [
-            "Name: 2-methyl-3-phytyl-1,4-naphthoquinol; Phylloquinol; Phytonadiol; Vitamin K1 hydroquinone; phylloquinol",
+            "Name: 2-methyl-3-[(2E,7R,11R)-3,7,11,15-tetramethylhexadec-2-en-1-yl]naphthalene-1,4-diol; 2-methyl-3-phytyl-1,4-naphthoquinol; Phylloquinol; Phytonadiol; Vitamin K1 hydroquinone; phylloquinol; vitamin K1 hydroquinone",
             "AraCyc: CPD-12831",
             "CornCyc: CPD-12831",
             "KEGG: C03313",
@@ -23302,7 +23302,7 @@
         "abbreviation": "1,2-Diacyl-3-O-(alpha-D-glucopyranosyl)-sn-glycerol",
         "abstract_compound": null,
         "aliases": [
-            "Name: 1,2-Diacyl-3-O-(alpha-D-glucopyranosyl)-sn-glycerol; 12-DIACYL-3-O-ALPHA-D-GLUCOPYRANOSYL",
+            "Name: 1,2-Diacyl-3-O-(alpha-D-glucopyranosyl)-sn-glycerol; 1,2-diacyl-3-(alpha-D-glucopyranosyl)-sn-glycerol; 12-DIACYL-3-O-ALPHA-D-GLUCOPYRANOSYL; a 1,2-diacyl-3-O-(alpha-D-glucopyranosyl)-sn-glycerol",
             "KEGG: C06364",
             "MetaCyc: 12-DIACYL-3-O-ALPHA-D-GLUCOPYRANOSYL"
         ],
@@ -23637,7 +23637,7 @@
         "abbreviation": "1,3-Diacylglycerol",
         "abstract_compound": null,
         "aliases": [
-            "Name: 1,3-Diacylglycerol; 1-3-Diglycerides",
+            "Name: 1,3-Diacylglycerol; 1,3-diacylglycerols; 1,3-diglyceride; 1,3-diglycerides; 1-3-Diglycerides; a 1,3-diacylglycerol",
             "KEGG: C06437",
             "MetaCyc: 1-3-Diglycerides"
         ],
@@ -23666,7 +23666,7 @@
         "abbreviation": "Methylcobalamin",
         "abstract_compound": null,
         "aliases": [
-            "Name: Methylcobalamin; algobaz; cobamet; cobametin; mecobalamin; methyl cobalamine; methyl-B12; methylcob(III)alamin; methylcobalamin; vancomin",
+            "Name: CO-METHYLCOBALAMIN; Coalpha-[alpha-(5,6-dimethylbenzimidazolyl)]-Cobeta-methylcobamide; MeCbl; Methylcobalamin; algobaz; cobamet; cobametin; mecobalamin; methyl cobalamine; methyl-B12; methylcob(III)alamin; methylcobalamin; vancomin",
             "AlgaGEM: S_Methylcobalamin_c",
             "AraGEM: S_Methylcobalamin_c",
             "EcoCyc: CPD-9037",
@@ -23774,7 +23774,7 @@
         "abbreviation": "Oxidized dithioerythritol",
         "abstract_compound": null,
         "aliases": [
-            "Name: 4,5-cis-Dihydroxy-1,2-dithiacyclohexane; 4,5-cis-dihydroxy-1,2-dithiacyclohexane; Oxidized dithioerythritol",
+            "Name: (4R,5S)-1,2-dithiane-4,5-diol; 4,5-cis-Dihydroxy-1,2-dithiacyclohexane; 4,5-cis-dihydroxy-1,2-dithiacyclohexane; Oxidized dithioerythritol; cis-1,2-dithiane-4,5-diol",
             "KEGG: C06484",
             "MetaCyc: 45-CIS-DIHYDROXY-12-DITHIACYCLOHEXANE"
         ],
@@ -23999,7 +23999,7 @@
         "abbreviation": "Quaternary amine",
         "abstract_compound": null,
         "aliases": [
-            "Name: Quaternary amine",
+            "Name: Quaternary amine; quaternary ammonium; quaternary ammonium ion; quaternary ammonium ions",
             "KEGG: C06703"
         ],
         "charge": 0,
@@ -24186,7 +24186,7 @@
         "abbreviation": "Glucosyl-limonin",
         "abstract_compound": null,
         "aliases": [
-            "Name: Glucosyl-limonin; Limonin 17-beta-D-glucoside; glucosyl-limonin; limonin 17-beta-D-glucoside",
+            "Name: (3'S,4aS,6aR,8aR,9R,10S,12aR,12bR)-10-[(R)-furan-3-yl(beta-D-glucopyranosyloxy)methyl]-6,6,8a,10-tetramethyl-3,8-dioxodecahydro-3H,6H-spiro[naphtho[1',2':3,4]furo[3,2-c]pyran-9,2'-oxirane]-3'-carboxylate; Glucosyl-limonin; Limonin 17-beta-D-glucoside; glucosyl-limonin; limonin 17-beta-D-glucoside; limonin 17-beta-D-glucoside anion",
             "CornCyc: GLUCOSYL-LIMONIN",
             "KEGG: C06740",
             "MetaCyc: GLUCOSYL-LIMONIN",

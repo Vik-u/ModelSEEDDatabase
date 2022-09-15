@@ -1,0 +1,4251 @@
+[
+    {
+        "abbreviation": "70527",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00004[0] + (1) cpd39436[0] <=> (1) cpd08908[0] + (1) cpd00003[0]",
+        "compound_ids": "cpd00003;cpd00004;cpd00067;cpd08908;cpd39436",
+        "definition": "(1) H+[0] + (1) NADH[0] + (1) N-acyl-3-ketosphinganine[0] <=> (1) Dihydroceramide[0] + (1) NAD[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00067[0] + (1) cpd00004[0] + (1) cpd39436[0] <=> (1) cpd08908[0] + (1) cpd00003[0]",
+        "id": "rxn57000",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70527",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": -2,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00004",
+                "formula": "C21H27N7O14P2",
+                "name": "NADH"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd39436",
+                "formula": "null",
+                "name": "N-acyl-3-ketosphinganine"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd08908",
+                "formula": "C19H38NO3R",
+                "name": "Dihydroceramide"
+            },
+            {
+                "charge": -1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00003",
+                "formula": "C21H26N7O14P2",
+                "name": "NAD"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70531",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00037[0] + (1) cpd42850[0] <=> (1) cpd42849[0] + (1) cpd00014[0]",
+        "compound_ids": "cpd00014;cpd00037;cpd00067;cpd42849;cpd42850",
+        "definition": "(1) UDP-N-acetylglucosamine[0] + (1) 3-O-(alpha-L-fucosyl)-L-threonyl-[EGF-like domain protein][0] <=> (1) 3-O-(N-acetyl-beta-D-glucosaminyl-(1->3)-alpha-L-fucosyl)-L-threonyl-[EGF-like domain protein][0] + (1) H+[0] + (1) UDP[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00037[0] + (1) cpd42850[0] <=> (1) cpd42849[0] + (1) cpd00067[0] + (1) cpd00014[0]",
+        "id": "rxn57001",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70531",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": -2,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00037",
+                "formula": "C17H25N3O17P2",
+                "name": "UDP-N-acetylglucosamine"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd42850",
+                "formula": "null",
+                "name": "3-O-(alpha-L-fucosyl)-L-threonyl-[EGF-like domain protein]"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd42849",
+                "formula": "null",
+                "name": "3-O-(N-acetyl-beta-D-glucosaminyl-(1->3)-alpha-L-fucosyl)-L-threonyl-[EGF-like domain protein]"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": -2,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00014",
+                "formula": "C9H12N2O12P2",
+                "name": "UDP"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70535",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00272[0] + (1) cpd42601[0] <=> (1) cpd00031[0] + (1) cpd42846[0]",
+        "compound_ids": "cpd00031;cpd00067;cpd00272;cpd42601;cpd42846",
+        "definition": "(1) GDP-L-fucose[0] + (1) L-seryl-[EGF-like domain protein][0] <=> (1) GDP[0] + (1) H+[0] + (1) 3-O-(alpha-L-fucosyl)-L-seryl-[EGF-like domain protein][0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00272[0] + (1) cpd42601[0] <=> (1) cpd00031[0] + (1) cpd00067[0] + (1) cpd42846[0]",
+        "id": "rxn57002",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70535",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": -2,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00272",
+                "formula": "C16H23N5O15P2",
+                "name": "GDP-L-fucose"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd42601",
+                "formula": "null",
+                "name": "L-seryl-[EGF-like domain protein]"
+            },
+            {
+                "charge": -2,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00031",
+                "formula": "C10H13N5O11P2",
+                "name": "GDP"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd42846",
+                "formula": "null",
+                "name": "3-O-(alpha-L-fucosyl)-L-seryl-[EGF-like domain protein]"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70539",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00272[0] + (1) cpd42852[0] <=> (1) cpd42850[0] + (1) cpd00031[0]",
+        "compound_ids": "cpd00031;cpd00067;cpd00272;cpd42850;cpd42852",
+        "definition": "(1) GDP-L-fucose[0] + (1) L-threonyl-[EGF-like domain protein][0] <=> (1) 3-O-(alpha-L-fucosyl)-L-threonyl-[EGF-like domain protein][0] + (1) H+[0] + (1) GDP[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00272[0] + (1) cpd42852[0] <=> (1) cpd42850[0] + (1) cpd00067[0] + (1) cpd00031[0]",
+        "id": "rxn57003",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70539",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": -2,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00272",
+                "formula": "C16H23N5O15P2",
+                "name": "GDP-L-fucose"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd42852",
+                "formula": "null",
+                "name": "L-threonyl-[EGF-like domain protein]"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd42850",
+                "formula": "null",
+                "name": "3-O-(alpha-L-fucosyl)-L-threonyl-[EGF-like domain protein]"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": -2,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00031",
+                "formula": "C10H13N5O11P2",
+                "name": "GDP"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70543",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd42844[0] + (1) cpd00026[0] <=> (1) cpd42853[0] + (1) cpd00014[0]",
+        "compound_ids": "cpd00014;cpd00026;cpd00067;cpd42844;cpd42853",
+        "definition": "(1) 3-O-(alpha-L-fucosyl)-L-seryl-[protein][0] + (1) UDP-glucose[0] <=> (1) H+[0] + (1) 3-O-(beta-D-glucosyl-(1->3)-alpha-L-fucosyl)-L-seryl-[protein][0] + (1) UDP[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd42844[0] + (1) cpd00026[0] <=> (1) cpd00067[0] + (1) cpd42853[0] + (1) cpd00014[0]",
+        "id": "rxn57004",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70543",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd42844",
+                "formula": "null",
+                "name": "3-O-(alpha-L-fucosyl)-L-seryl-[protein]"
+            },
+            {
+                "charge": -2,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00026",
+                "formula": "C15H22N2O17P2",
+                "name": "UDP-glucose"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd42853",
+                "formula": "null",
+                "name": "3-O-(beta-D-glucosyl-(1->3)-alpha-L-fucosyl)-L-seryl-[protein]"
+            },
+            {
+                "charge": -2,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00014",
+                "formula": "C9H12N2O12P2",
+                "name": "UDP"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70547",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd42845[0] + (1) cpd00026[0] <=> (1) cpd42854[0] + (1) cpd00014[0]",
+        "compound_ids": "cpd00014;cpd00026;cpd00067;cpd42845;cpd42854",
+        "definition": "(1) 3-O-(alpha-L-fucosyl)-L-threonyl-[protein][0] + (1) UDP-glucose[0] <=> (1) H+[0] + (1) 3-O-(beta-D-glucosyl-(1->3)-alpha-L-fucosyl)-L-threonyl-[protein][0] + (1) UDP[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd42845[0] + (1) cpd00026[0] <=> (1) cpd00067[0] + (1) cpd42854[0] + (1) cpd00014[0]",
+        "id": "rxn57005",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70547",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd42845",
+                "formula": "null",
+                "name": "3-O-(alpha-L-fucosyl)-L-threonyl-[protein]"
+            },
+            {
+                "charge": -2,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00026",
+                "formula": "C15H22N2O17P2",
+                "name": "UDP-glucose"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd42854",
+                "formula": "null",
+                "name": "3-O-(beta-D-glucosyl-(1->3)-alpha-L-fucosyl)-L-threonyl-[protein]"
+            },
+            {
+                "charge": -2,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00014",
+                "formula": "C9H12N2O12P2",
+                "name": "UDP"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70551",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd42849[0] + (1) cpd30770[0] <=> (1) cpd00014[0] + (1) cpd42851[0]",
+        "compound_ids": "cpd00014;cpd00067;cpd30770;cpd42849;cpd42851",
+        "definition": "(1) 3-O-(N-acetyl-beta-D-glucosaminyl-(1->3)-alpha-L-fucosyl)-L-threonyl-[EGF-like domain protein][0] + (1) UDP-D-galactopyranose[0] <=> (1) H+[0] + (1) UDP[0] + (1) 3-O-(beta-D-Gal-(1->4)-beta-D-GlcNAc-(1->3)-alpha-L-Fuc)-L-threonyl-[EGF-like domain protein][0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd42849[0] + (1) cpd30770[0] <=> (1) cpd00067[0] + (1) cpd00014[0] + (1) cpd42851[0]",
+        "id": "rxn57006",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70551",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd42849",
+                "formula": "null",
+                "name": "3-O-(N-acetyl-beta-D-glucosaminyl-(1->3)-alpha-L-fucosyl)-L-threonyl-[EGF-like domain protein]"
+            },
+            {
+                "charge": -2,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd30770",
+                "formula": "C15H22N2O17P2",
+                "name": "UDP-D-galactopyranose"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": -2,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00014",
+                "formula": "C9H12N2O12P2",
+                "name": "UDP"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd42851",
+                "formula": "null",
+                "name": "3-O-(beta-D-Gal-(1->4)-beta-D-GlcNAc-(1->3)-alpha-L-Fuc)-L-threonyl-[EGF-like domain protein]"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70563",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00001[0] + (1) cpd00003[0] + (1) cpd42247[0] <=> (1) cpd39452[0] + (1) cpd00133[0] + (1) cpd42896[0]",
+        "compound_ids": "cpd00001;cpd00003;cpd00133;cpd39452;cpd42247;cpd42896",
+        "definition": "(1) H2O[0] + (1) NAD[0] + (1) N(6)-hexadecanoyl-L-lysyl-[protein][0] <=> (1) 2''-O-hexadecanoyl-ADP-D-ribose[0] + (1) Nicotinamide[0] + (1) L-lysyl-[protein][0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00001[0] + (1) cpd00003[0] + (1) cpd42247[0] <=> (1) cpd39452[0] + (1) cpd00133[0] + (1) cpd42896[0]",
+        "id": "rxn57007",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70563",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00001",
+                "formula": "H2O",
+                "name": "H2O"
+            },
+            {
+                "charge": -1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00003",
+                "formula": "C21H26N7O14P2",
+                "name": "NAD"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd42247",
+                "formula": "null",
+                "name": "N(6)-hexadecanoyl-L-lysyl-[protein]"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd39452",
+                "formula": "null",
+                "name": "2''-O-hexadecanoyl-ADP-D-ribose"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00133",
+                "formula": "C6H6N2O",
+                "name": "Nicotinamide"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd42896",
+                "formula": "null",
+                "name": "L-lysyl-[protein]"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70567",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00001[0] + (1) cpd42474[0] + (1) cpd00003[0] <=> (1) cpd39453[0] + (1) cpd42896[0] + (1) cpd00133[0]",
+        "compound_ids": "cpd00001;cpd00003;cpd00133;cpd39453;cpd42474;cpd42896",
+        "definition": "(1) H2O[0] + (1) N(6)-tetradecanoyl-L-lysyl-[protein][0] + (1) NAD[0] <=> (1) 2''-O-tetradecanoyl-ADP-D-ribose[0] + (1) L-lysyl-[protein][0] + (1) Nicotinamide[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00001[0] + (1) cpd42474[0] + (1) cpd00003[0] <=> (1) cpd39453[0] + (1) cpd42896[0] + (1) cpd00133[0]",
+        "id": "rxn57008",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70567",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00001",
+                "formula": "H2O",
+                "name": "H2O"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd42474",
+                "formula": "null",
+                "name": "N(6)-tetradecanoyl-L-lysyl-[protein]"
+            },
+            {
+                "charge": -1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00003",
+                "formula": "C21H26N7O14P2",
+                "name": "NAD"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd39453",
+                "formula": "null",
+                "name": "2''-O-tetradecanoyl-ADP-D-ribose"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd42896",
+                "formula": "null",
+                "name": "L-lysyl-[protein]"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00133",
+                "formula": "C6H6N2O",
+                "name": "Nicotinamide"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70571",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00971[1] + (1) cpd00027[1] <=> (1) cpd00027[0] + (1) cpd00971[0]",
+        "compound_ids": "cpd00027;cpd00971",
+        "definition": "(1) Na+[1] + (1) D-Glucose[1] <=> (1) D-Glucose[0] + (1) Na+[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00971[1] + (1) cpd00027[1] <=> (1) cpd00027[0] + (1) cpd00971[0]",
+        "id": "rxn57009",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70571",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "OK",
+        "stoichiometry": [
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00971",
+                "formula": "Na",
+                "name": "Na+"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00027",
+                "formula": "C6H12O6",
+                "name": "D-Glucose"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00027",
+                "formula": "C6H12O6",
+                "name": "D-Glucose"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00971",
+                "formula": "Na",
+                "name": "Na+"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70575",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd24439[0] + (1) cpd00001[0] <=> (1) cpd00091[0]",
+        "compound_ids": "cpd00001;cpd00067;cpd00091;cpd24439",
+        "definition": "(1) uridine 3'5'-cyclic monophosphate[0] + (1) H2O[0] <=> (1) H+[0] + (1) UMP[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd24439[0] + (1) cpd00001[0] <=> (1) cpd00067[0] + (1) cpd00091[0]",
+        "id": "rxn57010",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70575",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "OK",
+        "stoichiometry": [
+            {
+                "charge": -1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd24439",
+                "formula": "C9H10N2O8P",
+                "name": "uridine 3'5'-cyclic monophosphate"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00001",
+                "formula": "H2O",
+                "name": "H2O"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": -2,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00091",
+                "formula": "C9H11N2O9P",
+                "name": "UMP"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70579",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd40268[0] + (1) cpd00327[0] <=> (1) cpd00010[0] + (1) cpd25140[0]",
+        "compound_ids": "cpd00010;cpd00327;cpd25140;cpd40268",
+        "definition": "(1) 2-(9Z-octadecenoyl)-sn-glycero-3-phosphoethanolamine[0] + (1) strcoa[0] <=> (1) CoA[0] + (1) 1-18:0-2-18:1-phosphatidylethanolamine[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd40268[0] + (1) cpd00327[0] <=> (1) cpd00010[0] + (1) cpd25140[0]",
+        "id": "rxn57011",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70579",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd40268",
+                "formula": "null",
+                "name": "2-(9Z-octadecenoyl)-sn-glycero-3-phosphoethanolamine"
+            },
+            {
+                "charge": -4,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00327",
+                "formula": "C39H66N7O17P3S",
+                "name": "strcoa"
+            },
+            {
+                "charge": -4,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00010",
+                "formula": "C21H32N7O16P3S",
+                "name": "CoA"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd25140",
+                "formula": "C41H80NO8P",
+                "name": "1-18:0-2-18:1-phosphatidylethanolamine"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70583",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00327[0] + (1) cpd39814[0] <=> (1) cpd00010[0] + (1) cpd39457[0]",
+        "compound_ids": "cpd00010;cpd00327;cpd39457;cpd39814",
+        "definition": "(1) strcoa[0] + (1) 2-acyl-lysophosphatidylethanolamine zwitterion[0] <=> (1) CoA[0] + (1) 1-octadecanoyl-2-acyl-sn-glycero-3-phosphoethanolamine[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00327[0] + (1) cpd39814[0] <=> (1) cpd00010[0] + (1) cpd39457[0]",
+        "id": "rxn57012",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70583",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": -4,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00327",
+                "formula": "C39H66N7O17P3S",
+                "name": "strcoa"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd39814",
+                "formula": "null",
+                "name": "2-acyl-lysophosphatidylethanolamine zwitterion"
+            },
+            {
+                "charge": -4,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00010",
+                "formula": "C21H32N7O16P3S",
+                "name": "CoA"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd39457",
+                "formula": "null",
+                "name": "1-octadecanoyl-2-acyl-sn-glycero-3-phosphoethanolamine"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70587",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd42943[0] + (1) cpd00001[0] <=> (1) cpd43109[0] + (1) cpd00029[0]",
+        "compound_ids": "cpd00001;cpd00029;cpd42943;cpd43109",
+        "definition": "(1) N-acetyl-alpha-D-glucosaminyl-[heparan sulfate](n)[0] + (1) H2O[0] <=> (1) alpha-D-glucosaminyl-[heparan sulfate](n)[0] + (1) Acetate[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd42943[0] + (1) cpd00001[0] <=> (1) cpd43109[0] + (1) cpd00029[0]",
+        "id": "rxn57013",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70587",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd42943",
+                "formula": "null",
+                "name": "N-acetyl-alpha-D-glucosaminyl-[heparan sulfate](n)"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00001",
+                "formula": "H2O",
+                "name": "H2O"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd43109",
+                "formula": "null",
+                "name": "alpha-D-glucosaminyl-[heparan sulfate](n)"
+            },
+            {
+                "charge": -1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00029",
+                "formula": "C2H3O2",
+                "name": "Acetate"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70591",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd40268[0] + (1) cpd00134[0] <=> (1) cpd00010[0] + (1) cpd09690[0]",
+        "compound_ids": "cpd00010;cpd00134;cpd09690;cpd40268",
+        "definition": "(1) 2-(9Z-octadecenoyl)-sn-glycero-3-phosphoethanolamine[0] + (1) Palmitoyl-CoA[0] <=> (1) CoA[0] + (1) 1-Hexadecanoyl-2-(9Z-octadecenoyl)-sn-glycero-3-phosphoethanolamine[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd40268[0] + (1) cpd00134[0] <=> (1) cpd00010[0] + (1) cpd09690[0]",
+        "id": "rxn57014",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70591",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd40268",
+                "formula": "null",
+                "name": "2-(9Z-octadecenoyl)-sn-glycero-3-phosphoethanolamine"
+            },
+            {
+                "charge": -4,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00134",
+                "formula": "C37H62N7O17P3S",
+                "name": "Palmitoyl-CoA"
+            },
+            {
+                "charge": -4,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00010",
+                "formula": "C21H32N7O16P3S",
+                "name": "CoA"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd09690",
+                "formula": "C39H76NO8P",
+                "name": "1-Hexadecanoyl-2-(9Z-octadecenoyl)-sn-glycero-3-phosphoethanolamine"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70595",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd39814[0] + (1) cpd00134[0] <=> (1) cpd40475[0] + (1) cpd00010[0]",
+        "compound_ids": "cpd00010;cpd00134;cpd39814;cpd40475",
+        "definition": "(1) 2-acyl-lysophosphatidylethanolamine zwitterion[0] + (1) Palmitoyl-CoA[0] <=> (1) 1-hexadecanoyl-2-acyl-sn-glycero-3-phosphoethanolamine[0] + (1) CoA[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd39814[0] + (1) cpd00134[0] <=> (1) cpd40475[0] + (1) cpd00010[0]",
+        "id": "rxn57015",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70595",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd39814",
+                "formula": "null",
+                "name": "2-acyl-lysophosphatidylethanolamine zwitterion"
+            },
+            {
+                "charge": -4,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00134",
+                "formula": "C37H62N7O17P3S",
+                "name": "Palmitoyl-CoA"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd40475",
+                "formula": "null",
+                "name": "1-hexadecanoyl-2-acyl-sn-glycero-3-phosphoethanolamine"
+            },
+            {
+                "charge": -4,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00010",
+                "formula": "C21H32N7O16P3S",
+                "name": "CoA"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70599",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd39814[0] + (1) cpd40522[0] <=> (1) cpd39781[0] + (1) cpd00010[0]",
+        "compound_ids": "cpd00010;cpd39781;cpd39814;cpd40522",
+        "definition": "(1) 2-acyl-lysophosphatidylethanolamine zwitterion[0] + (1) a fatty acyl-CoA[0] <=> (1) (2R)-1,2-diacylglycero-3-phosphoethanolamine zwitterion[0] + (1) CoA[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd39814[0] + (1) cpd40522[0] <=> (1) cpd39781[0] + (1) cpd00010[0]",
+        "id": "rxn57016",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70599",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd39814",
+                "formula": "null",
+                "name": "2-acyl-lysophosphatidylethanolamine zwitterion"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd40522",
+                "formula": "null",
+                "name": "a fatty acyl-CoA"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd39781",
+                "formula": "null",
+                "name": "(2R)-1,2-diacylglycero-3-phosphoethanolamine zwitterion"
+            },
+            {
+                "charge": -4,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00010",
+                "formula": "C21H32N7O16P3S",
+                "name": "CoA"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70607",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd09488[0] + (1) cpd00044[0] <=> (1) cpd00045[0] + (1) cpd37430[0]",
+        "compound_ids": "cpd00044;cpd00045;cpd00067;cpd09488;cpd37430",
+        "definition": "(1) p-Ethylphenol[0] + (1) 3-phosphoadenylylsulfate[0] <=> (1) Adenosine 3-5-bisphosphate[0] + (1) H+[0] + (1) 4-ethylphenyl sulfate[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd09488[0] + (1) cpd00044[0] <=> (1) cpd00045[0] + (1) cpd00067[0] + (1) cpd37430[0]",
+        "id": "rxn57017",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70607",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd09488",
+                "formula": "C8H10O",
+                "name": "p-Ethylphenol"
+            },
+            {
+                "charge": -4,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00044",
+                "formula": "C10H11N5O13P2S",
+                "name": "3-phosphoadenylylsulfate"
+            },
+            {
+                "charge": -4,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00045",
+                "formula": "C10H11N5O10P2",
+                "name": "Adenosine 3-5-bisphosphate"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd37430",
+                "formula": "null",
+                "name": "4-ethylphenyl sulfate"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70611",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd42896[0] + (1) cpd11466[0] <=> (1) cpd11493[0] + (1) cpd42474[0]",
+        "compound_ids": "cpd00067;cpd11466;cpd11493;cpd42474;cpd42896",
+        "definition": "(1) L-lysyl-[protein][0] + (1) Myristoyl-ACP[0] <=> (1) ACP[0] + (1) H+[0] + (1) N(6)-tetradecanoyl-L-lysyl-[protein][0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd42896[0] + (1) cpd11466[0] <=> (1) cpd11493[0] + (1) cpd00067[0] + (1) cpd42474[0]",
+        "id": "rxn57018",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70611",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd42896",
+                "formula": "null",
+                "name": "L-lysyl-[protein]"
+            },
+            {
+                "charge": -2,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd11466",
+                "formula": "C25H48N2O8PRS",
+                "name": "Myristoyl-ACP"
+            },
+            {
+                "charge": -2,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd11493",
+                "formula": "C11H22N2O7PRS",
+                "name": "ACP"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd42474",
+                "formula": "null",
+                "name": "N(6)-tetradecanoyl-L-lysyl-[protein]"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70615",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd11476[0] + (1) cpd42896[0] <=> (1) cpd42247[0] + (1) cpd11493[0]",
+        "compound_ids": "cpd00067;cpd11476;cpd11493;cpd42247;cpd42896",
+        "definition": "(1) hexadecanoyl-acp[0] + (1) L-lysyl-[protein][0] <=> (1) H+[0] + (1) N(6)-hexadecanoyl-L-lysyl-[protein][0] + (1) ACP[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd11476[0] + (1) cpd42896[0] <=> (1) cpd00067[0] + (1) cpd42247[0] + (1) cpd11493[0]",
+        "id": "rxn57019",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70615",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": -2,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd11476",
+                "formula": "C27H51N2O8PRS",
+                "name": "hexadecanoyl-acp"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd42896",
+                "formula": "null",
+                "name": "L-lysyl-[protein]"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd42247",
+                "formula": "null",
+                "name": "N(6)-hexadecanoyl-L-lysyl-[protein]"
+            },
+            {
+                "charge": -2,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd11493",
+                "formula": "C11H22N2O7PRS",
+                "name": "ACP"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70619",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd40109[0] + (1) cpd00017[0] <=> (1) cpd00019[0] + (1) cpd41046[0]",
+        "compound_ids": "cpd00017;cpd00019;cpd00067;cpd40109;cpd41046",
+        "definition": "(1) 1,2-di-(9Z-octadecenoyl)-sn-glycero-3-phosphoethanolamine[0] + (1) S-Adenosyl-L-methionine[0] <=> (1) H+[0] + (1) S-Adenosyl-homocysteine[0] + (1) (2R)-2,3-bis{[(9Z)-octadec-9-enoyl]oxy}propyl 2-(methylazaniumyl)ethyl phosphate[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd40109[0] + (1) cpd00017[0] <=> (1) cpd00067[0] + (1) cpd00019[0] + (1) cpd41046[0]",
+        "id": "rxn57020",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70619",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd40109",
+                "formula": "null",
+                "name": "1,2-di-(9Z-octadecenoyl)-sn-glycero-3-phosphoethanolamine"
+            },
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00017",
+                "formula": "C15H23N6O5S",
+                "name": "S-Adenosyl-L-methionine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00019",
+                "formula": "C14H20N6O5S",
+                "name": "S-Adenosyl-homocysteine"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd41046",
+                "formula": "null",
+                "name": "(2R)-2,3-bis{[(9Z)-octadec-9-enoyl]oxy}propyl 2-(methylazaniumyl)ethyl phosphate"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70623",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd41047[0] + (1) cpd00017[0] <=> (1) cpd00019[0] + (1) cpd40083[0]",
+        "compound_ids": "cpd00017;cpd00019;cpd00067;cpd40083;cpd41047",
+        "definition": "(1) (2R)-2,3-bis{[(9Z)-octadec-9-enoyl]oxy}propyl 2-(dimethylazaniumyl)ethyl phosphate[0] + (1) S-Adenosyl-L-methionine[0] <=> (1) S-Adenosyl-homocysteine[0] + (1) H+[0] + (1) (2R)-2,3-bis[(9Z)-octadec-9-enoyloxy]propyl 2-(trimethylazaniumyl)ethyl phosphate[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd41047[0] + (1) cpd00017[0] <=> (1) cpd00019[0] + (1) cpd00067[0] + (1) cpd40083[0]",
+        "id": "rxn57021",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70623",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd41047",
+                "formula": "null",
+                "name": "(2R)-2,3-bis{[(9Z)-octadec-9-enoyl]oxy}propyl 2-(dimethylazaniumyl)ethyl phosphate"
+            },
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00017",
+                "formula": "C15H23N6O5S",
+                "name": "S-Adenosyl-L-methionine"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00019",
+                "formula": "C14H20N6O5S",
+                "name": "S-Adenosyl-homocysteine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd40083",
+                "formula": "null",
+                "name": "(2R)-2,3-bis[(9Z)-octadec-9-enoyloxy]propyl 2-(trimethylazaniumyl)ethyl phosphate"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70627",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00003[0] + (1) cpd42856[0] + (1) cpd00001[0] <=> (1) cpd39454[0] + (1) cpd00133[0] + (1) cpd42896[0]",
+        "compound_ids": "cpd00001;cpd00003;cpd00133;cpd39454;cpd42856;cpd42896",
+        "definition": "(1) NAD[0] + (1) N(6)-dodecanoyl-L-lysyl-[protein][0] + (1) H2O[0] <=> (1) 2''-O-dodecanoyl-ADP-D-ribose[0] + (1) Nicotinamide[0] + (1) L-lysyl-[protein][0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00003[0] + (1) cpd42856[0] + (1) cpd00001[0] <=> (1) cpd39454[0] + (1) cpd00133[0] + (1) cpd42896[0]",
+        "id": "rxn57022",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70627",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": -1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00003",
+                "formula": "C21H26N7O14P2",
+                "name": "NAD"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd42856",
+                "formula": "null",
+                "name": "N(6)-dodecanoyl-L-lysyl-[protein]"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00001",
+                "formula": "H2O",
+                "name": "H2O"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd39454",
+                "formula": "null",
+                "name": "2''-O-dodecanoyl-ADP-D-ribose"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00133",
+                "formula": "C6H6N2O",
+                "name": "Nicotinamide"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd42896",
+                "formula": "null",
+                "name": "L-lysyl-[protein]"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70631",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00003[0] + (1) cpd00001[0] + (1) cpd42855[0] <=> (1) cpd39455[0] + (1) cpd42896[0] + (1) cpd00133[0]",
+        "compound_ids": "cpd00001;cpd00003;cpd00133;cpd39455;cpd42855;cpd42896",
+        "definition": "(1) NAD[0] + (1) H2O[0] + (1) N(6)-decanoyl-L-lysyl-[protein][0] <=> (1) 2''-O-decanoyl-ADP-D-ribose[0] + (1) L-lysyl-[protein][0] + (1) Nicotinamide[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00003[0] + (1) cpd00001[0] + (1) cpd42855[0] <=> (1) cpd39455[0] + (1) cpd42896[0] + (1) cpd00133[0]",
+        "id": "rxn57023",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70631",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": -1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00003",
+                "formula": "C21H26N7O14P2",
+                "name": "NAD"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00001",
+                "formula": "H2O",
+                "name": "H2O"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd42855",
+                "formula": "null",
+                "name": "N(6)-decanoyl-L-lysyl-[protein]"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd39455",
+                "formula": "null",
+                "name": "2''-O-decanoyl-ADP-D-ribose"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd42896",
+                "formula": "null",
+                "name": "L-lysyl-[protein]"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00133",
+                "formula": "C6H6N2O",
+                "name": "Nicotinamide"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70635",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00001[0] + (1) cpd42921[0] + (1) cpd00003[0] <=> (1) cpd42896[0] + (1) cpd00133[0] + (1) cpd39456[0]",
+        "compound_ids": "cpd00001;cpd00003;cpd00133;cpd39456;cpd42896;cpd42921",
+        "definition": "(1) H2O[0] + (1) N(6)-octanoyl-L-lysyl-[protein][0] + (1) NAD[0] <=> (1) L-lysyl-[protein][0] + (1) Nicotinamide[0] + (1) 2''-O-octanoyl-ADP-D-ribose[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00001[0] + (1) cpd42921[0] + (1) cpd00003[0] <=> (1) cpd42896[0] + (1) cpd00133[0] + (1) cpd39456[0]",
+        "id": "rxn57024",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70635",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00001",
+                "formula": "H2O",
+                "name": "H2O"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd42921",
+                "formula": "null",
+                "name": "N(6)-octanoyl-L-lysyl-[protein]"
+            },
+            {
+                "charge": -1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00003",
+                "formula": "C21H26N7O14P2",
+                "name": "NAD"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd42896",
+                "formula": "null",
+                "name": "L-lysyl-[protein]"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00133",
+                "formula": "C6H6N2O",
+                "name": "Nicotinamide"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd39456",
+                "formula": "null",
+                "name": "2''-O-octanoyl-ADP-D-ribose"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70639",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00003[0] + (1) cpd00001[0] + (1) cpd42859[0] <=> (1) cpd42896[0] + (1) cpd00133[0] + (1) cpd39458[0]",
+        "compound_ids": "cpd00001;cpd00003;cpd00133;cpd39458;cpd42859;cpd42896",
+        "definition": "(1) NAD[0] + (1) H2O[0] + (1) N(6)-hexanoyl-L-lysyl-[protein][0] <=> (1) L-lysyl-[protein][0] + (1) Nicotinamide[0] + (1) 2''-O-hexanoyl-ADP-D-ribose[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00003[0] + (1) cpd00001[0] + (1) cpd42859[0] <=> (1) cpd42896[0] + (1) cpd00133[0] + (1) cpd39458[0]",
+        "id": "rxn57025",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70639",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": -1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00003",
+                "formula": "C21H26N7O14P2",
+                "name": "NAD"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00001",
+                "formula": "H2O",
+                "name": "H2O"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd42859",
+                "formula": "null",
+                "name": "N(6)-hexanoyl-L-lysyl-[protein]"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd42896",
+                "formula": "null",
+                "name": "L-lysyl-[protein]"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00133",
+                "formula": "C6H6N2O",
+                "name": "Nicotinamide"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd39458",
+                "formula": "null",
+                "name": "2''-O-hexanoyl-ADP-D-ribose"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70643",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00567[1] <=> (1) cpd00567[0]",
+        "compound_ids": "cpd00067;cpd00567",
+        "definition": "(1) D-Proline[1] + (1) H+[1] <=> (1) D-Proline[0] + (1) H+[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00567[1] + (1) cpd00067[1] <=> (1) cpd00567[0] + (1) cpd00067[0]",
+        "id": "rxn57026",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70643",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "OK",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00567",
+                "formula": "C5H9NO2",
+                "name": "D-Proline"
+            },
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00567",
+                "formula": "C5H9NO2",
+                "name": "D-Proline"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70651",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd42896[0] + (1) cpd41680[0] <=> (1) cpd11493[0] + (1) cpd42860[0]",
+        "compound_ids": "cpd00067;cpd11493;cpd41680;cpd42860;cpd42896",
+        "definition": "(1) L-lysyl-[protein][0] + (1) (9Z)-hexadecenoyl-[ACP][0] <=> (1) ACP[0] + (1) N(6)-[(9Z)-hexadecenoyl]-L-lysyl-[protein][0] + (1) H+[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd42896[0] + (1) cpd41680[0] <=> (1) cpd11493[0] + (1) cpd42860[0] + (1) cpd00067[0]",
+        "id": "rxn57027",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70651",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd42896",
+                "formula": "null",
+                "name": "L-lysyl-[protein]"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd41680",
+                "formula": "null",
+                "name": "(9Z)-hexadecenoyl-[ACP]"
+            },
+            {
+                "charge": -2,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd11493",
+                "formula": "C11H22N2O7PRS",
+                "name": "ACP"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd42860",
+                "formula": "null",
+                "name": "N(6)-[(9Z)-hexadecenoyl]-L-lysyl-[protein]"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70655",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00183[0] <=> (1) cpd00183[1]",
+        "compound_ids": "cpd00067;cpd00183",
+        "definition": "(1) H+[0] + (1) Sarcosine[0] <=> (1) H+[1] + (1) Sarcosine[1]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00067[0] + (1) cpd00183[0] <=> (1) cpd00067[1] + (1) cpd00183[1]",
+        "id": "rxn57028",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70655",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "OK",
+        "stoichiometry": [
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00183",
+                "formula": "C3H7NO2",
+                "name": "Sarcosine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 1,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 1,
+                "compound": "cpd00183",
+                "formula": "C3H7NO2",
+                "name": "Sarcosine"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70659",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00756[0] <=> (1) cpd00756[1]",
+        "compound_ids": "cpd00067;cpd00756",
+        "definition": "(1) Dimethylglycine[0] + (1) H+[0] <=> (1) H+[1] + (1) Dimethylglycine[1]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00756[0] + (1) cpd00067[0] <=> (1) cpd00067[1] + (1) cpd00756[1]",
+        "id": "rxn57029",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70659",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "OK",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00756",
+                "formula": "C4H9NO2",
+                "name": "Dimethylglycine"
+            },
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 1,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 1,
+                "compound": "cpd00756",
+                "formula": "C4H9NO2",
+                "name": "Dimethylglycine"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70663",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd29747[0] <=> (1) cpd29747[1]",
+        "compound_ids": "cpd00067;cpd29747",
+        "definition": "(1) H+[0] + (1) 4-hydroxy-L-proline[0] <=> (1) H+[1] + (1) 4-hydroxy-L-proline[1]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00067[0] + (1) cpd29747[0] <=> (1) cpd00067[1] + (1) cpd29747[1]",
+        "id": "rxn57030",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70663",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "OK",
+        "stoichiometry": [
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd29747",
+                "formula": "null",
+                "name": "4-hydroxy-L-proline"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 1,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 1,
+                "compound": "cpd29747",
+                "formula": "null",
+                "name": "4-hydroxy-L-proline"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70667",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd27419[0] + (1) cpd42896[0] <=> (1) cpd42861[0] + (1) cpd11493[0]",
+        "compound_ids": "cpd00067;cpd11493;cpd27419;cpd42861;cpd42896",
+        "definition": "(1) Long-Chain-Acyl-ACPs[0] + (1) L-lysyl-[protein][0] <=> (1) N(6)-(fatty acyl)-L-lysyl-[protein][0] + (1) ACP[0] + (1) H+[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd27419[0] + (1) cpd42896[0] <=> (1) cpd42861[0] + (1) cpd11493[0] + (1) cpd00067[0]",
+        "id": "rxn57031",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70667",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd27419",
+                "formula": "C27H49N3O9PR3S",
+                "name": "Long-Chain-Acyl-ACPs"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd42896",
+                "formula": "null",
+                "name": "L-lysyl-[protein]"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd42861",
+                "formula": "null",
+                "name": "N(6)-(fatty acyl)-L-lysyl-[protein]"
+            },
+            {
+                "charge": -2,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd11493",
+                "formula": "C11H22N2O7PRS",
+                "name": "ACP"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70671",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd42862[0] + (1) cpd01695[0] <=> (1) cpd00010[0] + (1) cpd42863[0]",
+        "compound_ids": "cpd00010;cpd00067;cpd01695;cpd42862;cpd42863",
+        "definition": "(1) N-terminal glycyl-L-lysyl-[protein][0] + (1) Myristoyl-CoA[0] <=> (1) H+[0] + (1) CoA[0] + (1) N-terminal glycyl-(N(6)-tetradecanoyl)-L-lysyl-[protein][0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd42862[0] + (1) cpd01695[0] <=> (1) cpd00067[0] + (1) cpd00010[0] + (1) cpd42863[0]",
+        "id": "rxn57032",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70671",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd42862",
+                "formula": "null",
+                "name": "N-terminal glycyl-L-lysyl-[protein]"
+            },
+            {
+                "charge": -4,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd01695",
+                "formula": "C35H58N7O17P3S",
+                "name": "Myristoyl-CoA"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": -4,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00010",
+                "formula": "C21H32N7O16P3S",
+                "name": "CoA"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd42863",
+                "formula": "null",
+                "name": "N-terminal glycyl-(N(6)-tetradecanoyl)-L-lysyl-[protein]"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70675",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd14764[0] + (1) cpd00001[0] <=> (1) cpd39466[0] + (1) cpd08495[0]",
+        "compound_ids": "cpd00001;cpd08495;cpd14764;cpd39466",
+        "definition": "(1) Met-enkephalin-Arg-Phe[0] + (1) H2O[0] <=> (1) (2S)-2-{[(2S)-5-{[amino(iminio)methyl]amino}-2-azaniumylpentanoyl]amino}-3-phenylpropanoate[0] + (1) MET-enkephalin[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd14764[0] + (1) cpd00001[0] <=> (1) cpd39466[0] + (1) cpd08495[0]",
+        "id": "rxn57033",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70675",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd14764",
+                "formula": "null",
+                "name": "Met-enkephalin-Arg-Phe"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00001",
+                "formula": "H2O",
+                "name": "H2O"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd39466",
+                "formula": "null",
+                "name": "(2S)-2-{[(2S)-5-{[amino(iminio)methyl]amino}-2-azaniumylpentanoyl]amino}-3-phenylpropanoate"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd08495",
+                "formula": "C27H35N5O7S",
+                "name": "MET-enkephalin"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70683",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00017[0] + (1) cpd03318[0] <=> (1) cpd03317[0] + (1) cpd00019[0]",
+        "compound_ids": "cpd00017;cpd00019;cpd00067;cpd03317;cpd03318",
+        "definition": "(1) S-Adenosyl-L-methionine[0] + (1) L-Normetanephrine[0] <=> (1) L-Metanephrine[0] + (1) S-Adenosyl-homocysteine[0] + (1) H+[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00017[0] + (1) cpd03318[0] <=> (1) cpd03317[0] + (1) cpd00019[0] + (1) cpd00067[0]",
+        "id": "rxn57034",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70683",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "OK",
+        "stoichiometry": [
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00017",
+                "formula": "C15H23N6O5S",
+                "name": "S-Adenosyl-L-methionine"
+            },
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd03318",
+                "formula": "C9H14NO3",
+                "name": "L-Normetanephrine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd03317",
+                "formula": "C10H16NO3",
+                "name": "L-Metanephrine"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00019",
+                "formula": "C14H20N6O5S",
+                "name": "S-Adenosyl-homocysteine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70687",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(2) cpd00971[1] + (1) cpd00099[1] + (1) cpd00281[1] <=> (1) cpd00099[0] + (1) cpd00281[0] + (2) cpd00971[0]",
+        "compound_ids": "cpd00099;cpd00281;cpd00971",
+        "definition": "(2) Na+[1] + (1) Cl-[1] + (1) GABA[1] <=> (1) Cl-[0] + (1) GABA[0] + (2) Na+[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(2) cpd00971[1] + (1) cpd00099[1] + (1) cpd00281[1] <=> (1) cpd00099[0] + (1) cpd00281[0] + (2) cpd00971[0]",
+        "id": "rxn57035",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70687",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "OK",
+        "stoichiometry": [
+            {
+                "charge": 1,
+                "coefficient": -2,
+                "compartment": 1,
+                "compound": "cpd00971",
+                "formula": "Na",
+                "name": "Na+"
+            },
+            {
+                "charge": -1,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00099",
+                "formula": "Cl",
+                "name": "Cl-"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00281",
+                "formula": "C4H9NO2",
+                "name": "GABA"
+            },
+            {
+                "charge": -1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00099",
+                "formula": "Cl",
+                "name": "Cl-"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00281",
+                "formula": "C4H9NO2",
+                "name": "GABA"
+            },
+            {
+                "charge": 1,
+                "coefficient": 2,
+                "compartment": 0,
+                "compound": "cpd00971",
+                "formula": "Na",
+                "name": "Na+"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70691",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00099[1] + (1) cpd00033[1] + (2) cpd00971[1] <=> (2) cpd00971[0] + (1) cpd00033[0] + (1) cpd00099[0]",
+        "compound_ids": "cpd00033;cpd00099;cpd00971",
+        "definition": "(1) Cl-[1] + (1) Glycine[1] + (2) Na+[1] <=> (2) Na+[0] + (1) Glycine[0] + (1) Cl-[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00099[1] + (1) cpd00033[1] + (2) cpd00971[1] <=> (2) cpd00971[0] + (1) cpd00033[0] + (1) cpd00099[0]",
+        "id": "rxn57036",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70691",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "OK",
+        "stoichiometry": [
+            {
+                "charge": -1,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00099",
+                "formula": "Cl",
+                "name": "Cl-"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00033",
+                "formula": "C2H5NO2",
+                "name": "Glycine"
+            },
+            {
+                "charge": 1,
+                "coefficient": -2,
+                "compartment": 1,
+                "compound": "cpd00971",
+                "formula": "Na",
+                "name": "Na+"
+            },
+            {
+                "charge": 1,
+                "coefficient": 2,
+                "compartment": 0,
+                "compound": "cpd00971",
+                "formula": "Na",
+                "name": "Na+"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00033",
+                "formula": "C2H5NO2",
+                "name": "Glycine"
+            },
+            {
+                "charge": -1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00099",
+                "formula": "Cl",
+                "name": "Cl-"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70695",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00099[1] + (3) cpd00971[1] + (1) cpd00033[1] <=> (3) cpd00971[0] + (1) cpd00033[0] + (1) cpd00099[0]",
+        "compound_ids": "cpd00033;cpd00099;cpd00971",
+        "definition": "(1) Cl-[1] + (3) Na+[1] + (1) Glycine[1] <=> (3) Na+[0] + (1) Glycine[0] + (1) Cl-[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00099[1] + (3) cpd00971[1] + (1) cpd00033[1] <=> (3) cpd00971[0] + (1) cpd00033[0] + (1) cpd00099[0]",
+        "id": "rxn57037",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70695",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "OK",
+        "stoichiometry": [
+            {
+                "charge": -1,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00099",
+                "formula": "Cl",
+                "name": "Cl-"
+            },
+            {
+                "charge": 1,
+                "coefficient": -3,
+                "compartment": 1,
+                "compound": "cpd00971",
+                "formula": "Na",
+                "name": "Na+"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00033",
+                "formula": "C2H5NO2",
+                "name": "Glycine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 3,
+                "compartment": 0,
+                "compound": "cpd00971",
+                "formula": "Na",
+                "name": "Na+"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00033",
+                "formula": "C2H5NO2",
+                "name": "Glycine"
+            },
+            {
+                "charge": -1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00099",
+                "formula": "Cl",
+                "name": "Cl-"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70699",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(3) cpd00971[1] + (1) cpd00205[0] + (1) cpd00023[1] <=> (1) cpd00205[1] + (3) cpd00971[0] + (1) cpd00023[0]",
+        "compound_ids": "cpd00023;cpd00067;cpd00205;cpd00971",
+        "definition": "(3) Na+[1] + (1) K+[0] + (1) H+[1] + (1) L-Glutamate[1] <=> (1) K+[1] + (1) H+[0] + (3) Na+[0] + (1) L-Glutamate[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(3) cpd00971[1] + (1) cpd00205[0] + (1) cpd00067[1] + (1) cpd00023[1] <=> (1) cpd00205[1] + (1) cpd00067[0] + (3) cpd00971[0] + (1) cpd00023[0]",
+        "id": "rxn57038",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70699",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "OK",
+        "stoichiometry": [
+            {
+                "charge": 1,
+                "coefficient": -3,
+                "compartment": 1,
+                "compound": "cpd00971",
+                "formula": "Na",
+                "name": "Na+"
+            },
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00205",
+                "formula": "K",
+                "name": "K+"
+            },
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": -1,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00023",
+                "formula": "C5H8NO4",
+                "name": "L-Glutamate"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 1,
+                "compound": "cpd00205",
+                "formula": "K",
+                "name": "K+"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": 1,
+                "coefficient": 3,
+                "compartment": 0,
+                "compound": "cpd00971",
+                "formula": "Na",
+                "name": "Na+"
+            },
+            {
+                "charge": -1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00023",
+                "formula": "C5H8NO4",
+                "name": "L-Glutamate"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70707",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd38234[0] <=> (1) cpd39468[0]",
+        "compound_ids": "cpd38234;cpd39468",
+        "definition": "(1) 6-deoxy-6-sulfonato-beta-D-glucopyranose[0] <=> (1) 6-sulfo-D-rhamnose[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd38234[0] <=> (1) cpd39468[0]",
+        "id": "rxn57039",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70707",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd38234",
+                "formula": "null",
+                "name": "6-deoxy-6-sulfonato-beta-D-glucopyranose"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd39468",
+                "formula": "null",
+                "name": "6-sulfo-D-rhamnose"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70723",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd01210[1] <=> (1) cpd01210[0]",
+        "compound_ids": "cpd01210",
+        "definition": "(1) Sitosterol[1] <=> (1) Sitosterol[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd01210[1] <=> (1) cpd01210[0]",
+        "id": "rxn57040",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70723",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "OK",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd01210",
+                "formula": "C29H50O",
+                "name": "Sitosterol"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd01210",
+                "formula": "C29H50O",
+                "name": "Sitosterol"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70731",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00099[1] + (1) cpd00281[1] + (3) cpd00971[1] <=> (1) cpd00281[0] + (1) cpd00099[0] + (3) cpd00971[0]",
+        "compound_ids": "cpd00099;cpd00281;cpd00971",
+        "definition": "(1) Cl-[1] + (1) GABA[1] + (3) Na+[1] <=> (1) GABA[0] + (1) Cl-[0] + (3) Na+[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00099[1] + (1) cpd00281[1] + (3) cpd00971[1] <=> (1) cpd00281[0] + (1) cpd00099[0] + (3) cpd00971[0]",
+        "id": "rxn57041",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70731",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "OK",
+        "stoichiometry": [
+            {
+                "charge": -1,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00099",
+                "formula": "Cl",
+                "name": "Cl-"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00281",
+                "formula": "C4H9NO2",
+                "name": "GABA"
+            },
+            {
+                "charge": 1,
+                "coefficient": -3,
+                "compartment": 1,
+                "compound": "cpd00971",
+                "formula": "Na",
+                "name": "Na+"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00281",
+                "formula": "C4H9NO2",
+                "name": "GABA"
+            },
+            {
+                "charge": -1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00099",
+                "formula": "Cl",
+                "name": "Cl-"
+            },
+            {
+                "charge": 1,
+                "coefficient": 3,
+                "compartment": 0,
+                "compound": "cpd00971",
+                "formula": "Na",
+                "name": "Na+"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70735",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00540[1] + (2) cpd00971[1] + (1) cpd00099[1] <=> (1) cpd00540[0] + (2) cpd00971[0] + (1) cpd00099[0]",
+        "compound_ids": "cpd00099;cpd00540;cpd00971",
+        "definition": "(1) BET[1] + (2) Na+[1] + (1) Cl-[1] <=> (1) BET[0] + (2) Na+[0] + (1) Cl-[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00540[1] + (2) cpd00971[1] + (1) cpd00099[1] <=> (1) cpd00540[0] + (2) cpd00971[0] + (1) cpd00099[0]",
+        "id": "rxn57042",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70735",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "OK",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00540",
+                "formula": "C5H11NO2",
+                "name": "BET"
+            },
+            {
+                "charge": 1,
+                "coefficient": -2,
+                "compartment": 1,
+                "compound": "cpd00971",
+                "formula": "Na",
+                "name": "Na+"
+            },
+            {
+                "charge": -1,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00099",
+                "formula": "Cl",
+                "name": "Cl-"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00540",
+                "formula": "C5H11NO2",
+                "name": "BET"
+            },
+            {
+                "charge": 1,
+                "coefficient": 2,
+                "compartment": 0,
+                "compound": "cpd00971",
+                "formula": "Na",
+                "name": "Na+"
+            },
+            {
+                "charge": -1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00099",
+                "formula": "Cl",
+                "name": "Cl-"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70739",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00017[0] + (1) cpd39195[0] <=> (1) cpd00019[0] + (1) cpd39459[0]",
+        "compound_ids": "cpd00017;cpd00019;cpd00067;cpd39195;cpd39459",
+        "definition": "(1) S-Adenosyl-L-methionine[0] + (1) 1,2-di-(9Z,12Z-octadecadienoyl)-sn-glycero-3-phosphoethanolamine[0] <=> (1) H+[0] + (1) S-Adenosyl-homocysteine[0] + (1) 1,2-di-(9Z,12Z-octadecadienoyl)-sn-glycero-3-phospho-N-methylethanolamine[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00017[0] + (1) cpd39195[0] <=> (1) cpd00067[0] + (1) cpd00019[0] + (1) cpd39459[0]",
+        "id": "rxn57043",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70739",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00017",
+                "formula": "C15H23N6O5S",
+                "name": "S-Adenosyl-L-methionine"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd39195",
+                "formula": "null",
+                "name": "1,2-di-(9Z,12Z-octadecadienoyl)-sn-glycero-3-phosphoethanolamine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00019",
+                "formula": "C14H20N6O5S",
+                "name": "S-Adenosyl-homocysteine"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd39459",
+                "formula": "null",
+                "name": "1,2-di-(9Z,12Z-octadecadienoyl)-sn-glycero-3-phospho-N-methylethanolamine"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70743",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd39459[0] + (1) cpd00017[0] <=> (1) cpd00019[0] + (1) cpd39460[0]",
+        "compound_ids": "cpd00017;cpd00019;cpd00067;cpd39459;cpd39460",
+        "definition": "(1) 1,2-di-(9Z,12Z-octadecadienoyl)-sn-glycero-3-phospho-N-methylethanolamine[0] + (1) S-Adenosyl-L-methionine[0] <=> (1) H+[0] + (1) S-Adenosyl-homocysteine[0] + (1) 1,2-di-(9Z,12Z-octadecadienoyl)-sn-glycero-3-phospho-N,N-dimethylethanolamine[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd39459[0] + (1) cpd00017[0] <=> (1) cpd00067[0] + (1) cpd00019[0] + (1) cpd39460[0]",
+        "id": "rxn57044",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70743",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd39459",
+                "formula": "null",
+                "name": "1,2-di-(9Z,12Z-octadecadienoyl)-sn-glycero-3-phospho-N-methylethanolamine"
+            },
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00017",
+                "formula": "C15H23N6O5S",
+                "name": "S-Adenosyl-L-methionine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00019",
+                "formula": "C14H20N6O5S",
+                "name": "S-Adenosyl-homocysteine"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd39460",
+                "formula": "null",
+                "name": "1,2-di-(9Z,12Z-octadecadienoyl)-sn-glycero-3-phospho-N,N-dimethylethanolamine"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70747",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00017[0] + (1) cpd39460[0] <=> (1) cpd00019[0] + (1) cpd39504[0]",
+        "compound_ids": "cpd00017;cpd00019;cpd00067;cpd39460;cpd39504",
+        "definition": "(1) S-Adenosyl-L-methionine[0] + (1) 1,2-di-(9Z,12Z-octadecadienoyl)-sn-glycero-3-phospho-N,N-dimethylethanolamine[0] <=> (1) S-Adenosyl-homocysteine[0] + (1) (2R)-2,3-bis[(9Z,12Z)-octadeca-9,12-dienoyloxy]propyl 2-(trimethylammonio)ethyl phosphate[0] + (1) H+[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00017[0] + (1) cpd39460[0] <=> (1) cpd00019[0] + (1) cpd39504[0] + (1) cpd00067[0]",
+        "id": "rxn57045",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70747",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00017",
+                "formula": "C15H23N6O5S",
+                "name": "S-Adenosyl-L-methionine"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd39460",
+                "formula": "null",
+                "name": "1,2-di-(9Z,12Z-octadecadienoyl)-sn-glycero-3-phospho-N,N-dimethylethanolamine"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00019",
+                "formula": "C14H20N6O5S",
+                "name": "S-Adenosyl-homocysteine"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd39504",
+                "formula": "null",
+                "name": "(2R)-2,3-bis[(9Z,12Z)-octadeca-9,12-dienoyloxy]propyl 2-(trimethylammonio)ethyl phosphate"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70751",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd39461[0] + (1) cpd00017[0] <=> (1) cpd00019[0] + (1) cpd39462[0]",
+        "compound_ids": "cpd00017;cpd00019;cpd00067;cpd39461;cpd39462",
+        "definition": "(1) 1,2-di-(9Z,12Z,15Z-octadecatrienoyl)-sn-glycero-3-phosphoethanolamine[0] + (1) S-Adenosyl-L-methionine[0] <=> (1) S-Adenosyl-homocysteine[0] + (1) H+[0] + (1) 1,2-di-(9Z,12Z,15Z-octadecatrienoyl)-sn-glycero-3-phospho-N-methylethanolamine[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd39461[0] + (1) cpd00017[0] <=> (1) cpd00019[0] + (1) cpd00067[0] + (1) cpd39462[0]",
+        "id": "rxn57046",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70751",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd39461",
+                "formula": "null",
+                "name": "1,2-di-(9Z,12Z,15Z-octadecatrienoyl)-sn-glycero-3-phosphoethanolamine"
+            },
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00017",
+                "formula": "C15H23N6O5S",
+                "name": "S-Adenosyl-L-methionine"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00019",
+                "formula": "C14H20N6O5S",
+                "name": "S-Adenosyl-homocysteine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd39462",
+                "formula": "null",
+                "name": "1,2-di-(9Z,12Z,15Z-octadecatrienoyl)-sn-glycero-3-phospho-N-methylethanolamine"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70755",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00017[0] + (1) cpd39462[0] <=> (1) cpd39463[0] + (1) cpd00019[0]",
+        "compound_ids": "cpd00017;cpd00019;cpd00067;cpd39462;cpd39463",
+        "definition": "(1) S-Adenosyl-L-methionine[0] + (1) 1,2-di-(9Z,12Z,15Z-octadecatrienoyl)-sn-glycero-3-phospho-N-methylethanolamine[0] <=> (1) H+[0] + (1) 1,2-di-(9Z,12Z,15Z-octadecatrienoyl)-sn-glycero-3-phospho-N,N-dimethylethanolamine[0] + (1) S-Adenosyl-homocysteine[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00017[0] + (1) cpd39462[0] <=> (1) cpd00067[0] + (1) cpd39463[0] + (1) cpd00019[0]",
+        "id": "rxn57047",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70755",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00017",
+                "formula": "C15H23N6O5S",
+                "name": "S-Adenosyl-L-methionine"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd39462",
+                "formula": "null",
+                "name": "1,2-di-(9Z,12Z,15Z-octadecatrienoyl)-sn-glycero-3-phospho-N-methylethanolamine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd39463",
+                "formula": "null",
+                "name": "1,2-di-(9Z,12Z,15Z-octadecatrienoyl)-sn-glycero-3-phospho-N,N-dimethylethanolamine"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00019",
+                "formula": "C14H20N6O5S",
+                "name": "S-Adenosyl-homocysteine"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70759",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00017[0] + (1) cpd39463[0] <=> (1) cpd00019[0] + (1) cpd41085[0]",
+        "compound_ids": "cpd00017;cpd00019;cpd00067;cpd39463;cpd41085",
+        "definition": "(1) S-Adenosyl-L-methionine[0] + (1) 1,2-di-(9Z,12Z,15Z-octadecatrienoyl)-sn-glycero-3-phospho-N,N-dimethylethanolamine[0] <=> (1) H+[0] + (1) S-Adenosyl-homocysteine[0] + (1) (2R)-2,3-bis{[(9Z,12Z,15Z)-octadeca-9,12,15-trienoyl]oxy}propyl 2-(trimethylazaniumyl)ethyl phosphate[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00017[0] + (1) cpd39463[0] <=> (1) cpd00067[0] + (1) cpd00019[0] + (1) cpd41085[0]",
+        "id": "rxn57048",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70759",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00017",
+                "formula": "C15H23N6O5S",
+                "name": "S-Adenosyl-L-methionine"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd39463",
+                "formula": "null",
+                "name": "1,2-di-(9Z,12Z,15Z-octadecatrienoyl)-sn-glycero-3-phospho-N,N-dimethylethanolamine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00019",
+                "formula": "C14H20N6O5S",
+                "name": "S-Adenosyl-homocysteine"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd41085",
+                "formula": "null",
+                "name": "(2R)-2,3-bis{[(9Z,12Z,15Z)-octadeca-9,12,15-trienoyl]oxy}propyl 2-(trimethylazaniumyl)ethyl phosphate"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70763",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00017[0] + (1) cpd40603[0] <=> (1) cpd00019[0] + (1) cpd39464[0]",
+        "compound_ids": "cpd00017;cpd00019;cpd00067;cpd39464;cpd40603",
+        "definition": "(1) S-Adenosyl-L-methionine[0] + (1) 1-hexadecanoyl-2-(4Z,7Z,10Z,13Z,16Z,19Z-docosahexaenoyl)-sn-glycero-3-phosphoethanolamine[0] <=> (1) S-Adenosyl-homocysteine[0] + (1) H+[0] + (1) 1-hexadecanoyl-2-(4Z,7Z,10Z,13Z,16Z,19Z-docosahexaenoyl)-sn-glycero-3-phospho-N-methylethanolamine[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00017[0] + (1) cpd40603[0] <=> (1) cpd00019[0] + (1) cpd00067[0] + (1) cpd39464[0]",
+        "id": "rxn57049",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70763",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00017",
+                "formula": "C15H23N6O5S",
+                "name": "S-Adenosyl-L-methionine"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd40603",
+                "formula": "null",
+                "name": "1-hexadecanoyl-2-(4Z,7Z,10Z,13Z,16Z,19Z-docosahexaenoyl)-sn-glycero-3-phosphoethanolamine"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00019",
+                "formula": "C14H20N6O5S",
+                "name": "S-Adenosyl-homocysteine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd39464",
+                "formula": "null",
+                "name": "1-hexadecanoyl-2-(4Z,7Z,10Z,13Z,16Z,19Z-docosahexaenoyl)-sn-glycero-3-phospho-N-methylethanolamine"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70767",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00017[0] + (1) cpd39464[0] <=> (1) cpd00019[0] + (1) cpd39465[0]",
+        "compound_ids": "cpd00017;cpd00019;cpd00067;cpd39464;cpd39465",
+        "definition": "(1) S-Adenosyl-L-methionine[0] + (1) 1-hexadecanoyl-2-(4Z,7Z,10Z,13Z,16Z,19Z-docosahexaenoyl)-sn-glycero-3-phospho-N-methylethanolamine[0] <=> (1) S-Adenosyl-homocysteine[0] + (1) H+[0] + (1) 1-hexadecanoyl-2-(4Z,7Z,10Z,13Z,16Z,19Z-docosahexaenoyl)-sn-glycero-3-phospho-N,N-dimethylethanolamine[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00017[0] + (1) cpd39464[0] <=> (1) cpd00019[0] + (1) cpd00067[0] + (1) cpd39465[0]",
+        "id": "rxn57050",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70767",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00017",
+                "formula": "C15H23N6O5S",
+                "name": "S-Adenosyl-L-methionine"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd39464",
+                "formula": "null",
+                "name": "1-hexadecanoyl-2-(4Z,7Z,10Z,13Z,16Z,19Z-docosahexaenoyl)-sn-glycero-3-phospho-N-methylethanolamine"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00019",
+                "formula": "C14H20N6O5S",
+                "name": "S-Adenosyl-homocysteine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd39465",
+                "formula": "null",
+                "name": "1-hexadecanoyl-2-(4Z,7Z,10Z,13Z,16Z,19Z-docosahexaenoyl)-sn-glycero-3-phospho-N,N-dimethylethanolamine"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70771",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00017[0] + (1) cpd39465[0] <=> (1) cpd40102[0] + (1) cpd00019[0]",
+        "compound_ids": "cpd00017;cpd00019;cpd00067;cpd39465;cpd40102",
+        "definition": "(1) S-Adenosyl-L-methionine[0] + (1) 1-hexadecanoyl-2-(4Z,7Z,10Z,13Z,16Z,19Z-docosahexaenoyl)-sn-glycero-3-phospho-N,N-dimethylethanolamine[0] <=> (1) (2R)-2-[(4Z,7Z,10Z,13Z,16Z,19Z)-docosa-4,7,10,13,16,19-hexaenoyloxy]-3-(palmitoyloxy)propyl 2-(trimethylazaniumyl)ethyl phosphate[0] + (1) S-Adenosyl-homocysteine[0] + (1) H+[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00017[0] + (1) cpd39465[0] <=> (1) cpd40102[0] + (1) cpd00019[0] + (1) cpd00067[0]",
+        "id": "rxn57051",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70771",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00017",
+                "formula": "C15H23N6O5S",
+                "name": "S-Adenosyl-L-methionine"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd39465",
+                "formula": "null",
+                "name": "1-hexadecanoyl-2-(4Z,7Z,10Z,13Z,16Z,19Z-docosahexaenoyl)-sn-glycero-3-phospho-N,N-dimethylethanolamine"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd40102",
+                "formula": "null",
+                "name": "(2R)-2-[(4Z,7Z,10Z,13Z,16Z,19Z)-docosa-4,7,10,13,16,19-hexaenoyloxy]-3-(palmitoyloxy)propyl 2-(trimethylazaniumyl)ethyl phosphate"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00019",
+                "formula": "C14H20N6O5S",
+                "name": "S-Adenosyl-homocysteine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70775",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd22614[0] + (1) cpd00007[0] + (1) cpd01270[0] <=> (1) cpd39467[0] + (1) cpd00001[0] + (1) cpd00081[0] + (1) cpd00050[0]",
+        "compound_ids": "cpd00001;cpd00007;cpd00050;cpd00067;cpd00081;cpd01270;cpd22614;cpd39467",
+        "definition": "(1) sulfoquinovose[0] + (1) O2[0] + (1) FMNH2[0] <=> (2) H+[0] + (1) 6-dehydro-D-glucose[0] + (1) H2O[0] + (1) Sulfite[0] + (1) FMN[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd22614[0] + (1) cpd00007[0] + (1) cpd01270[0] <=> (2) cpd00067[0] + (1) cpd39467[0] + (1) cpd00001[0] + (1) cpd00081[0] + (1) cpd00050[0]",
+        "id": "rxn57052",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70775",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": -1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd22614",
+                "formula": "C6H11O8S",
+                "name": "sulfoquinovose"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00007",
+                "formula": "O2",
+                "name": "O2"
+            },
+            {
+                "charge": -2,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd01270",
+                "formula": "C17H21N4O9P",
+                "name": "FMNH2"
+            },
+            {
+                "charge": 1,
+                "coefficient": 2,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd39467",
+                "formula": "null",
+                "name": "6-dehydro-D-glucose"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00001",
+                "formula": "H2O",
+                "name": "H2O"
+            },
+            {
+                "charge": -1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00081",
+                "formula": "HO3S",
+                "name": "Sulfite"
+            },
+            {
+                "charge": -2,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00050",
+                "formula": "C17H19N4O9P",
+                "name": "FMN"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70779",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00006[0] + (1) cpd00027[0] <=> (1) cpd39467[0] + (1) cpd00005[0]",
+        "compound_ids": "cpd00005;cpd00006;cpd00027;cpd00067;cpd39467",
+        "definition": "(1) NADP[0] + (1) D-Glucose[0] <=> (1) 6-dehydro-D-glucose[0] + (1) NADPH[0] + (1) H+[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00006[0] + (1) cpd00027[0] <=> (1) cpd39467[0] + (1) cpd00005[0] + (1) cpd00067[0]",
+        "id": "rxn57053",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70779",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "CPDFORMERROR",
+        "stoichiometry": [
+            {
+                "charge": -3,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00006",
+                "formula": "C21H25N7O17P3",
+                "name": "NADP"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00027",
+                "formula": "C6H12O6",
+                "name": "D-Glucose"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd39467",
+                "formula": "null",
+                "name": "6-dehydro-D-glucose"
+            },
+            {
+                "charge": -4,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00005",
+                "formula": "C21H26N7O17P3",
+                "name": "NADPH"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70783",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00023[1] + (1) cpd00041[0] <=> (1) cpd00023[0] + (1) cpd00041[1]",
+        "compound_ids": "cpd00023;cpd00041;cpd00067",
+        "definition": "(1) L-Glutamate[1] + (1) H+[1] + (1) L-Aspartate[0] <=> (1) L-Glutamate[0] + (1) H+[0] + (1) L-Aspartate[1]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00023[1] + (1) cpd00067[1] + (1) cpd00041[0] <=> (1) cpd00023[0] + (1) cpd00067[0] + (1) cpd00041[1]",
+        "id": "rxn57054",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70783",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "OK",
+        "stoichiometry": [
+            {
+                "charge": -1,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00023",
+                "formula": "C5H8NO4",
+                "name": "L-Glutamate"
+            },
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": -1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00041",
+                "formula": "C4H6NO4",
+                "name": "L-Aspartate"
+            },
+            {
+                "charge": -1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00023",
+                "formula": "C5H8NO4",
+                "name": "L-Glutamate"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": -1,
+                "coefficient": 1,
+                "compartment": 1,
+                "compound": "cpd00041",
+                "formula": "C4H6NO4",
+                "name": "L-Aspartate"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70787",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00064[1] + (1) cpd00274[0] <=> (1) cpd00274[1] + (1) cpd00064[0]",
+        "compound_ids": "cpd00064;cpd00067;cpd00274",
+        "definition": "(1) Ornithine[1] + (1) Citrulline[0] + (1) H+[0] <=> (1) H+[1] + (1) Citrulline[1] + (1) Ornithine[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00064[1] + (1) cpd00274[0] + (1) cpd00067[0] <=> (1) cpd00067[1] + (1) cpd00274[1] + (1) cpd00064[0]",
+        "id": "rxn57055",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70787",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "OK",
+        "stoichiometry": [
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00064",
+                "formula": "C5H13N2O2",
+                "name": "Ornithine"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00274",
+                "formula": "C6H13N3O3",
+                "name": "Citrulline"
+            },
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 1,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 1,
+                "compound": "cpd00274",
+                "formula": "C6H13N3O3",
+                "name": "Citrulline"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00064",
+                "formula": "C5H13N2O2",
+                "name": "Ornithine"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70799",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00064[1] + (1) cpd00039[0] <=> (1) cpd00064[0] + (1) cpd00039[1]",
+        "compound_ids": "cpd00039;cpd00064",
+        "definition": "(1) Ornithine[1] + (1) L-Lysine[0] <=> (1) Ornithine[0] + (1) L-Lysine[1]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00064[1] + (1) cpd00039[0] <=> (1) cpd00064[0] + (1) cpd00039[1]",
+        "id": "rxn57056",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70799",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "OK",
+        "stoichiometry": [
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00064",
+                "formula": "C5H13N2O2",
+                "name": "Ornithine"
+            },
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00039",
+                "formula": "C6H15N2O2",
+                "name": "L-Lysine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00064",
+                "formula": "C5H13N2O2",
+                "name": "Ornithine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 1,
+                "compound": "cpd00039",
+                "formula": "C6H15N2O2",
+                "name": "L-Lysine"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70815",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00119[0] + (1) cpd00064[1] <=> (1) cpd00119[1] + (1) cpd00064[0]",
+        "compound_ids": "cpd00064;cpd00067;cpd00119",
+        "definition": "(1) L-Histidine[0] + (1) Ornithine[1] + (1) H+[0] <=> (1) L-Histidine[1] + (1) Ornithine[0] + (1) H+[1]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00119[0] + (1) cpd00064[1] + (1) cpd00067[0] <=> (1) cpd00119[1] + (1) cpd00064[0] + (1) cpd00067[1]",
+        "id": "rxn57057",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70815",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "OK",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00119",
+                "formula": "C6H9N3O2",
+                "name": "L-Histidine"
+            },
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00064",
+                "formula": "C5H13N2O2",
+                "name": "Ornithine"
+            },
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 1,
+                "compound": "cpd00119",
+                "formula": "C6H9N3O2",
+                "name": "L-Histidine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00064",
+                "formula": "C5H13N2O2",
+                "name": "Ornithine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 1,
+                "compound": "cpd00067",
+                "formula": "H",
+                "name": "H+"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70819",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00064[1] + (1) cpd01319[0] <=> (1) cpd01319[1] + (1) cpd00064[0]",
+        "compound_ids": "cpd00064;cpd01319",
+        "definition": "(1) Ornithine[1] + (1) Homoarginine[0] <=> (1) Homoarginine[1] + (1) Ornithine[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00064[1] + (1) cpd01319[0] <=> (1) cpd01319[1] + (1) cpd00064[0]",
+        "id": "rxn57058",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70819",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "OK",
+        "stoichiometry": [
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00064",
+                "formula": "C5H13N2O2",
+                "name": "Ornithine"
+            },
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd01319",
+                "formula": "C7H17N4O2",
+                "name": "Homoarginine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 1,
+                "compound": "cpd01319",
+                "formula": "C7H17N4O2",
+                "name": "Homoarginine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00064",
+                "formula": "C5H13N2O2",
+                "name": "Ornithine"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70827",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00039[1] + (1) cpd00051[0] <=> (1) cpd00051[1] + (1) cpd00039[0]",
+        "compound_ids": "cpd00039;cpd00051",
+        "definition": "(1) L-Lysine[1] + (1) L-Arginine[0] <=> (1) L-Arginine[1] + (1) L-Lysine[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00039[1] + (1) cpd00051[0] <=> (1) cpd00051[1] + (1) cpd00039[0]",
+        "id": "rxn57059",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70827",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "OK",
+        "stoichiometry": [
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00039",
+                "formula": "C6H15N2O2",
+                "name": "L-Lysine"
+            },
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00051",
+                "formula": "C6H15N4O2",
+                "name": "L-Arginine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 1,
+                "compound": "cpd00051",
+                "formula": "C6H15N4O2",
+                "name": "L-Arginine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00039",
+                "formula": "C6H15N2O2",
+                "name": "L-Lysine"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70831",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00107[1] + (1) cpd00051[0] + (1) cpd00971[1] <=> (1) cpd00051[1] + (1) cpd00107[0] + (1) cpd00971[0]",
+        "compound_ids": "cpd00051;cpd00107;cpd00971",
+        "definition": "(1) L-Leucine[1] + (1) L-Arginine[0] + (1) Na+[1] <=> (1) L-Arginine[1] + (1) L-Leucine[0] + (1) Na+[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00107[1] + (1) cpd00051[0] + (1) cpd00971[1] <=> (1) cpd00051[1] + (1) cpd00107[0] + (1) cpd00971[0]",
+        "id": "rxn57060",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70831",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "OK",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00107",
+                "formula": "C6H13NO2",
+                "name": "L-Leucine"
+            },
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00051",
+                "formula": "C6H15N4O2",
+                "name": "L-Arginine"
+            },
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00971",
+                "formula": "Na",
+                "name": "Na+"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 1,
+                "compound": "cpd00051",
+                "formula": "C6H15N4O2",
+                "name": "L-Arginine"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00107",
+                "formula": "C6H13NO2",
+                "name": "L-Leucine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00971",
+                "formula": "Na",
+                "name": "Na+"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70835",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00971[1] + (1) cpd00051[0] + (1) cpd00053[1] <=> (1) cpd00051[1] + (1) cpd00053[0] + (1) cpd00971[0]",
+        "compound_ids": "cpd00051;cpd00053;cpd00971",
+        "definition": "(1) Na+[1] + (1) L-Arginine[0] + (1) L-Glutamine[1] <=> (1) L-Arginine[1] + (1) L-Glutamine[0] + (1) Na+[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00971[1] + (1) cpd00051[0] + (1) cpd00053[1] <=> (1) cpd00051[1] + (1) cpd00053[0] + (1) cpd00971[0]",
+        "id": "rxn57061",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70835",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "OK",
+        "stoichiometry": [
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00971",
+                "formula": "Na",
+                "name": "Na+"
+            },
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00051",
+                "formula": "C6H15N4O2",
+                "name": "L-Arginine"
+            },
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00053",
+                "formula": "C5H10N2O3",
+                "name": "L-Glutamine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 1,
+                "compound": "cpd00051",
+                "formula": "C6H15N4O2",
+                "name": "L-Arginine"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00053",
+                "formula": "C5H10N2O3",
+                "name": "L-Glutamine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00971",
+                "formula": "Na",
+                "name": "Na+"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70839",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00119[1] + (1) cpd00051[0] + (1) cpd00971[1] <=> (1) cpd00119[0] + (1) cpd00051[1] + (1) cpd00971[0]",
+        "compound_ids": "cpd00051;cpd00119;cpd00971",
+        "definition": "(1) L-Histidine[1] + (1) L-Arginine[0] + (1) Na+[1] <=> (1) L-Histidine[0] + (1) L-Arginine[1] + (1) Na+[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00119[1] + (1) cpd00051[0] + (1) cpd00971[1] <=> (1) cpd00119[0] + (1) cpd00051[1] + (1) cpd00971[0]",
+        "id": "rxn57062",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70839",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "OK",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00119",
+                "formula": "C6H9N3O2",
+                "name": "L-Histidine"
+            },
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00051",
+                "formula": "C6H15N4O2",
+                "name": "L-Arginine"
+            },
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00971",
+                "formula": "Na",
+                "name": "Na+"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00119",
+                "formula": "C6H9N3O2",
+                "name": "L-Histidine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 1,
+                "compound": "cpd00051",
+                "formula": "C6H15N4O2",
+                "name": "L-Arginine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00971",
+                "formula": "Na",
+                "name": "Na+"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70843",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00060[1] + (1) cpd00971[1] + (1) cpd00051[0] <=> (1) cpd00971[0] + (1) cpd00051[1] + (1) cpd00060[0]",
+        "compound_ids": "cpd00051;cpd00060;cpd00971",
+        "definition": "(1) L-Methionine[1] + (1) Na+[1] + (1) L-Arginine[0] <=> (1) Na+[0] + (1) L-Arginine[1] + (1) L-Methionine[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00060[1] + (1) cpd00971[1] + (1) cpd00051[0] <=> (1) cpd00971[0] + (1) cpd00051[1] + (1) cpd00060[0]",
+        "id": "rxn57063",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70843",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "OK",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00060",
+                "formula": "C5H11NO2S",
+                "name": "L-Methionine"
+            },
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00971",
+                "formula": "Na",
+                "name": "Na+"
+            },
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00051",
+                "formula": "C6H15N4O2",
+                "name": "L-Arginine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00971",
+                "formula": "Na",
+                "name": "Na+"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 1,
+                "compound": "cpd00051",
+                "formula": "C6H15N4O2",
+                "name": "L-Arginine"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00060",
+                "formula": "C5H11NO2S",
+                "name": "L-Methionine"
+            }
+        ]
+    },
+    {
+        "abbreviation": "70847",
+        "abstract_reaction": null,
+        "aliases": null,
+        "code": "(1) cpd00084[1] + (1) cpd00971[1] + (1) cpd00051[0] <=> (1) cpd00051[1] + (1) cpd00084[0] + (1) cpd00971[0]",
+        "compound_ids": "cpd00051;cpd00084;cpd00971",
+        "definition": "(1) L-Cysteine[1] + (1) Na+[1] + (1) L-Arginine[0] <=> (1) L-Arginine[1] + (1) L-Cysteine[0] + (1) Na+[0]",
+        "deltag": "10000000",
+        "deltagerr": "10000000",
+        "direction": "=",
+        "ec_numbers": null,
+        "equation": "(1) cpd00084[1] + (1) cpd00971[1] + (1) cpd00051[0] <=> (1) cpd00051[1] + (1) cpd00084[0] + (1) cpd00971[0]",
+        "id": "rxn57064",
+        "is_obsolete": 0,
+        "is_transport": 0,
+        "linked_reaction": null,
+        "name": "70847",
+        "notes": [],
+        "pathways": null,
+        "reversibility": "=",
+        "source": "Primary Database",
+        "status": "OK",
+        "stoichiometry": [
+            {
+                "charge": 0,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00084",
+                "formula": "C3H7NO2S",
+                "name": "L-Cysteine"
+            },
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 1,
+                "compound": "cpd00971",
+                "formula": "Na",
+                "name": "Na+"
+            },
+            {
+                "charge": 1,
+                "coefficient": -1,
+                "compartment": 0,
+                "compound": "cpd00051",
+                "formula": "C6H15N4O2",
+                "name": "L-Arginine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 1,
+                "compound": "cpd00051",
+                "formula": "C6H15N4O2",
+                "name": "L-Arginine"
+            },
+            {
+                "charge": 0,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00084",
+                "formula": "C3H7NO2S",
+                "name": "L-Cysteine"
+            },
+            {
+                "charge": 1,
+                "coefficient": 1,
+                "compartment": 0,
+                "compound": "cpd00971",
+                "formula": "Na",
+                "name": "Na+"
+            }
+        ]
+    }
+]

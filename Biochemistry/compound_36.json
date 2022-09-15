@@ -3,7 +3,7 @@
         "abbreviation": "5-methyl-CTP",
         "abstract_compound": null,
         "aliases": [
-            "Name: 5-methyl-CTP; m5CTP",
+            "Name: 5-methyl-CTP; m(5)CTP; m5CTP",
             "MetaCyc: CPD0-2549"
         ],
         "charge": 10000000,
@@ -200,7 +200,7 @@
         "abbreviation": "L-alanin-3-yl L-histidin-5-yl S-oxide",
         "abstract_compound": null,
         "aliases": [
-            "Name: L-alanin-3-yl L-histidin-5-yl S-oxide; L-alanin-3-yl L-histidin-5-yl sulfoxide",
+            "Name: (2R)-2-azaniumyl-3-({4-[(2S)-2-azaniumyl-2-carboxylatoethyl]-1H-imidazol-5-yl}sulfinyl)propanoate; L-alanin-3-yl L-histidin-5-yl S-oxide; L-alanin-3-yl L-histidin-5-yl sulfoxide; S-(5-L-histidyl)-L-cysteine sulfoxide dizwitterion",
             "MetaCyc: CPD-17029"
         ],
         "charge": 0,
@@ -427,7 +427,7 @@
         "abbreviation": "3-hydroxy-4-methyl-D-kynurenine",
         "abstract_compound": null,
         "aliases": [
-            "Name: 3-hydroxy-4-methyl-D-kynurenine",
+            "Name: 3-hydroxy-4-methyl-D-kynurenine; D-3H4MK",
             "MetaCyc: CPD-18438"
         ],
         "charge": 0,
@@ -515,7 +515,7 @@
         "abbreviation": "validoxylamine A 7'-phosphate",
         "abstract_compound": null,
         "aliases": [
-            "Name: validoxylamine A 7'-phosphate",
+            "Name: [(1R,2R,3S,4S,5S)-2,3,4-trihydroxy-5-{[(1S,4R,5S,6S)-4,5,6-trihydroxy-3-(hydroxymethyl)cyclohex-2-en-1-yl]azaniumyl}cyclohexyl]methyl phosphate; validoxylamine A 7'-phosphate",
             "MetaCyc: CPD-18789"
         ],
         "charge": -1,
@@ -602,7 +602,7 @@
         "abbreviation": "2-[(2'-methylsulfanyl)propyl]maleate",
         "abstract_compound": null,
         "aliases": [
-            "Name: 2-[(2'-methylsulfanyl)propyl]maleate; 2-[(2'-methylthio)propyl]maleate",
+            "Name: (2Z)-2-[3-(methylsulfanyl)propyl]but-2-enedioate; 2-(2-methylsulfanyl)propylmaleate; 2-[(2'-methylsulfanyl)propyl]maleate; 2-[(2'-methylthio)propyl]maleate",
             "MetaCyc: CPD-19477"
         ],
         "charge": -2,
@@ -1005,7 +1005,7 @@
         "abbreviation": "3,4-dihydroxy-2-methyl-4-farnesyl-3H-quinolin-1-ium-1-olate",
         "abstract_compound": null,
         "aliases": [
-            "Name: 3,4-dihydroxy-2-methyl-4-farnesyl-3H-quinolin-1-ium-1-olate",
+            "Name: 2-methyl-1-oxo-4-[(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trien-1-yl]-3,4-dihydro-1lambda(5)-quinoline-3,4-diol; 3,4-dihydroxy-2-methyl-1-oxo-4-[(2E,6E)-farnesyl]-3,4-dihydroquinoline 1-oxide; 3,4-dihydroxy-2-methyl-4-farnesyl-3H-quinolin-1-ium-1-olate; 4-farnesyl-2-methyl-1-oxo-3,4-dihydroquinoline-3,4-diol",
             "MetaCyc: CPD-18736"
         ],
         "charge": 0,
@@ -1091,7 +1091,7 @@
         "abbreviation": "KM 208",
         "abstract_compound": null,
         "aliases": [
-            "Name: KM 208; L-alanyl-3-[(1R,2R,6R)-5-oxo-7-oxabicyclo[4.1.0]hept-2-yl]-L-alanine; L-alanyl-L-anticapsin; bacilysin; tetaine",
+            "Name: (2S)-2-{[(2S)-2-azaniumylpropanoyl]amino}-3-[(1R,2S,6R)-5-oxo-7-oxabicyclo[4.1.0]hept-2-yl]propanoate; KM 208; L-alanyl-3-[(1R,2R,6R)-5-oxo-7-oxabicyclo[4.1.0]hept-2-yl]-L-alanine; L-alanyl-L-anticapsin; bacilysin; tetaine",
             "MetaCyc: CPD-17508"
         ],
         "charge": 0,
@@ -1208,7 +1208,7 @@
         "abbreviation": "(1R,3R)-chrysanthemoyl CoA",
         "abstract_compound": null,
         "aliases": [
-            "Name: (1R,3R)-chrysanthemoyl CoA",
+            "Name: (1R,3R)-chrysanthemoyl CoA; (1R,3R)-chrysanthemoyl-CoA",
             "MetaCyc: CPD-14450"
         ],
         "charge": -4,
@@ -1238,7 +1238,7 @@
         "abbreviation": "(2R,3S,4S,7R)-3-(acetyloxy)-4,6-dimethyl-6,11-diazatetracyclo[7.6.1.02,7.012,16]hexadeca-1(16),9,12,14-tetraen-6-ium",
         "abstract_compound": null,
         "aliases": [
-            "Name: (2R,3S,4S,7R)-3-(acetyloxy)-4,6-dimethyl-6,11-diazatetracyclo[7.6.1.02,7.012,16]hexadeca-1(16),9,12,14-tetraen-6-ium; 6,8beta-dimethylergolin-9beta-yl acetate",
+            "Name: (2R,3S,4S,7R)-3-(acetyloxy)-4,6-dimethyl-6,11-diazatetracyclo[7.6.1.02,7.012,16]hexadeca-1(16),9,12,14-tetraen-6-ium; (8beta,9beta)-6,8-dimethylergolin-6-ium-9-yl acetate; 6,8beta-dimethylergolin-9beta-yl acetate",
             "MetaCyc: CPD-14468"
         ],
         "charge": 1,
@@ -1297,7 +1297,7 @@
         "abbreviation": "O-octadecanoyl-L-carnitine",
         "abstract_compound": null,
         "aliases": [
-            "Name: O-octadecanoyl-L-carnitine; O-stearoyl-L-carnitine; stearoylcarnitine",
+            "Name: (-)-Stearoylcarnitine; (3R)-3-(octadecanoyloxy)-4-(trimethylazaniumyl)butanoate; (R)-octadecanoylcarnitine; (R)-stearoylcarnitine; Acylcarnitine C18:0; L-Stearoylcarnitine; O-octadecanoyl-(R)-carnitine; O-octadecanoyl-L-carnitine; O-octadecanoyl-R-carnitine; O-stearoyl-L-carnitine; Octadecanoylcarnitine; Stearoylcarnitine; stearoylcarnitine",
             "MetaCyc: CPD-19742"
         ],
         "charge": 0,
@@ -4042,7 +4042,7 @@
         "abbreviation": "Ganglioside-GD2",
         "abstract_compound": null,
         "aliases": [
-            "Name: Ganglioside-GD2",
+            "Name: Ganglioside-GD2; ganglioside GD2",
             "MetaCyc: Ganglioside-GD2"
         ],
         "charge": -2,
@@ -4125,7 +4125,7 @@
         "abbreviation": "Oxoicosatetraenoates",
         "abstract_compound": null,
         "aliases": [
-            "Name: Oxoicosatetraenoates",
+            "Name: Oxoicosatetraenoates; an oxoeicosatetraenoate; oxo-ETE anions; oxoeicosatetraenoate; oxoeicosatetraenoates; oxoicosatetraenoate; oxoicosatetraenoates",
             "MetaCyc: Oxoicosatetraenoates"
         ],
         "charge": 10000000,
@@ -4459,7 +4459,7 @@
         "abbreviation": "Lipid-A-4prime-2-aminoethyl-PP",
         "abstract_compound": null,
         "aliases": [
-            "Name: Lipid-A-4prime-2-aminoethyl-PP",
+            "Name: Lipid-A-4prime-2-aminoethyl-PP; lipid A 4'-(2-aminoethyl diphosphate) (E. coli)",
             "MetaCyc: Lipid-A-4prime-2-aminoethyl-PP"
         ],
         "charge": -3,
@@ -5047,7 +5047,7 @@
         "abbreviation": "2S-3R-Flavan-3-ols",
         "abstract_compound": null,
         "aliases": [
-            "Name: 2S-3R-Flavan-3-ols",
+            "Name: (2S,3R)-flavan-3-ols; 2S-3R-Flavan-3-ols; a (2S,3R)-flavan-3-ol",
             "MetaCyc: 2S-3R-Flavan-3-ols"
         ],
         "charge": 0,
@@ -5131,7 +5131,7 @@
         "abbreviation": "N-terminal-L-leucyl-L-glutamyl-Protein",
         "abstract_compound": null,
         "aliases": [
-            "Name: N-terminal-L-leucyl-L-glutamyl-Protein",
+            "Name: N-terminal L-leucyl-L-glutamyl-[protein]; N-terminal-L-leucyl-L-glutamyl-Protein",
             "MetaCyc: N-terminal-L-leucyl-L-glutamyl-Protein"
         ],
         "charge": 0,
@@ -6251,7 +6251,7 @@
         "abbreviation": "Lipid-A-1-2-aminoethyl-PP",
         "abstract_compound": null,
         "aliases": [
-            "Name: Lipid-A-1-2-aminoethyl-PP",
+            "Name: Lipid-A-1-2-aminoethyl-PP; lipid A hexaacyl 1-(2-aminoethyl diphosphate)",
             "MetaCyc: Lipid-A-1-2-aminoethyl-PP"
         ],
         "charge": -3,
@@ -6667,7 +6667,7 @@
         "abbreviation": "1-Linoleoyl-2-acyl-glycerolipids",
         "abstract_compound": null,
         "aliases": [
-            "Name: 1-Linoleoyl-2-acyl-glycerolipids",
+            "Name: 1-Linoleoyl-2-acyl-glycerolipids; 1-[(9Z,12Z)-octadec-9,12-dienoyl]-2-acylglycerolipid; 1-[(9Z,12Z)-octadec-9,12-dienoyl]-2-acylglycerolipids; 1-linoleoyl-2-acylglycerolipids; a 1-[(9Z,12Z)-octadecdienoyl]-2-acyl-glycerolipid",
             "MetaCyc: 1-Linoleoyl-2-acyl-glycerolipids"
         ],
         "charge": 0,
@@ -7023,7 +7023,7 @@
         "abbreviation": "CPD-18909",
         "abstract_compound": null,
         "aliases": [
-            "Name: CPD-18909",
+            "Name: 2-O-beta-D-mannopyranosyl-D-mannopyranose; 2beta-Man; CPD-18909; WURCS=2.0/2,2,1/[a1122h-1x_1-5][a1122h-1b_1-5]/1-2/a2-b1; beta-D-Man-(1->2)-D-Man; beta-D-Manp-(1-2)-D-Manp; beta-D-mannopyranosyl-(1->2)-D-mannopyranose",
             "MetaCyc: CPD-18909"
         ],
         "charge": 0,
@@ -7667,7 +7667,7 @@
         "abbreviation": "Trans-Delta2-meromycolyl-ACP",
         "abstract_compound": null,
         "aliases": [
-            "Name: Trans-Delta2-meromycolyl-ACP; a trans-delta2-meromycolyl-[acp]; a trans-delta2-meromycolyl-[acyl-carrier-protein]",
+            "Name: Trans-Delta2-meromycolyl-ACP; a trans-Delta(2)-meromycolyl-[ACP]; a trans-delta2-meromycolyl-[acp]; a trans-delta2-meromycolyl-[acyl-carrier-protein]",
             "MetaCyc: Trans-Delta2-meromycolyl-ACP"
         ],
         "charge": 0,
@@ -8027,7 +8027,7 @@
         "abbreviation": "Aequorin-dioxetanone",
         "abstract_compound": null,
         "aliases": [
-            "Name: Aequorin-dioxetanone",
+            "Name: Aequorin-dioxetanone; [aequorin]--dioxetanone",
             "MetaCyc: Aequorin-dioxetanone"
         ],
         "charge": 6,
@@ -9392,7 +9392,7 @@
         "abbreviation": "Lipid-A-1-4prime-2-aminoethyl-PP",
         "abstract_compound": null,
         "aliases": [
-            "Name: Lipid-A-1-4prime-2-aminoethyl-PP",
+            "Name: Lipid-A-1-4prime-2-aminoethyl-PP; lipid A 1,4'-bis(2-aminoethyl diphosphate)",
             "MetaCyc: Lipid-A-1-4prime-2-aminoethyl-PP"
         ],
         "charge": -2,
@@ -10031,7 +10031,7 @@
         "abbreviation": "7-Oxoheptanoyl-ACPs",
         "abstract_compound": null,
         "aliases": [
-            "Name: 7-Oxoheptanoyl-ACPs; 7-oxoheptanoyl-[acp]; 7-oxoheptanoyl-[acyl-carrier-protein]",
+            "Name: 7-Oxoheptanoyl-ACPs; 7-oxoheptanoyl-[ACP]; 7-oxoheptanoyl-[acp]; 7-oxoheptanoyl-[acyl-carrier-protein]",
             "MetaCyc: 7-Oxoheptanoyl-ACPs"
         ],
         "charge": 0,
@@ -10225,7 +10225,7 @@
         "abbreviation": "1-stearidonoyl-2-acyl-glycerolipids",
         "abstract_compound": null,
         "aliases": [
-            "Name: 1-stearidonoyl-2-acyl-glycerolipids",
+            "Name: 1-[(6Z,9Z,12Z,15Z)-octadec-6,9,12,15-tetraenoyl]-2-acylglycerolipids; 1-stearidonoyl 2-acylglycerolipid; 1-stearidonoyl 2-acylglycerolipids; 1-stearidonoyl-2-acyl-glycerolipids; a 1-[(6Z,9Z,12Z,15Z)-octadectetraenoyl]-2-acyl-glycerolipid",
             "MetaCyc: 1-stearidonoyl-2-acyl-glycerolipids"
         ],
         "charge": 0,
@@ -11559,7 +11559,7 @@
         "abbreviation": "D-glucose-1-phosphates",
         "abstract_compound": null,
         "aliases": [
-            "Name: D-glucose-1-phosphates",
+            "Name: 1-O-phosphonato-D-glucopyranose; D-glucopyranose 1-phosphate; D-glucopyranose 1-phosphate anion; D-glucopyranose 1-phosphate dianion; D-glucose-1-phosphates",
             "MetaCyc: D-glucose-1-phosphates"
         ],
         "charge": -2,
@@ -12457,7 +12457,7 @@
         "abbreviation": "Virginiae-butanolides",
         "abstract_compound": null,
         "aliases": [
-            "Name: Virginiae-butanolides",
+            "Name: VB type gamma-butyrolactones; Virginiae-butanolides; a (3R,4R)-3-[(1S)-1-hydroxyalkyl]-4-(hydroxymethyl)oxolan-2-one; a VB type gamma-butyrolactone; virginiae butanolide; virginiae butanolides",
             "MetaCyc: Virginiae-butanolides"
         ],
         "charge": 0,
@@ -12485,7 +12485,7 @@
         "abbreviation": "Ganglioside-GP1c",
         "abstract_compound": null,
         "aliases": [
-            "Name: Ganglioside-GP1c",
+            "Name: Ganglioside-GP1c; alpha-Neup5Ac-(2->8)-alpha-Neup5Ac-(2->3)-beta-Galp-(1->3)-beta-GalpNAc-(1->4)-[alpha-Neup5Ac-(2->8)-alpha-Neup5Ac-(2->8)-alpha-Neup5Ac-(2->3)]-beta-Galp-(1->4)-beta-Glcp-(1<->1')-Cer(5-); ganglioside GP1c",
             "MetaCyc: Ganglioside-GP1c"
         ],
         "charge": -5,
@@ -12681,7 +12681,7 @@
         "abbreviation": "1-gamma-linolenoyl-2-acyl-glycerolipids",
         "abstract_compound": null,
         "aliases": [
-            "Name: 1-gamma-linolenoyl-2-acyl-glycerolipids",
+            "Name: 1-[(6Z,9Z,12Z)-octadec-6,9,12-trienoyl]-2-acylglycerolipid; 1-[(6Z,9Z,12Z)-octadec-6,9,12-trienoyl]-2-acylglycerolipids; 1-gamma-linolenoyl 2-acylglycerolipids; 1-gamma-linolenoyl-2-acyl-glycerolipids; a 1-[(6Z,9Z,12Z)-octadectrienoyl]-2-acyl-glycerolipid",
             "MetaCyc: 1-gamma-linolenoyl-2-acyl-glycerolipids"
         ],
         "charge": 0,
@@ -12763,7 +12763,7 @@
         "abbreviation": "1-Acyl-sn-glycerols",
         "abstract_compound": null,
         "aliases": [
-            "Name: 1-Acyl-sn-glycerols",
+            "Name: 1-Acyl-sn-glycerols; 1-acyl-sn-glycerols; a 1-acyl-sn-glycerol",
             "MetaCyc: 1-Acyl-sn-glycerols"
         ],
         "charge": 0,
@@ -13518,7 +13518,7 @@
         "abbreviation": "VIM-2",
         "abstract_compound": null,
         "aliases": [
-            "Name: VIM-2",
+            "Name: VIM-2; an alpha-Neu5Ac-(2->3)-beta-D-Gal-(1->4)-beta-D-GlcNAc-(1->3)-beta-D-Gal-(1->4)-[alpha-L-Fuc-(1->3)]-beta-D-GlcNAc derivative",
             "MetaCyc: VIM-2"
         ],
         "charge": -1,
@@ -13546,7 +13546,7 @@
         "abbreviation": "D-galactofuransoe",
         "abstract_compound": null,
         "aliases": [
-            "Name: D-galactofuransoe",
+            "Name: D-Galf; D-GalfOH; D-galacto-hexofuranose; D-galactofuranose; D-galactofuransoe; WURCS=2.0/1,1,0/[a2112h-1x_1-4]/1/",
             "MetaCyc: D-galactofuransoe"
         ],
         "charge": 0,
@@ -17028,7 +17028,7 @@
         "abbreviation": "Ganglioside-GQ1c",
         "abstract_compound": null,
         "aliases": [
-            "Name: Ganglioside-GQ1c",
+            "Name: Ganglioside-GQ1c; alpha-Neup5Ac-(2->3)-beta-Galp-(1->3)-beta-GalpNAc-(1->4)-[alpha-Neup5Ac-(2->8)-alpha-Neup5Ac-(2->8)-alpha-Neup5Ac-(2->3)]-beta-Galp-(1->4)-beta-Glcp-(1<->1')-Cer(4-); ganglioside GQ1c",
             "MetaCyc: Ganglioside-GQ1c"
         ],
         "charge": -4,
@@ -19540,7 +19540,7 @@
         "abbreviation": "D-tyrosyl-tRNA-Tyr",
         "abstract_compound": null,
         "aliases": [
-            "Name: D-tyrosyl-tRNA-Tyr",
+            "Name: D-tyrosyl-tRNA(Tyr); D-tyrosyl-tRNA-Tyr",
             "MetaCyc: D-tyrosyl-tRNA-Tyr"
         ],
         "charge": -2,
@@ -20852,7 +20852,7 @@
         "abbreviation": "2R-3R-Dihydroflavonols",
         "abstract_compound": null,
         "aliases": [
-            "Name: 2R-3R-Dihydroflavonols",
+            "Name: (2R,3R)-dihydroflavonols; 2R-3R-Dihydroflavonols; a (2R,3R)-dihydroflavonol",
             "MetaCyc: 2R-3R-Dihydroflavonols"
         ],
         "charge": 0,
@@ -20964,7 +20964,7 @@
         "abbreviation": "N-terminal-L-leucyl-L-aspartyl-Protein",
         "abstract_compound": null,
         "aliases": [
-            "Name: N-terminal-L-leucyl-L-aspartyl-Protein",
+            "Name: N-terminal L-leucyl-L-aspartyl-[protein]; N-terminal-L-leucyl-L-aspartyl-Protein",
             "MetaCyc: N-terminal-L-leucyl-L-aspartyl-Protein"
         ],
         "charge": 0,
@@ -21403,7 +21403,7 @@
         "abbreviation": "CPD-15978",
         "abstract_compound": null,
         "aliases": [
-            "Name: CPD-15978",
+            "Name: 4-O-(6-O-phosphonato-beta-D-glucopyranosyl)-D-glucopyranose; 6'-O-phosphonatocellobiose; 6'-O-phosphonatocellobiose dianion; 6'-O-phosphonatocellobiose(2-); 6'-phosphonatocellobiose; 6'-phosphonatocellobiose dianion; 6'-phosphonatocellobiose(2-); 6-O-phosphonato-beta-D-glucopyranosyl-(1->4)-D-glucopyranose; 6-phospho-beta-D-glucosyl-(1->4)-D-glucose; 6-phosphonato-beta-D-glucosyl-(1->4)-D-glucose; 6-phosphonato-beta-D-glucosyl-(1->4)-D-glucose dianion; CPD-15978",
             "MetaCyc: CPD-15978"
         ],
         "charge": -2,
@@ -21685,7 +21685,7 @@
         "abbreviation": "Difucosyl-sialyl-Lewis-X",
         "abstract_compound": null,
         "aliases": [
-            "Name: Difucosyl-sialyl-Lewis-X",
+            "Name: Difucosyl-sialyl-Lewis-X; an alpha-Neu5Ac-(2->3)-beta-D-Gal-(1->4)-[alpha-L-Fuc-(1->3)]-beta-D-GlcNAc-(1->3)-beta-D-Gal-(1->4)-[alpha-L-Fuc-(1->3)]-beta-D-GlcNAc derivative; di-fucosyl sLe(x); di-fucosyl sialyl Lewis X",
             "MetaCyc: Difucosyl-sialyl-Lewis-X"
         ],
         "charge": -1,
@@ -21957,7 +21957,7 @@
         "abbreviation": "1-acyl-2-palmitoleoyl-glycerolipids",
         "abstract_compound": null,
         "aliases": [
-            "Name: 1-acyl-2-palmitoleoyl-glycerolipids",
+            "Name: 1-acyl-2-[(9Z)-hexadec-9-enoyl]-glycerolipids; 1-acyl-2-palmitoleoyl-glycerolipids; 1-acyl-2-palmitoleoylglycerolipids; a 1-acyl-2-[(9Z)-hexadecenoyl]-glycerolipid",
             "MetaCyc: 1-acyl-2-palmitoleoyl-glycerolipids"
         ],
         "charge": 0,
@@ -22013,7 +22013,7 @@
         "abbreviation": "Ganglioside-GD1c",
         "abstract_compound": null,
         "aliases": [
-            "Name: Ganglioside-GD1c",
+            "Name: GD1c ganglioside(2-); Ganglioside-GD1c; alpha-N-acetylneuraminosyl-(2->8)-alpha-N-acetylneuraminosyl-(2->3)-beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminyl-(1->4)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1')-N-ceramide(2-); alpha-Neup5Ac-(2->8)-alpha-Neup5Ac-(2->3)-beta-D-Galp-(1->3)-beta-D-GalpNAc-(1->4)-beta-D-Galp-(1->4)-beta-D-Glcp-(1<->1')-ceramide(2-); ganglioside GD1c",
             "MetaCyc: Ganglioside-GD1c"
         ],
         "charge": -2,
@@ -23101,7 +23101,7 @@
         "abbreviation": "1-oleoyl-2-acyl-glycerolipids",
         "abstract_compound": null,
         "aliases": [
-            "Name: 1-oleoyl-2-acyl-glycerolipids",
+            "Name: 1-[(9Z)-octadecenoyl]-2-acylglycerolipid; 1-[(9Z)-octadecenoyl]-2-acylglycerolipids; 1-oleoyl-2-acyl-glycerolipids; 1-oleoyl-2-acylglycerolipids; a 1-[(9Z)-octadecenoyl]-2-acyl-glycerolipid",
             "MetaCyc: 1-oleoyl-2-acyl-glycerolipids"
         ],
         "charge": 0,
@@ -23854,7 +23854,7 @@
         "abbreviation": "CPD-20431",
         "abstract_compound": null,
         "aliases": [
-            "Name: CPD-20431",
+            "Name: (+)-kolavelool; 3-methyl-5-[(1R,2S,4aS,8aS)-1,2,4a,5-tetramethyl-1,2,3,4,4a,7,8,8a-octahydronaphthalen-1-yl]pent-1-en-3-ol; CPD-20431",
             "MetaCyc: CPD-20431"
         ],
         "charge": 0,
@@ -27722,7 +27722,7 @@
         "abbreviation": "D-Tryptophanyl-tRNA-Trp",
         "abstract_compound": null,
         "aliases": [
-            "Name: D-Tryptophanyl-tRNA-Trp",
+            "Name: D-Tryptophanyl-tRNA-Trp; D-tryptophanyl-tRNA(Trp)",
             "MetaCyc: D-Tryptophanyl-tRNA-Trp"
         ],
         "charge": -2,

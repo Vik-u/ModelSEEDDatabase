@@ -1100,7 +1100,7 @@
         "abbreviation": "N-formylmethanofuran",
         "abstract_compound": null,
         "aliases": [
-            "Name: N-formylmethanofuran; formyl-MFR; formyl-methanofuran a",
+            "Name: N-formylmethanofuran; N-formylmethanofuran pentaanion; formyl-MFR; formyl-methanofuran a",
             "MetaCyc: FORMYL-METHANOFURAN"
         ],
         "charge": -5,
@@ -1160,7 +1160,7 @@
         "abbreviation": "FRU",
         "abstract_compound": null,
         "aliases": [
-            "Name: C10906; D-Fructose; D-arabino-Hexulose; FRU; Fructofuranose; Fruit sugar; Levulose; keto-D-fructose",
+            "Name: C10906; D-(-)-fructose; D-(-)-levulose; D-Fructose; D-arabino-Hexulose; D-fructofuranose; D-fructose; FRU; Fructofuranose; Fruit sugar; Levulose; keto-D-fructose",
             "AraCyc: FRU",
             "BiGG: fru",
             "BrachyCyc: FRU",
@@ -1716,7 +1716,7 @@
         "abbreviation": "Fatty-Aldehydes",
         "abstract_compound": null,
         "aliases": [
-            "Name: Fatty-Aldehydes",
+            "Name: Fatty-Aldehydes; a fatty aldehyde; fatty aldehydes",
             "AraCyc: Fatty-Aldehydes",
             "BrachyCyc: Fatty-Aldehydes",
             "ChlamyCyc: Fatty-Aldehydes",
@@ -2295,7 +2295,7 @@
         "abbreviation": "Flavonol-3-O-Glycosides",
         "abstract_compound": null,
         "aliases": [
-            "Name: Flavonol-3-O-Glycosides",
+            "Name: Flavonol-3-O-Glycosides; a flavonol 3-O-glycoside; flavonol 3-O-glycoside; flavonol 3-O-glycosides",
             "MetaCyc: Flavonol-3-O-Glycosides"
         ],
         "charge": 0,
@@ -2820,7 +2820,7 @@
         "abbreviation": "gamma-glutamyl-D-glutamate",
         "abstract_compound": null,
         "aliases": [
-            "Name: 5-D-glutamyl-D-glutamate; gamma-D-glutamyl-D-glutamate; gamma-glutamyl-D-glutamate",
+            "Name: (2R)-2-{[(4R)-4-azaniumyl-4-carboxylatobutanoyl]amino}pentanedioate; 5-D-glutamyl-D-glutamate; D-gamma-Glu-D-Glu(2-); gamma-D-glutamyl-D-glutamate; gamma-glutamyl-D-glutamate",
             "MetaCyc: GAMMA-GLUTAMYL-D-GLUTAMATE"
         ],
         "charge": -2,
@@ -2972,7 +2972,7 @@
         "abbreviation": "GLUCOSAMINE",
         "abstract_compound": null,
         "aliases": [
-            "Name: 2-Amino-2-deoxy-D-glucose; Chitosamine; D-Glucosamine; GLUCOSAMINE; GLUM",
+            "Name: 2-Amino-2-deoxy-D-glucose; 2-azaniumyl-2-deoxy-D-glucopyranose; Chitosamine; D-Glucosamine; D-glucosamine; GLUCOSAMINE; GLUM",
             "BiGG: gam",
             "ChlamyCyc: GLUCOSAMINE",
             "EcoCyc: GLUCOSAMINE",
@@ -3633,7 +3633,7 @@
         "abbreviation": "GMP-N-epsilon-(N-alpha-acetyl lysine methyl ester) 5'-phosphoramidate",
         "abstract_compound": null,
         "aliases": [
-            "Name: GMP-N-epsilon-(N-alpha-acetyl lysine methyl ester) 5'-phosphoramidate; GMP-lysine",
+            "Name: GMP-N-epsilon-(N-alpha-acetyl lysine methyl ester) 5'-phosphoramidate; GMP-lysine; N(epsilon)-(5'-guanylyl)-N(alpha)-acetyl-L-lysine methyl ester; N(epsilon)-GMP-N(alpha)-acetyl-L-lysine methyl ester anion; N(epsilon)-GMP-N(alpha)-acetyl-L-lysine methyl ester(1-)",
             "AraCyc: GMP-LYSINE-PHOSPHORAMIDATE",
             "CornCyc: GMP-LYSINE-PHOSPHORAMIDATE",
             "EcoCyc: GMP-LYSINE-PHOSPHORAMIDATE",
@@ -6223,7 +6223,7 @@
         "abbreviation": "hexanol",
         "abstract_compound": null,
         "aliases": [
-            "Name: 1-hexanol; hexanol",
+            "Name: 1-Hexyl alcohol; 1-Hydroxyhexane; 1-hexanol; Caproic alcohol; hexan-1-ol; hexanol; n-Hexyl alcohol",
             "MetaCyc: HEXANOL-CMPD"
         ],
         "charge": 0,
@@ -7851,7 +7851,7 @@
         "abbreviation": "indole-3-yl-acetyl-myo-inositol 3-L-arabinoside",
         "abstract_compound": null,
         "aliases": [
-            "Name: indole-3-yl-acetyl-myo-inositol 3-L-arabinoside; indole-3-yl-acetyl-myo-inositol L-arabinoside",
+            "Name: (1S,2S,3R,4S,5S,6S)-4-(beta-L-arabinopyranosyloxy)-2,3,5,6-tetrahydroxycyclohexyl 1H-indol-3-ylacetate; (indol-3-yl)acetyl-myo-inositol 3-L-arabinoside; Indole-3-ylacetyl-myo-inositol L-arabinoside; indole-3-yl-acetyl-myo-inositol 3-L-arabinoside; indole-3-yl-acetyl-myo-inositol L-arabinoside",
             "CornCyc: INDOL-YLACETYL-MYO-INOSITOL-ARABINOSIDE",
             "MaizeCyc: INDOL-YLACETYL-MYO-INOSITOL-ARABINOSIDE",
             "MetaCyc: INDOL-YLACETYL-MYO-INOSITOL-ARABINOSIDE",
@@ -7919,7 +7919,7 @@
         "abbreviation": "IAA-Asp",
         "abstract_compound": null,
         "aliases": [
-            "Name: IAA-Asp; indole-3-acetyl-Asp; indole-3-acetyl-L-aspartate; indole-3-acetyl-aspartate; indole-3-acetyl-aspartic acid",
+            "Name: (2S)-2-[2-(1H-indol-3-yl)acetamido]butanedioate; (indol-3-yl)acetyl-L-aspartate; IAA-Asp; N-(indole-3-acetyl)aspartate(2-); indole-3-acetyl-Asp; indole-3-acetyl-L-aspartate; indole-3-acetyl-aspartate; indole-3-acetyl-aspartate(2-); indole-3-acetyl-aspartic acid; indole-3-acetylaspartate",
             "AraCyc: INDOLE-3-ACETYL-ASP",
             "CornCyc: INDOLE-3-ACETYL-ASP",
             "MetaCyc: INDOLE-3-ACETYL-ASP",
@@ -8249,7 +8249,7 @@
         "abbreviation": "indole-3-ketol",
         "abstract_compound": null,
         "aliases": [
-            "Name: indole-3-ketol",
+            "Name: 3-indoleglycolaldehyde; 3-indolylglycolaldehyde; hydroxy(1H-indol-3-yl)acetaldehyde; indole-3-ketol",
             "MaizeCyc: INDOLE-3-KETOL",
             "MetaCyc: INDOLE-3-KETOL",
             "PoplarCyc: INDOLE-3-KETOL",
@@ -8283,7 +8283,7 @@
         "abbreviation": "2-(indole-3-yl)-4,5-dihydro-1,3-thiazole-4-carboxylic acid",
         "abstract_compound": null,
         "aliases": [
-            "Name: (4R)-2-(1H-indol-3-yl)-4,5-dihydrothiazole-4-carboxylate; (R)-dihydrocamalexate; 2-(indole-3-yl)-4,5-dihydro-1,3-thiazole-4-carboxylic acid; dihydrocamalexate; dihydrocamalexic acid",
+            "Name: (4R)-2-(1H-indol-3-yl)-4,5-dihydro-1,3-thiazole-4-carboxylate; (4R)-2-(1H-indol-3-yl)-4,5-dihydrothiazole-4-carboxylate; (R)-dihydrocamalexate; 2-(indole-3-yl)-4,5-dihydro-1,3-thiazole-4-carboxylic acid; dihydrocamalexate; dihydrocamalexic acid",
             "AraCyc: INDOLE-CARBOXY-HYDRO-THIAZOLE",
             "DF_Athaliana: INDOLE-CARBOXY-HYDRO-THIAZOLE",
             "MetaCyc: INDOLE-CARBOXY-HYDRO-THIAZOLE",
@@ -8373,7 +8373,7 @@
         "abbreviation": "indole-3-propionate",
         "abstract_compound": null,
         "aliases": [
-            "Name: 3-(1H-indol-3-yl)propanoate; 3-(1H-indol-3-yl)propionate; 3-indolepropionic acid; indole-3-propanoate; indole-3-propionate; indole-propionate",
+            "Name: 3-(1H-indol-3-yl)propanoate; 3-(1H-indol-3-yl)propionate; 3-indolepropionic acid; indole-3-propanoate; indole-3-propionate; indole-propionate; indolepropionate",
             "MetaCyc: INDOLE-PROPIONATE"
         ],
         "charge": -1,
@@ -8730,7 +8730,7 @@
         "abbreviation": "ISOTHIOCYANATES",
         "abstract_compound": null,
         "aliases": [
-            "Name: ISOTHIOCYANATES",
+            "Name: ISOTHIOCYANATES; an isothiocyanate; isothiocyanates",
             "AraCyc: ISOTHIOCYANATES",
             "MetaCyc: ISOTHIOCYANATES",
             "PlantCyc: ISOTHIOCYANATES",
@@ -9814,7 +9814,7 @@
         "abbreviation": "(2-{[2,3-bis(octadecanoyloxy)propyl phosphonato]oxy}ethyl)trimethylazanium",
         "abstract_compound": null,
         "aliases": [
-            "Name: (2-{[2,3-bis(octadecanoyloxy)propyl phosphonato]oxy}ethyl)trimethylazanium; 1,2-distearoyl-sn-glycero-3-phosphocholine",
+            "Name: (2-{[2,3-bis(octadecanoyloxy)propyl phosphonato]oxy}ethyl)trimethylazanium; (2R)-2,3-bis(octadecanoyloxy)propyl 2-(trimethylazaniumyl)ethyl phosphate; 1,2-Distearoyl-sn-3-phosphacholine; 1,2-dioctadecanoyl-sn-glycero-3-phosphocholine; 1,2-distearoyl-sn-glycero-3-phosphocholine; Distearoyl phosphatidylcholine; GPC(18:0/18:0); GPCho(18:0/18:0); PC (18:0)2; PC 18:0/18:0; PC(18:0/18:0); Phosphatidylcholine(18:0/18:0)",
             "EcoCyc: L-1-LECITHIN",
             "MetaCyc: L-1-LECITHIN"
         ],
@@ -10155,7 +10155,7 @@
         "abbreviation": "L-Ala-gamma-D-Glu-Dap",
         "abstract_compound": null,
         "aliases": [
-            "Name: L-Ala-gamma-D-Glu-Dap; L-Ala-gamma-D-Glu-diaminopimelate; L-alanyl-gamma-D-glutamyl-meso-2,6-diaminoheptanedioate; L-alanyl-gamma-D-glutamyl-meso-diaminopimelate",
+            "Name: (2S,6R)-2-azaniumyl-6-{[(4R)-4-{[(2S)-2-azaniumylpropanoyl]amino}-4-carboxylatobutanoyl]amino}heptanedioate; L-Ala-gamma-D-Glu-Dap; L-Ala-gamma-D-Glu-diaminopimelate; L-Ala-gamma-D-Glu-meso-Dap(1-); L-alanyl-D-glutamyl-diaminopimelate anion; L-alanyl-gamma-D-glutamyl-diaminopimelate; L-alanyl-gamma-D-glutamyl-meso-2,6-diaminoheptanedioate; L-alanyl-gamma-D-glutamyl-meso-diaminoheptanedioate; L-alanyl-gamma-D-glutamyl-meso-diaminopimelate; L-alanyl-gamma-D-glutamyl-meso-diaminopimelate anion",
             "EcoCyc: L-ALA-GAMMA-D-GLU-DAP",
             "MetaCyc: L-ALA-GAMMA-D-GLU-DAP"
         ],
@@ -10184,7 +10184,7 @@
         "abbreviation": "4'-alpha-L-Ara4N-alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-[P4'-alpha-L-ara4N]-lipid A",
         "abstract_compound": null,
         "aliases": [
-            "Name: 4'-alpha-L-Ara4N-alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-[P4'-alpha-L-ara4N]-lipid A; L-Ara4N-modified (KDO)2-Lipid A; alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-lipid IIA",
+            "Name: (beta-L-Ara4N)2-(Kdo)2-lipid A; 4'-alpha-L-Ara4N-alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-[P4'-alpha-L-ara4N]-lipid A; 4'-beta-L-Ara4N-alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-[P4'-beta-L-ara4N]-lipid A(2-); L-Ara4N-modified (KDO)2-Lipid A; alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-lipid IIA",
             "EcoCyc: L-ARA4N-MODIFIED-KDO2-LIPID-A",
             "MetaCyc: L-ARA4N-MODIFIED-KDO2-LIPID-A"
         ],
@@ -10334,7 +10334,7 @@
         "abbreviation": "L-Cysteine-Desulfurases",
         "abstract_compound": null,
         "aliases": [
-            "Name: Acyl-protein-synthetase; Apo-alpha-Allophycocyanins; Apo-alpha-C-Phycocyanins; Apo-alpha-C-phycoerythrins; Apo-alpha-Phycoerythrocyanins; Apo-alpha-R-Phycocyanins-V; Apo-beta-Allophycocyanins; Apo-beta-C-Phycocyanins; Apo-beta-C-phycoerythrins; Apo-beta-Phycoerythrocyanins; Cysteine-Desulfurase-L-cysteine; DsrE-L-Cysteine; DsrE3A-L-cysteine; E3-independent-Ubiquitin-E2-L-cysteine; HECT-Ubiquitin-carrier-protein-E3-L-cys; L-Cysteine-Desulfurases; LarE-L-cysteine; MOCS3-L-cysteine; Mycoredoxin-L-cysteine; N-terminal-specific-UCP-E2-L-cysteine; NEDD8-Activating-Enzyme-E1-L-cys; NEDD8-conjugating-proteins-E2-L-cys; PqsC-L-cysteine; PqsD-L-cysteine; Prolipoprotein-Cysteines; RBR-Ubiquitin-carrier-protein-E3-L-cys; Rhd-L-Cysteine; SAMP-activating-protein-E1-L-cys; SoxZY-L-Cysteine; Sulfatase-L-cysteine; TUM1-L-cysteine; Trehalose-phosphate-synthase-L-Cys; TtuD-L-cysteine; TusA-L-cysteine; TusD-L-cysteine; Ubiquitin-activating-protein-E1-L-cys; Ubiquitin-carrier-protein-E2-L-cysteine",
+            "Name: Acyl-protein-synthetase; Apo-alpha-Allophycocyanins; Apo-alpha-C-Phycocyanins; Apo-alpha-C-phycoerythrins; Apo-alpha-Phycoerythrocyanins; Apo-alpha-R-Phycocyanins-V; Apo-beta-Allophycocyanins; Apo-beta-C-Phycocyanins; Apo-beta-C-phycoerythrins; Apo-beta-Phycoerythrocyanins; Cysteine-Desulfurase-L-cysteine; DsrE-L-Cysteine; DsrE3A-L-cysteine; E3-independent-Ubiquitin-E2-L-cysteine; HECT-Ubiquitin-carrier-protein-E3-L-cys; L-Cysteine-Desulfurases; LarE-L-cysteine; MOCS3-L-cysteine; Mycoredoxin-L-cysteine; N-terminal-specific-UCP-E2-L-cysteine; NEDD8-Activating-Enzyme-E1-L-cys; NEDD8-conjugating-proteins-E2-L-cys; PqsC-L-cysteine; PqsD-L-cysteine; Prolipoprotein-Cysteines; RBR-Ubiquitin-carrier-protein-E3-L-cys; Rhd-L-Cysteine; SAMP-activating-protein-E1-L-cys; SoxZY-L-Cysteine; Sulfatase-L-cysteine; TUM1-L-cysteine; Trehalose-phosphate-synthase-L-Cys; TtuD-L-cysteine; TusA-L-cysteine; TusD-L-cysteine; Ubiquitin-activating-protein-E1-L-cys; Ubiquitin-carrier-protein-E2-L-cysteine; [mycoredoxin]-L-cysteine",
             "AraCyc: L-Cysteine-Desulfurases",
             "CornCyc: L-Cysteine-Desulfurases",
             "EcoCyc: L-Cysteine-Desulfurases",
@@ -10419,7 +10419,7 @@
         "abbreviation": "L-FUCOSE",
         "abstract_compound": null,
         "aliases": [
-            "Name: 6-Deoxy-L-galactose; L-(-)-Fucose; L-Fucopyranoses; L-Fucose",
+            "Name: (-)-L-Fucose; (3S,4R,5R,6S)-6-methyloxane-2,3,4,5-tetrol; (3S,4R,5R,6S)-6-methyltetrahydropyran-2,3,4,5-tetrol; (3S,4R,5S,6S)-6-methyloxane-2,3,4,5-tetrol; 6-Deoxy-L-galactose; 6-deoxy-L-galactopyranose; L-(-)-Fucose; L-Fucopyranoses; L-Fucose; L-fucopyranose; L-fucose; WURCS=2.0/1,1,0/[a1221m-1x_1-5]/1/",
             "AraCyc: L-FUCOSE",
             "BiGG: fuc__L",
             "BrachyCyc: L-FUCOSE",
@@ -10788,7 +10788,7 @@
         "abbreviation": "L-selenocysteine",
         "abstract_compound": null,
         "aliases": [
-            "Name: 3-Selenyl-DL-alanine; Alanine, 3-selenyl-, (+-)-; D,L-selenocysteine; L-Selenocysteine; L-selenocysteine; Selenium-cystine; Selenocysteine; selenocysteine",
+            "Name: (2R)-2-ammonio-3-selanylpropanoate; (2R)-2-azaniumyl-3-selanylpropanoate; 3-Selenyl-DL-alanine; Alanine, 3-selenyl-, (+-)-; D,L-selenocysteine; L-Selenocysteine; L-selenocysteine; Selenium-cystine; Selenocysteine; selenocysteine",
             "AraCyc: L-SELENOCYSTEINE",
             "BiGG: scys__L; selcys",
             "BrachyCyc: L-SELENOCYSTEINE",
@@ -10996,7 +10996,7 @@
         "abbreviation": "L-methionyl-tRNAfmet",
         "abstract_compound": null,
         "aliases": [
-            "Name: L-methionyl-tRNAfmet",
+            "Name: L-methionyl-tRNA(fMet); L-methionyl-tRNAfmet",
             "AraCyc: L-methionyl-tRNAfmet",
             "BrachyCyc: L-methionyl-tRNAfmet",
             "ChlamyCyc: L-methionyl-tRNAfmet",
@@ -11028,7 +11028,7 @@
         "abbreviation": "L-rhamnose",
         "abstract_compound": null,
         "aliases": [
-            "Name: 6-Deoxy-L-mannose; L-Mannomethylose; L-Rhamnopyranose; L-Rhamnose; L-rhamnopyranose",
+            "Name: (2R,3R,4S,5S)-2,3,4,5-tetrahydroxyhexanal; 6-Deoxy-L-mannose; L-(+)-rhamnose; L-Mannomethylose; L-Rha; L-Rhamnopyranose; L-Rhamnose; L-rhamnopyranose",
             "AraCyc: L-rhamnose",
             "BiGG: rmn",
             "CornCyc: L-rhamnose",
@@ -11180,7 +11180,7 @@
         "abbreviation": "Li+",
         "abstract_compound": null,
         "aliases": [
-            "Name: Li+; lithium ion",
+            "Name: LITHIUM ION; Li(+); Li+; Lithium, ion (Li1+); lithium cation; lithium ion; lithium(1+); lithium(1+) ion; lithium(I) cation; lithium, ion",
             "AraCyc: LI+",
             "CornCyc: LI+",
             "EcoCyc: LI+",
@@ -11820,7 +11820,7 @@
         "abbreviation": "Limonene-1-2-epoxides",
         "abstract_compound": null,
         "aliases": [
-            "Name: Limonene-1-2-epoxides",
+            "Name: 1,2-epoxy-p-menth-8-ene; 1,2-epoxylimonene; 1-methyl-4-(prop-1-en-2-yl)-7-oxabicyclo[4.1.0]heptane; 4-isopropenyl-1-methyl-7-oxabicyclo[4.1.0]heptane; Limonene-1-2-epoxides; limonene 1,2-epoxide; limonene 1,2-oxide",
             "MetaCyc: Limonene-1-2-epoxides"
         ],
         "charge": 0,
@@ -12196,7 +12196,7 @@
         "abbreviation": "Long-Chain-Acyl-ACPs",
         "abstract_compound": null,
         "aliases": [
-            "Name: Long-Chain-Acyl-ACPs; Long-Chain-acyl-PpsAE; a fatty acyl-[acp]; a long-chain acyl-[acp]; a long-chain acyl-[acyl-carrier protein]; long-chain-fatty-acyl-MAS",
+            "Name: Long-Chain-Acyl-ACPs; Long-Chain-acyl-PpsAE; a fatty acyl-[ACP]; a fatty acyl-[acp]; a long-chain acyl-[acp]; a long-chain acyl-[acyl-carrier protein]; long-chain-fatty-acyl-MAS",
             "AraCyc: Long-Chain-Acyl-ACPs",
             "MetaCyc: Long-Chain-Acyl-ACPs; Long-Chain-acyl-PpsAE; long-chain-fatty-acyl-MAS",
             "PlantCyc: Long-Chain-Acyl-ACPs"
@@ -12673,6 +12673,7 @@
         "abbreviation": "MANDELONITRILE",
         "abstract_compound": null,
         "aliases": [
+            "Name: alpha-hydroxybenzeneacetonitrile; hydroxy(phenyl)acetonitrile; mandelic acid nitrile; mandelonitrile; phenylglycolonitrile",
             "BrachyCyc: MANDELONITRILE",
             "MetaCyc: MANDELONITRILE",
             "PlantCyc: MANDELONITRILE",
@@ -12704,7 +12705,7 @@
         "abbreviation": "D-mannitol, 1-(dihydrogenphosphate)",
         "abstract_compound": null,
         "aliases": [
-            "Name: D-Mannitol 1-phosphate; D-mannitol 1-phosphate; D-mannitol, 1-(dihydrogenphosphate); D-mannitol-1-phosphate; D-mannitol-6-phosphate; mannitol-1-P; mannitol-1-phosphate; mannitol-6-P",
+            "Name: 1-O-phosphonato-D-mannitol; D-Mannitol 1-phosphate; D-mannitol 1-phosphate; D-mannitol 1-phosphate dianion; D-mannitol, 1-(dihydrogenphosphate); D-mannitol-1-phosphate; D-mannitol-6-phosphate; mannitol-1-P; mannitol-1-phosphate; mannitol-6-P",
             "AraCyc: MANNITOL-1P",
             "BiGG: mnl1p",
             "BrachyCyc: MANNITOL-1P",
@@ -12946,7 +12947,7 @@
         "abbreviation": "MFR",
         "abstract_compound": null,
         "aliases": [
-            "Name: MFR; methanofuran a",
+            "Name: MFR; methanofuran; methanofuran a; methanofuranate tetraanion",
             "MetaCyc: METHANOFURAN"
         ],
         "charge": -4,
@@ -13155,7 +13156,7 @@
         "abbreviation": "3,5-diphosphomevalonate",
         "abstract_compound": null,
         "aliases": [
-            "Name: (R)-3,5-bisphosphomevalonate; (R)-mevalonate-3,5-bisphosphate; 3,5-diphosphomevalonate; D-ribulose-1,5-diphosphate; mevalonate-3,5-bisphosphate; mevalonate-35-dp; mevalonate-DP; mevalonate-bisphosphate",
+            "Name: (3R)-3-methyl-3,5-bis(phosphonatooxy)pentanoate; (R)-3,5-bisphosphomevalonate; (R)-mevalonate-3,5-bisphosphate; 3,5-diphosphomevalonate; D-ribulose-1,5-diphosphate; mevalonate-3,5-bisphosphate; mevalonate-35-dp; mevalonate-DP; mevalonate-bisphosphate",
             "MetaCyc: MEVALONATE-DP"
         ],
         "charge": -5,
@@ -13246,7 +13247,7 @@
         "abbreviation": "MIPC",
         "abstract_compound": null,
         "aliases": [
-            "Name: MIPC; mannosyl-inositol-phosphorylceramide",
+            "Name: MIPC; a mannosylinositol-1-phospho-N-acyl-sphingoid base; mannosyl-inositol-phosphorylceramide; mannosylinositol phosphorylceramide",
             "ChlamyCyc: MIPC",
             "MetaCyc: MIPC",
             "RiceCyc: MIPC",
@@ -14542,7 +14543,7 @@
         "abbreviation": "Menthones",
         "abstract_compound": null,
         "aliases": [
-            "Name: Menthones",
+            "Name: (2R,5S)-rel-5-methyl-2-(1-methylethyl)cyclohexanone; Menthones; menthone; rel-(1R,4S)-p-menthan-3-one; rel-(2R,5S)-2-isopropyl-5-methylcyclohexanone; rel-(2R,5S)-5-methyl-2-(propan-2-yl)cyclohexanone; trans-5-methyl-2-(1-methylethyl)cyclohexanone; trans-menthan-3-one; trans-menthone; trans-p-menthan-3-one",
             "MetaCyc: Menthones"
         ],
         "charge": 0,
@@ -16403,7 +16404,7 @@
         "abbreviation": "N-acetyl-L-tryptophan",
         "abstract_compound": null,
         "aliases": [
-            "Name: N-acetyl-L-tryptophan",
+            "Name: (2S)-2-acetamido-3-(1H-indol-3-yl)propanoate; N-acetyl-L-tryptophan",
             "MetaCyc: N-ACETYL-TRYPTOPHAN"
         ],
         "charge": -1,
@@ -16461,7 +16462,7 @@
         "abbreviation": "N-ACETYLNEURAMINATE",
         "abstract_compound": null,
         "aliases": [
-            "Name: 5-Acetamido-3,5-dideoxy-D-glycero-D-galacto-2-nonulosonic acid; N-ACETYLNEURAMINATE; N-Acetylneuraminate; N-Acetylneuraminic acid; Neu5Ac",
+            "Name: (4S,5R,6R,7S,8R)-5-acetamido-4,6,7,8,9-pentahydroxy-2-oxononanoate; 5-Acetamido-3,5-dideoxy-D-glycero-D-galacto-2-nonulosonic acid; 5-acetamido-3,5-dideoxy-D-galacto-non-2-ulopyranosonate; 5-acetamido-3,5-dideoxy-D-glycero-D-galacto-non-2-ulosonate; N-ACETYLNEURAMINATE; N-Acetylneuraminate; N-Acetylneuraminic acid; N-acetyl-keto-neuraminate; N-acetylneuraminate; Neu5Ac; Neu5Ac(1-); aceneuramate; sialate",
             "AraCyc: N-ACETYLNEURAMINATE",
             "BiGG: acnam",
             "BrachyCyc: N-ACETYLNEURAMINATE",
@@ -16787,7 +16788,7 @@
         "abbreviation": "N-Acylethanolamines",
         "abstract_compound": null,
         "aliases": [
-            "Name: N-Acylethanolamines",
+            "Name: N-Acylethanolamines; N-acylethanolamines; acylethanolamide; acylethanolamides; an N-acylethanolamine",
             "MetaCyc: N-Acylethanolamines"
         ],
         "charge": 0,
@@ -17588,6 +17589,7 @@
         "abbreviation": "N-acetyl-D-galactosamine",
         "abstract_compound": null,
         "aliases": [
+            "Name: D-GalNAc; WURCS=2.0/1,1,0/[a2112h-1x_1-5_2*NCC/3=O]/1/",
             "MetaCyc: N-acetyl-D-galactosamine"
         ],
         "charge": 0,
@@ -17617,7 +17619,7 @@
         "abbreviation": "N-acetyl-D-glucosamine",
         "abstract_compound": null,
         "aliases": [
-            "Name: 2-Acetamido-2-deoxy-D-glucose; GlcNAc; N-Acetyl-D-glucosamine; N-Acetylchitosamine",
+            "Name: 2-Acetamido-2-deoxy-D-glucose; 2-acetamido-2-deoxy-D-glucopyranose; GlcNAc; N-Acetyl-D-glucosamine; N-Acetylchitosamine; WURCS=2.0/1,1,0/[a2122h-1x_1-5_2*NCC/3=O]/1/",
             "AraCyc: N-acetyl-D-glucosamine",
             "BiGG: acgam",
             "CornCyc: N-acetyl-D-glucosamine",
@@ -17802,7 +17804,7 @@
         "abbreviation": "N-formyl-L-methionyl-tRNAfmet",
         "abstract_compound": null,
         "aliases": [
-            "Name: N-formyl-L-methionyl-tRNAfmet",
+            "Name: N-formyl-L-methionyl-tRNA(fMet); N-formyl-L-methionyl-tRNAfmet",
             "AraCyc: N-formyl-L-methionyl-tRNAfmet",
             "BrachyCyc: N-formyl-L-methionyl-tRNAfmet",
             "ChlamyCyc: N-formyl-L-methionyl-tRNAfmet",
@@ -18146,7 +18148,7 @@
         "abbreviation": "N3-methylcytosine",
         "abstract_compound": null,
         "aliases": [
-            "Name: N3-methylcytosine",
+            "Name: 3-methylcytosine; 6-amino-1-methylpyrimidin-2(1H)-one; N3-methylcytosine",
             "EcoCyc: N3-METHYLCYTOSINE",
             "MetaCyc: N3-METHYLCYTOSINE"
         ],
@@ -20019,7 +20021,7 @@
         "abbreviation": "O-Acyl-L-Carnitines",
         "abstract_compound": null,
         "aliases": [
-            "Name: O-Acyl-L-Carnitines",
+            "Name: O-Acyl-L-Carnitines; O-acyl-(R)-carnitine; O-acyl-(R)-carnitines; O-acyl-L-carnitines",
             "CornCyc: O-Acyl-L-Carnitines",
             "MetaCyc: O-Acyl-L-Carnitines"
         ],
@@ -22951,7 +22953,7 @@
         "abbreviation": "phosphatidylethanolamine-KDO2-lipidA",
         "abstract_compound": null,
         "aliases": [
-            "Name: 7-O-[2-aminoethoxy(hydroxy)phosphoryl]-alpha-D-Kdo-(2->4)-alpha-D-Kdo-(2->6)-lipid IVA; phosphatidylethanolamine-KDO2-lipidA; phosphatidylethanolamine-Kdo2-lipid IVA",
+            "Name: 7-O-[(2-azaniumylethoxy)phosphinato]-3-deoxy-alpha-D-manno-oct-2-ulopyranonosyl-(2->4)-3-deoxy-alpha-D-manno-oct-2-ulopyranonosyl-(2->6)-2-deoxy-3-O-[(3R)-3-hydroxytetradecanoyl]-2-{[(3R)-3-hydroxytetradecanoyl]amino}-4-O-phosphonato-beta-D-glucopyranosyl-(1->6)-2-deoxy-3-O-[(3R)-3-hydroxytetradecanoyl]-2-{[(3R)-3-hydroxytetradecanoyl]amino}-1-O-phosphonato-alpha-D-glucopyranose; 7-O-[2-aminoethoxy(hydroxy)phosphoryl]-alpha-D-Kdo-(2->4)-alpha-D-Kdo-(2->6)-lipid IVA; 7-O-[2-aminoethoxy(hydroxy)phosphoryl]-alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-lipid IVA; phosphatidylethanolamine-KDO2-lipidA; phosphatidylethanolamine-Kdo2-lipid IVA",
             "EcoCyc: PHOSPHATIDYLETHANOLAMINE-KDO2",
             "MetaCyc: PHOSPHATIDYLETHANOLAMINE-KDO2"
         ],
@@ -23069,7 +23071,7 @@
         "abbreviation": "phytosphingosine-1-P",
         "abstract_compound": null,
         "aliases": [
-            "Name: (2S,3S,4R)-2-ammonio-3,4-dihydroxyoctadecyl phosphate; phytosphingosine 1-phosphate; phytosphingosine-1-P",
+            "Name: (2S,3S,4R)-2-ammonio-3,4-dihydroxyoctadecyl phosphate; (2S,3S,4R)-2-azaniumyl-3,4-dihydroxyoctadecyl phosphate; (4R)-hydroxysphinganine 1-phosphate; phytosphingosine 1-phosphate; phytosphingosine-1-P",
             "AraCyc: PHTYOSPHINGOSINE-1-P",
             "BrachyCyc: PHTYOSPHINGOSINE-1-P",
             "ChlamyCyc: PHTYOSPHINGOSINE-1-P",
@@ -23131,7 +23133,7 @@
         "abbreviation": "PLASTOQUINOL-1",
         "abstract_compound": null,
         "aliases": [
-            "Name: Plastoquinol A; Plastoquinol-9; Plastoquinols; plastoquinol-9",
+            "Name: (all-E)-2,3-dimethyl-5-(3,7,11,15,19,23,27,31,35-nonamethyl-2,6,10,14,18,22,26,30,34-hexatricontanonaenyl)-1,4-benzenediol; 2,3-dimethyl-5-[(2E,6E,10E,14E,18E,22E,26E,30E)-3,7,11,15,19,23,27,31,35-nonamethylhexatriaconta-2,6,10,14,18,22,26,30,34-nonaen-1-yl]benzene-1,4-diol; Plastoquinol A; Plastoquinol-9; Plastoquinols; plastoquinol; plastoquinol-9",
             "AraCyc: CPD-12829; PLASTOQUINOL-1",
             "BrachyCyc: PLASTOQUINOL-1",
             "ChlamyCyc: PLASTOQUINOL-1",
@@ -23165,7 +23167,7 @@
         "abbreviation": "PLASTOQUINONE",
         "abstract_compound": null,
         "aliases": [
-            "Name: PLASTOQUINONE; Plastoquinone A; Plastoquinone-9; plastoquinone-9",
+            "Name: (all-E)-2,3-dimethyl-5-(3,7,11,15,19,23,27,31,35-nonamethyl-2,6,10,14,18,22,26,30,34-hexatricontanonaenyl)-2,5-cyclohexadiene-1-4-dione; 2,3-dimethyl-5-(solanesyl)-1,4-benzoquinone; 2,3-dimethyl-5-[(2E,6E,10E,14E,18E,22E,26E,30E)-3,7,11,15,19,23,27,31,35-nonamethylhexatriaconta-2,6,10,14,18,22,26,30,34-nonaen-1-yl]cyclohexa-2,5-diene-1,4-dione; Kofler's quinone; PLASTOQUINONE; PQ-9; Plastoquinone A; Plastoquinone-9; plastoquinone 45; plastoquinone A; plastoquinone-9",
             "AraCyc: PLASTOQUINONE",
             "BrachyCyc: PLASTOQUINONE",
             "ChlamyCyc: PLASTOQUINONE; PLASTOQUINONE-9",
@@ -23461,7 +23463,7 @@
         "abbreviation": "pristanate",
         "abstract_compound": null,
         "aliases": [
-            "Name: pristanate; pristanic-acid",
+            "Name: 2,6,10,14-tetramethylpentadecanoate; pristanate; pristanic-acid",
             "MetaCyc: PRISTANATE"
         ],
         "charge": -1,
@@ -23607,7 +23609,7 @@
         "abbreviation": "propanamide",
         "abstract_compound": null,
         "aliases": [
-            "Name: propanamide; propanimidic acid; propionamide; propionic amide; propionimidic acid; propylamide",
+            "Name: PROPIONAMIDE; Propanimidic acid; Propionic acid amide; Propionic amide; Propionimidic acid; Propylamide; n-propionic amide; propanamide; propanimidic acid; propionamide; propionic amide; propionimidic acid; propylamide",
             "MetaCyc: PROPIONAMIDE"
         ],
         "charge": 0,
@@ -24624,7 +24626,7 @@
         "abbreviation": "Perillyl-Alcohols",
         "abstract_compound": null,
         "aliases": [
-            "Name: Perillyl-Alcohols",
+            "Name: 1-Hydroxymethyl-4-isopropenyl-1-cyclohexene; 1-perillalcohol; 4-(1-Methylethenyl)-1-cyclohexene-1-methanol; 4-Isopropenyl-1-cyclohexene carbinol; 4-Isopropenylcyclohex-1-en-1-ylmethanol; Isocarveol; Perilla alcohol; Perillol; Perillyl-Alcohols; [4-(prop-1-en-2-yl)cyclohex-1-en-1-yl]methanol; dihydrocuminyl alcoholn; perillyl alcohol",
             "MetaCyc: Perillyl-Alcohols",
             "PlantCyc: Perillyl-Alcohols"
         ],
@@ -25496,7 +25498,7 @@
         "abbreviation": "Phytoceramides",
         "abstract_compound": null,
         "aliases": [
-            "Name: Phytoceramides",
+            "Name: N-acylphytosphingosine; N-acylphytosphingosines; Phytoceramides; a phytoceramide; phytoceramides",
             "AraCyc: Phytoceramides",
             "BrachyCyc: Phytoceramides",
             "ChlamyCyc: Phytoceramides",
@@ -28922,7 +28924,7 @@
         "abbreviation": "Purine-Bases",
         "abstract_compound": null,
         "aliases": [
-            "Name: Purine-Bases",
+            "Name: Purine-Bases; a purine nucleobase; purine bases; purine nucleobase; purine nucleobases",
             "ChlamyCyc: Purine-Bases",
             "EcoCyc: Purine-Bases",
             "MaizeCyc: Purine-Bases",

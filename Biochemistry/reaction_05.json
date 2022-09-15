@@ -10848,7 +10848,7 @@
         ],
         "pathways": null,
         "reversibility": ">",
-        "source": "Orphan",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -11033,7 +11033,7 @@
         ],
         "pathways": null,
         "reversibility": ">",
-        "source": "Secondary Database",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -11679,7 +11679,7 @@
         ],
         "pathways": null,
         "reversibility": "?",
-        "source": "Secondary Database",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -11770,7 +11770,7 @@
         ],
         "pathways": null,
         "reversibility": ">",
-        "source": "Secondary Database",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -12051,7 +12051,7 @@
         ],
         "pathways": null,
         "reversibility": ">",
-        "source": "Secondary Database",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -12329,7 +12329,7 @@
         ],
         "pathways": null,
         "reversibility": ">",
-        "source": "Secondary Database",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -12971,7 +12971,7 @@
         ],
         "pathways": null,
         "reversibility": ">",
-        "source": "Secondary Database",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -13780,7 +13780,7 @@
         ],
         "pathways": null,
         "reversibility": ">",
-        "source": "Published Model",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -15333,7 +15333,7 @@
         ],
         "pathways": null,
         "reversibility": "=",
-        "source": "Secondary Database",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -15668,7 +15668,7 @@
         ],
         "pathways": null,
         "reversibility": "?",
-        "source": "Orphan",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -16195,7 +16195,7 @@
         ],
         "pathways": null,
         "reversibility": "=",
-        "source": "Orphan",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -17099,7 +17099,7 @@
         ],
         "pathways": null,
         "reversibility": "=",
-        "source": "Secondary Database",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -18223,7 +18223,7 @@
         ],
         "pathways": null,
         "reversibility": "=",
-        "source": "Secondary Database",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -21173,7 +21173,7 @@
         ],
         "pathways": null,
         "reversibility": "=",
-        "source": "Secondary Database",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -21720,7 +21720,7 @@
         ],
         "pathways": null,
         "reversibility": "?",
-        "source": "Secondary Database",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -21786,7 +21786,7 @@
         ],
         "pathways": null,
         "reversibility": "=",
-        "source": "Secondary Database",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -22052,7 +22052,7 @@
         ],
         "pathways": null,
         "reversibility": "=",
-        "source": "Secondary Database",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -34465,7 +34465,7 @@
         ],
         "pathways": null,
         "reversibility": "=",
-        "source": "Secondary Database",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -35270,7 +35270,7 @@
         ],
         "pathways": null,
         "reversibility": "=",
-        "source": "Secondary Database",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -35337,7 +35337,7 @@
         ],
         "pathways": null,
         "reversibility": ">",
-        "source": "Published Model",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -38885,7 +38885,7 @@
         ],
         "pathways": null,
         "reversibility": ">",
-        "source": "Published Model",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -40552,7 +40552,7 @@
         ],
         "pathways": null,
         "reversibility": "=",
-        "source": "Secondary Database",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -41069,7 +41069,7 @@
         ],
         "pathways": null,
         "reversibility": "?",
-        "source": "Secondary Database",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -41262,7 +41262,7 @@
         ],
         "pathways": null,
         "reversibility": "=",
-        "source": "Secondary Database",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -42492,7 +42492,7 @@
         ],
         "pathways": null,
         "reversibility": "=",
-        "source": "Secondary Database",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -44660,7 +44660,7 @@
         ],
         "pathways": null,
         "reversibility": "=",
-        "source": "Secondary Database",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -44927,7 +44927,7 @@
         ],
         "pathways": null,
         "reversibility": "=",
-        "source": "Secondary Database",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -45792,7 +45792,7 @@
         ],
         "pathways": null,
         "reversibility": "=",
-        "source": "Secondary Database",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -46875,7 +46875,7 @@
         ],
         "pathways": null,
         "reversibility": "=",
-        "source": "Orphan",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -46941,7 +46941,7 @@
         ],
         "pathways": null,
         "reversibility": "=",
-        "source": "Secondary Database",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -49155,7 +49155,7 @@
         ],
         "pathways": null,
         "reversibility": "=",
-        "source": "Secondary Database",
+        "source": "Primary Database",
         "status": "OK",
         "stoichiometry": [
             {
@@ -59651,7 +59651,7 @@
         ],
         "pathways": null,
         "reversibility": "?",
-        "source": "Orphan",
+        "source": "Primary Database",
         "status": "MI:H:-2/N:-1/R:-1",
         "stoichiometry": [
             {
@@ -64810,7 +64810,7 @@
         ],
         "pathways": null,
         "reversibility": "?",
-        "source": "Orphan",
+        "source": "Primary Database",
         "status": "MI:C:10/H:15|CI:-1",
         "stoichiometry": [
             {
